@@ -1,11 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-08-20T09:09:58.762Z
-# Segment: aa (1/6) | Entries in this file: 30000 | Total in full list: 157342
+# Generated: 2026-08-20T15:13:02.346Z
+# Segment: aa (1/6) | Entries in this file: 30000 | Total in full list: 157139
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
-#   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0 | 157342 entries | OK
+#   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
+#     157139 valid, 157139 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -2143,6 +2144,7 @@
 4vqqxl.isogransoutheurope.eu
 4vrecdsxcs.site
 4vz7xmk.qpon
+4w0fsqb.pics
 4w6t3r3.top
 4w6t3yf.sbs
 4walls.ro
@@ -2658,7 +2660,6 @@
 6853xwp.ink
 68590421.xyz
 6879271.mom
-68793154.xyz
 688162961.rest
 6881c0.icefactory.cl
 688945.lat
@@ -3018,7 +3019,6 @@
 77gamesup.top
 78019362.xyz
 7802zpo.top
-78153406.xyz
 781745927.lat
 78194026.xyz
 78264093.xyz
@@ -3179,7 +3179,6 @@
 810602105.icu
 81065247.xyz
 81079453.xyz
-81274395.xyz
 81397024.xyz
 81429828x81.biz
 81502497.xyz
@@ -3992,6 +3991,7 @@ a-millenium.pl
 a-novobanco.com
 a-ofeta54354.cfd
 a-otomotiv.com
+a-pdtk.com
 a-sexpress.com
 a-teamallbills.vev.site
 a-tomic.wixstudio.com
@@ -4082,6 +4082,7 @@ a7h9v3.lat
 a7k9c1.sbs
 a7p2y1.cfd
 a7p9n8.cfd
+a7v3n8m1x6q2k9r4dc.live
 a7wkzx.help
 a7wkzx.site
 a7wkzx.wiki
@@ -4630,7 +4631,6 @@ account.msauth.live
 account.notipoland.com
 account.permanent.vu
 account.pointlanen.com
-account.renewals.courses
 account.service-check.top
 account.telecoms.vu
 account.universalprimel.online
@@ -5120,7 +5120,6 @@ adigeydoviz.com
 adihonpa.com
 adio-dt.space
 adipexai.net
-adirondackwild.com
 adishudioth.store
 adistill.com
 aditivosforte.com
@@ -5876,7 +5875,6 @@ aialphatradersoftware.com
 aiandacademia.com
 aiandtechnology.com
 aiaoren.com
-aiapi.work
 aiapp-flex-pl.com
 aiapp-pl-power.com
 aiapp-pl-profit.com
@@ -6245,15 +6243,10 @@ aiebilet.pl-971895681.cyou
 aiebilet.pl-98175142.cyou
 aiebilet.pl-983243.sbs
 aiebilet.pl-984523.sbs
-aiebilet.pl-aukcja651851.cfd
-aiebilet.pl-aukcja68914.cfd
-aiebilet.pl-aukcja95478124.cfd
-aiebilet.pl-aukcja957813.cfd
 aiebilet.pl-aukcja958912.best
 aiebilet.pl-aukcja968942.sbs
 aiebilet.pl-hbauv.sbs
 aiebilet.pl-kategoria94781.sbs
-aiebilet.pl-kategoria9578124.cfd
 aiebilet.pl-m8s8f.click
 aiebilet.pl-oferta03116876.shop
 aiebilet.pl-oferta21857139.shop
@@ -9032,10 +9025,6 @@ alebilet.pl-aukcja291394321.sbs
 alebilet.pl-aukcja4214.pl
 alebilet.pl-aukcja483289561.cfd
 alebilet.pl-aukcja6235.pl
-alebilet.pl-aukcja651851.cfd
-alebilet.pl-aukcja68914.cfd
-alebilet.pl-aukcja95478124.cfd
-alebilet.pl-aukcja957813.cfd
 alebilet.pl-aukcja958912.best
 alebilet.pl-aukcja968942.sbs
 alebilet.pl-bajbnno62624zamowienie72682nssfghjkk.biz
@@ -9081,7 +9070,6 @@ alebilet.pl-kategoria74857127495823.cfd
 alebilet.pl-kategoria794539473.bond
 alebilet.pl-kategoria942357443.click
 alebilet.pl-kategoria94781.sbs
-alebilet.pl-kategoria9578124.cfd
 alebilet.pl-kategorie-id-192382.sbs
 alebilet.pl-kdsa23sbs.shop
 alebilet.pl-kosiarka837489172.sbs
@@ -9089,7 +9077,6 @@ alebilet.pl-kup.icu
 alebilet.pl-kupteraz83421957.info
 alebilet.pl-kupteraz88328192.online
 alebilet.pl-ld8382929.click
-alebilet.pl-lllwhhsso01827633manssbddhsgg9029263lahehsbsnn56448544.sbs
 alebilet.pl-m8s8f.click
 alebilet.pl-narzedzia8317282451.sbs
 alebilet.pl-odbior-platnosci-7321.click
@@ -9946,7 +9933,6 @@ alexoai.live
 alexoai.pro
 alexpowersart.com
 alexpressglodal.cam
-alexthompson.tech
 alexwatt.shop
 alfaiomega.appleenespanol.com
 alfajrapparel.com
@@ -10002,6 +9988,7 @@ algoswone.live
 algotextil.com.br
 algotradegpt.net
 algovista.site
+algowaremap.site
 alhafezonline.com
 alhaidertrading.site
 alhambracafe.ch
@@ -10480,15 +10467,10 @@ allebilet.pl-971895681.cyou
 allebilet.pl-98175142.cyou
 allebilet.pl-983243.sbs
 allebilet.pl-984523.sbs
-allebilet.pl-aukcja651851.cfd
-allebilet.pl-aukcja68914.cfd
-allebilet.pl-aukcja95478124.cfd
-allebilet.pl-aukcja957813.cfd
 allebilet.pl-aukcja958912.best
 allebilet.pl-aukcja968942.sbs
 allebilet.pl-hbauv.sbs
 allebilet.pl-kategoria94781.sbs
-allebilet.pl-kategoria9578124.cfd
 allebilet.pl-m8s8f.click
 allebilet.pl-oferta03116876.shop
 allebilet.pl-oferta21857139.shop
@@ -11802,6 +11784,7 @@ allegro.4034713985634.shop
 allegro.403773.pl
 allegro.40399oefiiu.shop
 allegro.409184937439.shop
+allegro.41020129g8g.lat
 allegro.41231hh66.pl
 allegro.412734.click
 allegro.415673.pl
@@ -13677,10 +13660,6 @@ allegro.pl-aukcja291394321.sbs
 allegro.pl-aukcja4214.pl
 allegro.pl-aukcja483289561.cfd
 allegro.pl-aukcja6235.pl
-allegro.pl-aukcja651851.cfd
-allegro.pl-aukcja68914.cfd
-allegro.pl-aukcja95478124.cfd
-allegro.pl-aukcja957813.cfd
 allegro.pl-aukcja958912.best
 allegro.pl-aukcja968942.sbs
 allegro.pl-bajbnno62624zamowienie72682nssfghjkk.biz
@@ -13738,14 +13717,12 @@ allegro.pl-kategoria74857127495823.cfd
 allegro.pl-kategoria794539473.bond
 allegro.pl-kategoria942357443.click
 allegro.pl-kategoria94781.sbs
-allegro.pl-kategoria9578124.cfd
 allegro.pl-kategorie-id-192382.sbs
 allegro.pl-kdsa23sbs.shop
 allegro.pl-kosiarka837489172.sbs
 allegro.pl-kupteraz83421957.info
 allegro.pl-kupteraz88328192.online
 allegro.pl-ld8382929.click
-allegro.pl-lllwhhsso01827633manssbddhsgg9029263lahehsbsnn56448544.sbs
 allegro.pl-lokalna-ofeta5.shop
 allegro.pl-m2.shop
 allegro.pl-m8s8f.click
@@ -15019,15 +14996,11 @@ allegrolokainie.pl-98175142.cyou
 allegrolokainie.pl-983243.sbs
 allegrolokainie.pl-984523.sbs
 allegrolokainie.pl-984952.cfd
-allegrolokainie.pl-aukcja651851.cfd
-allegrolokainie.pl-aukcja68914.cfd
 allegrolokainie.pl-aukcja95478124.cfd
-allegrolokainie.pl-aukcja957813.cfd
 allegrolokainie.pl-aukcja958912.best
 allegrolokainie.pl-aukcja968942.sbs
 allegrolokainie.pl-hbauv.sbs
 allegrolokainie.pl-kategoria94781.sbs
-allegrolokainie.pl-kategoria9578124.cfd
 allegrolokainie.pl-m8s8f.click
 allegrolokainie.pl-oferta03116876.shop
 allegrolokainie.pl-oferta21857139.shop
@@ -15505,15 +15478,10 @@ allegrolokalne.pl-971895681.cyou
 allegrolokalne.pl-98175142.cyou
 allegrolokalne.pl-983243.sbs
 allegrolokalne.pl-984523.sbs
-allegrolokalne.pl-aukcja651851.cfd
-allegrolokalne.pl-aukcja68914.cfd
-allegrolokalne.pl-aukcja95478124.cfd
-allegrolokalne.pl-aukcja957813.cfd
 allegrolokalne.pl-aukcja958912.best
 allegrolokalne.pl-aukcja968942.sbs
 allegrolokalne.pl-hbauv.sbs
 allegrolokalne.pl-kategoria94781.sbs
-allegrolokalne.pl-kategoria9578124.cfd
 allegrolokalne.pl-m8s8f.click
 allegrolokalne.pl-oferta03116876.shop
 allegrolokalne.pl-oferta21857139.shop
@@ -16094,7 +16062,6 @@ allegrolokalnie.37402930.xyz
 allegrolokalnie.37489249.xyz
 allegrolokalnie.3748928.xyz
 allegrolokalnie.378210.pl
-allegrolokalnie.38139fs72.sbs
 allegrolokalnie.38238.cfd
 allegrolokalnie.382537328.cfd
 allegrolokalnie.382839j56.shop
@@ -19712,8 +19679,6 @@ allegrolokalnie.pl-aukcja291394321.sbs
 allegrolokalnie.pl-aukcja4214.pl
 allegrolokalnie.pl-aukcja483289561.cfd
 allegrolokalnie.pl-aukcja6235.pl
-allegrolokalnie.pl-aukcja651851.cfd
-allegrolokalnie.pl-aukcja68914.cfd
 allegrolokalnie.pl-aukcja74285912.surf
 allegrolokalnie.pl-aukcja77107.icu
 allegrolokalnie.pl-aukcja771602.icu
@@ -19723,8 +19688,6 @@ allegrolokalnie.pl-aukcja910250.icu
 allegrolokalnie.pl-aukcja910762.icu
 allegrolokalnie.pl-aukcja919111.icu
 allegrolokalnie.pl-aukcja91960.icu
-allegrolokalnie.pl-aukcja95478124.cfd
-allegrolokalnie.pl-aukcja957813.cfd
 allegrolokalnie.pl-aukcja958912.best
 allegrolokalnie.pl-aukcja968942.sbs
 allegrolokalnie.pl-bajbnno62624zamowienie72682nssfghjkk.biz
@@ -19792,6 +19755,7 @@ allegrolokalnie.pl-firmoweallegro.sbs
 allegrolokalnie.pl-fundusze.sbs
 allegrolokalnie.pl-g05.cfd
 allegrolokalnie.pl-h2l72.shop
+allegrolokalnie.pl-h4425287362627oferta99282662838.site
 allegrolokalnie.pl-h77352715291oferta9272529363.site
 allegrolokalnie.pl-hbauv.sbs
 allegrolokalnie.pl-i.shop
@@ -19844,7 +19808,6 @@ allegrolokalnie.pl-kategoria74857127495823.cfd
 allegrolokalnie.pl-kategoria794539473.bond
 allegrolokalnie.pl-kategoria942357443.click
 allegrolokalnie.pl-kategoria94781.sbs
-allegrolokalnie.pl-kategoria9578124.cfd
 allegrolokalnie.pl-kategorie-id-192382.sbs
 allegrolokalnie.pl-kategorie-id-19837939.cfd
 allegrolokalnie.pl-kategorie-polecane-25967.sbs
@@ -19873,7 +19836,6 @@ allegrolokalnie.pl-ld100211.cfd
 allegrolokalnie.pl-ld2100200.cfd
 allegrolokalnie.pl-ld51000200.cfd
 allegrolokalnie.pl-ld8382929.click
-allegrolokalnie.pl-lllwhhsso01827633manssbddhsgg9029263lahehsbsnn56448544.sbs
 allegrolokalnie.pl-lokalna-ofeta5.shop
 allegrolokalnie.pl-lokalnie92.shop
 allegrolokalnie.pl-m.xyz
@@ -20199,7 +20161,6 @@ allegrolokalnie.pl-oferta47735629.sbs
 allegrolokalnie.pl-oferta477356299.cfd
 allegrolokalnie.pl-oferta47735948.sbs
 allegrolokalnie.pl-oferta4797997.click
-allegrolokalnie.pl-oferta481924.sbs
 allegrolokalnie.pl-oferta48204004.click
 allegrolokalnie.pl-oferta4821721.click
 allegrolokalnie.pl-oferta48340234.click
@@ -22042,7 +22003,6 @@ alwaystheartist.com
 alwaysudpate.fun
 alwdjwuqam.lol
 alwiy.com
-alxedo.info
 alxii.com
 alxrii.com
 alxrogan.org
@@ -22090,7 +22050,6 @@ amaranthine-knit.shop
 amardoctor.info
 amarifirmdynamic-concepts.com
 amarilogroup.com
-amarisskye.art
 amarondvelt.top
 amarostrategies.info
 amarthome.shop
@@ -22110,7 +22069,6 @@ amazeproonline.wixstudio.com
 amazing-products-543606.framer.app
 amazingin.com
 amazingnews.pro
-amazingtv.us
 amazingwhere.glassflip.com
 amazingy.mom
 amazon-ae-relay.apps.prov.cx
@@ -22213,6 +22171,7 @@ ambleford.eu
 ambonporte.cyou
 ambrerivuo.rest
 ambriellenovairex.net
+ambrosiarestaurant.site
 ambruso.org
 ambulallnces.info
 ambulbourg.autos
@@ -22270,7 +22229,6 @@ americanflyfishingtravel.com
 americangreetings.net
 americanmettleart.com
 americanphonelust.link
-americansoftware.company
 americantrench.live
 americanyouthpatriotsacademy.org
 americaroofco.com
@@ -23793,7 +23751,6 @@ arbitroxtrade.com
 arbivatai.net
 arbivex.shop
 arbivise-de.com
-arbolquinta.info
 arboost.xyz
 arboplace.com
 arbora-circuit.com
@@ -23907,7 +23864,6 @@ ardentvelmora-ai.com
 ardevorn.live
 ardexon.net
 ardeylunivo.info
-ardhitopramono.com
 ardiarioactual.com
 ardique.xyz
 ardisculin.cyou
@@ -23942,7 +23898,6 @@ areseachtrust.org
 arespb.info
 arethceler.rest
 aretooc.xyz
-arewecookedyet.chat
 arfsarfs.shop
 argefinpro.digital
 argenconve.cyou
@@ -24848,7 +24803,6 @@ atgapprenticeships.com
 athanorcore52i.digital
 atheistz.com
 athenaotel.com
-athenaravencoach.online
 athenarebel.space
 athenasdogcafe.com
 athenawebs.com
@@ -25041,6 +24995,7 @@ atualizarpjnegocios1.digital
 atualizartaaxa.online
 atualizartarifasnovas.online
 atualizartaxas.co
+atualizartaxas.lat
 atualizartaxasnv.co
 atualizartaxasnv.online
 atualizartopaznet.digital
@@ -25590,7 +25545,6 @@ authsusngwd0c34748dhbdr673hndy73if5revssharepoint.cscllccmo.com
 authverify.tech
 authyrlpio.site
 autismjobclubs.com
-autisticbricksreview.com
 autisticbridge.com
 auto-abmelden.com
 auto-aiapp-pl.com
@@ -25717,7 +25671,6 @@ auydgqty.shop
 av1.6f8.mytemp.website
 av8.a5syer.lat
 av84ariciousneppsses.info
-ava01.xyz
 avaccsella.cyou
 availa-zmc.com
 availabledomainnames.org
@@ -26082,6 +26035,7 @@ axonlytics.site
 axonme.cc
 axonmeter.site
 axonpress23.site
+axonzemode.site
 axopedoute.cyou
 axorindexotrade.de
 axpoholdingtrade.de
@@ -27067,7 +27021,6 @@ barnmtromb.cyou
 barnstaplefield.eu
 barnwoodandco.com
 baronihali.com
-barons.scot
 baronstil.shop
 baronvaultholm.net
 barossa-wealthwick-ai.com
@@ -27190,6 +27143,7 @@ basoplevit.cyou
 bassergabaeerdines.info
 bassfishingaddictions.com
 basssup.shop
+basstroi.ru
 bastamedia.cyou
 bastemur.com
 bastioncapridge.pro
@@ -27459,7 +27413,6 @@ beam-arc.com
 beam-purse.com
 beamgridup.info
 beamhold.processcontrol2ia.com
-beammofux.click
 beamqinc.com
 beamres.gamesinitiative.com
 beamwavenet.site
@@ -28050,7 +28003,6 @@ besiktas.store
 besiktasgunlukkiralik.com
 besincikat.net
 besiswamaswaloxbw.info
-beskiddigital7.digital
 beslaembro.cyou
 besoveixi.autos
 bespaar-slim.com
@@ -28824,7 +28776,6 @@ binkowski.pro
 binmom.com
 binneserver.com
 binngc.wixstudio.com
-binnie.casa
 binnmestersidetracks.info
 binocularlylowlanderuus.info
 binplosrafen.info
@@ -28898,6 +28849,7 @@ biotechusasale.shop
 bioterya.com
 biothalassa.com
 biotinapar.com
+biotkernjam.site
 biotpilot.site
 biotrepozen.site
 bioturbationhorizon.cfd
@@ -28956,6 +28908,7 @@ birikimfonculuk.net
 biriney.com
 birkalem.shop
 birkbeck4palestine.org
+birkegewinnstein.net
 birkekapithorn-de.live
 birkekapithorn.live
 birken-pl.online
@@ -29455,7 +29408,6 @@ bixprofixs.live
 bixprofixsystem.pro
 bixprofixtrade.com
 biyoistatistikci.net
-biyotron.biz
 bizboombroonline-magazasi.com
 bizehou.com
 bizfreshfef.pro
@@ -29747,6 +29699,7 @@ blendedunde.click
 blendonthegoshop.com
 bleneostiq.xyz
 blentari.click
+blenvor.shop
 blephnovel.cyou
 blepiwratiko24.today
 blerktuvion-de.live
@@ -29813,6 +29766,7 @@ blithub.top
 blitmetrane.site
 blitscope.site
 blitsense.site
+blitstreamn.site
 blitsync.site
 blitzzing.info
 blixom-gear.com
@@ -30013,3 +29967,50 @@ blueherondump.top
 bluehorizon.click
 bluehousefurniture.com
 bluehrrworizon.shop
+bluejay.agency
+bluelemonhost.com
+bluelsteam.johncottingham.com
+bluemnkey.com
+bluenazparts.com
+bluenetwor.com
+bluenile.mom
+blueobst.i-diplomer.com
+blueopeneac.pro
+blueorion-ai.com
+blueoriontrade.com
+bluepage-getbadgefree.com
+bluepalmconsulting.net
+bluepars.com
+bluepars.tech
+bluepetalpath.info
+blueplanetlearning.com
+bluepoolgroup.com
+blueprintsrub.tprpga.com
+blueprintsy.com
+blueq-soft.com
+blueq-system.com
+bluequarry.eu
+bluequartzcraft.info
+bluequbitai.pro
+bluer-trader.icu
+blueraventy.info
+blueschiphol.info
+blueschist.cfd
+blueserv.eliasmurray.com
+blueshiftbiotechnology.com
+blueskiestrader.com
+blueskylivingltd.com
+blueskyy.info
+bluesoilwing.pro
+bluestarofertas.com
+bluestoneluxent-system.com
+bluetickmanufacturkke.info
+bluetulipcrochet.com
+bluevaultddexeris.live
+bluevaultddexeris.org
+bluevaultdexeris-ai.com
+bluevaultdexeristech.com
+bluevetlounge.com
+bluevibe.online
+bluevunge.click
+bluewall-revobit.live
