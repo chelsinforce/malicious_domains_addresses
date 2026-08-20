@@ -1,5 +1,5 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-08-20T09:00:29.920Z
+# Generated: 2026-08-20T09:09:58.762Z
 # Entries: 157342
 # Update frequency: every 6 hours
 #
@@ -8,7 +8,8 @@
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
-# This is a mirror: the file is fully regenerated at each run.
+# This is a mirror: every file is fully regenerated at each run.
+# Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
 0-ilxrc-w285.p9bckp.sbs
