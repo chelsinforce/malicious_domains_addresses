@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-08-23T04:05:50.240Z
-# Segment: af (6/6) | Entries in this file: 6925 | Total in full list: 156925
+# Generated: 2026-08-23T10:05:50.280Z
+# Segment: af (6/6) | Entries in this file: 6934 | Total in full list: 156934
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     156925 valid, 156925 new after dedup | OK
+#     156934 valid, 156934 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,6 +14,14 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+www.michaelleib.shop
+www.michaelwolf.shop
+www.michelcamus.shop
+www.michelleking.shop
+www.michelpaquet.shop
+www.michelweil.shop
+www.micrororosoft365.com
+www.mifenglj.com
 www.migly.in
 www.mijn.overheid.nl.bc1qd0tj9m0hul7xgsec50swz8myzkf4ukgu6j3urh.solucionatica.com.br
 www.mijn.overheid.nl.berichtenbox.l1tjxkgmdqghekubdurkea68msnzfea6kx1u2q2s9pwpvurkzexb.luizmatoso.com.br
@@ -183,6 +191,7 @@ www.newrock-sklep.club
 www.news-carte-biometrie.com
 www.newsbreakexpress.com
 www.newsfin.live
+www.newsinvest.online
 www.nexuswflow.shop
 www.niessle.shop
 www.nise-test.com
@@ -552,6 +561,7 @@ www.porterisaac.shop
 www.posrg.ca
 www.postafvg.eu
 www.postbg-tracks.com
+www.postfinancesuisse.com
 www.postfix-dns.com
 www.pows-of-japan.net
 www.poyablias.com
@@ -732,6 +742,7 @@ www.roblox.com.bi
 www.roblox.com.bn
 www.roblox.com.et
 www.roblox.com.gr
+www.roblox.com.kz
 www.roblox.com.ml
 www.roblox.com.mu
 www.roblox.com.pt
@@ -806,9 +817,9 @@ www.sawayolinepl.com
 www.sawayuroda-pl.xyz
 www.sayoga.club
 www.scadlockelinor.shop
-www.scarlettscorner.site
 www.scforum.jp
 www.schonefoods.com
+www.schwabverifyme.com
 www.scissoron.com
 www.scufferpolskas.com
 www.scuffershoodiepoland.com
@@ -1180,7 +1191,6 @@ www.trendshoppingzone.shop
 www.trendzonepl.shop
 www.trevoro.shop
 www.trezcr-live.com
-www.trezor.bid
 www.trezorhelprepair.com
 www.trinetrayogashala.com
 www.tripadvisor.pre-approved-83945n.live
@@ -1390,7 +1400,6 @@ www.welsun.pl
 www.weps.org
 www.wetrl-file18273892.viewf-sso827362.online
 www.wfruichen.com
-www.whatsann.com
 www.whatsappvips.com
 www.whimsydream.com
 www.whitehannah.shop
@@ -1427,7 +1436,6 @@ www.x2-okx.com
 www.xaurumcoin.shop
 www.xbtes.top
 www.xevonix.shop
-www.xfinityrefunds.com
 www.xiaovips.com
 www.xkfkjshdkf.shop
 www.xlxyxf.com
@@ -2186,7 +2194,6 @@ xezoqay.pro
 xezuri.com
 xfbeh.com
 xfetchc.revoluiton.com
-xfimnityservice-dpy0o9mwip0d.edgeone.dev
 xfinitialya.jumpingcrab.com
 xfinity-parental-controls.com
 xfinity.payment-profile.info
@@ -4231,6 +4238,7 @@ ytterdisav.cyou
 yttrcurveoj.site
 yttrgyre.site
 yttrjumpag.site
+yttrloopef.site
 yttrpress.site
 yttrware.site
 yttrzmip.site
@@ -5691,6 +5699,7 @@ zh-8568f96248.preview.weglot.io
 zh-9youapps.com
 zh-aiyouximax.com
 zh-apps-jnsports.com
+zh-cn-google.hl.cn
 zh-cni-bwin.com
 zh-h5-qiyiguosports.com
 zh-home-qiutansports.com
@@ -5762,6 +5771,7 @@ zhovrantek-fr.live
 zhovrantek.click
 zhovrantek.live
 zhparlidi.shop
+zhparonline.shop
 zhqparlids.shop
 zhqzy.com
 zhs-okx-app.com
@@ -6655,7 +6665,6 @@ zxcsda.com
 zxcsda.site
 zxcvbn.fit
 zxcvma.fit
-zxcvncosq.gvartrading.com
 zxcvty.com
 zxdsx.com
 zxeep.com
