@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-08-23T10:05:50.280Z
-# Segment: af (6/6) | Entries in this file: 6934 | Total in full list: 156934
+# Generated: 2026-08-23T16:05:50.217Z
+# Segment: af (6/6) | Entries in this file: 6882 | Total in full list: 156882
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     156934 valid, 156934 new after dedup | OK
+#     156882 valid, 156882 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,59 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-www.michaelleib.shop
-www.michaelwolf.shop
-www.michelcamus.shop
-www.michelleking.shop
-www.michelpaquet.shop
-www.michelweil.shop
-www.micrororosoft365.com
-www.mifenglj.com
-www.migly.in
-www.mijn.overheid.nl.bc1qd0tj9m0hul7xgsec50swz8myzkf4ukgu6j3urh.solucionatica.com.br
-www.mijn.overheid.nl.berichtenbox.l1tjxkgmdqghekubdurkea68msnzfea6kx1u2q2s9pwpvurkzexb.luizmatoso.com.br
-www.mijn.overheid.nl.berichtenbox.l42j88pmqpu8u3kpp79u7apxylrdtdj5kp78nxym4296uec8xibj.luizmatoso.com.br
-www.mikawaks.com
-www.militaria-off.co
-www.militaria1.top
-www.militariade.com
-www.millerandrew.shop
-www.millerlauren.shop
-www.miniaturetitans.com
-www.minigmalis.shop
-www.minimalis.shop
-www.minimalisticapparel.com
-www.minimyaluxe.shop
-www.mirellio.shop
-www.mirelto.shop
-www.mirenaltuna.shop
-www.mirisasaki.shop
-www.mise-a-jour-securepass.com
-www.misieawrzykalcazk.pl
-www.misselin.shop
-www.mistvane.shop
-www.mitchelldaniel.shop
-www.mixo.io
-www.mizuhobanka.bixocpnet.com
-www.mkndroqi.com
-www.mmi.izo.temporary.site
-www.mmtsjj.com
-www.mobile-payu.com
-www.mobilyanizinegolden.com
-www.modacove.shop
-www.modalio.shop
-www.modario.shop
-www.modastyl.shop
-www.modernchoicepl.shop
-www.modestio.shop
-www.modirex.shop
-www.modisera.shop
-www.modivosport.com
-www.modnagalereya.com
-www.modnakiecka-sale.shop
-www.modnekobiety.shop
-www.moertku.shop
-www.mogaedigital.com
 www.mohelusa.com
 www.mohinimair.shop
 www.mohitopl.shop
@@ -1059,6 +1006,7 @@ www.support-myaccountaccess.com
 www.support-souscriptionaboplus.help
 www.support-souscriptionvideo.help
 www.support-ticket99600837.es
+www.supportautomatique-abovideo.help
 www.supporto-it.eu.cc
 www.supports.mywanwu.com
 www.supports12001.site
@@ -2198,6 +2146,7 @@ xfinitialya.jumpingcrab.com
 xfinity-parental-controls.com
 xfinity.payment-profile.info
 xfinitymailserver.us
+xfinitypassword.com
 xfinityrefunds.com
 xfinitysupportdesk.com
 xfinitywebmailpagesecurityalert.framer.ai
@@ -4965,7 +4914,6 @@ zaroink.cyou
 zartemarktaue.live
 zartevermtal.de
 zartimox.site
-zarumikkel.top
 zarzadzaniekontemdisney.com
 zarzadzaniesubskrypcjadisney.com
 zarzor.net
