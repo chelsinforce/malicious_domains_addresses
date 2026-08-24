@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-08-24T10:05:50.689Z
-# Segment: af (6/6) | Entries in this file: 6678 | Total in full list: 156678
+# Generated: 2026-08-24T16:05:51.440Z
+# Segment: af (6/6) | Entries in this file: 6679 | Total in full list: 156679
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     156678 valid, 156678 new after dedup | OK
+#     156679 valid, 156679 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,6 +14,8 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+www.olivierveys.shop
+www.olutionsgro.com
 www.omniraht.shop
 www.omniwlink.shop
 www.ompros.ru
@@ -1458,6 +1460,7 @@ x01.webh-x01.xyz
 x04qaw.fun
 x04qaw.icu
 x04qaw.luxe
+x0fs1t.webwave.dev
 x0w.podatkl.com
 x1-algo-platform.com
 x13kkaskckl123x123.cfd
@@ -1985,7 +1988,6 @@ xhjdp.com
 xhjzp.com
 xhkinvest.com
 xhm1w4.webwave.dev
-xhoodv.com
 xhymb.com
 xhyzxy.com
 xhztax.com
@@ -2130,7 +2132,6 @@ xkvpd.com
 xl07yz.webwave.dev
 xl4veu.sbs
 xlaun.doesemilyexist.com
-xlbbc.com
 xlclp.com
 xlcryptomining.com
 xlest.com
@@ -2776,12 +2777,12 @@ xrampokrovnaluze.ru
 xreadit.site
 xregu.sbs
 xrjvjz.com
-xrlpkpmgfbvnmen.top
 xrlrd.com
 xrmytc.com
 xrnxc.com
 xrolvadeno.shop
 xrows.cyou
+xrt.kz7dsq.top
 xruit.com
 xrunpelyx-ai.live
 xrunpelyx-es.live
@@ -3206,6 +3207,7 @@ yagizbabappro01.online
 yagizmermer.com
 yagmurteacher.com
 yagpyc.com
+yahoobankofamerica.ph
 yahua88.com
 yahzaa.com
 yaien.de
@@ -3354,7 +3356,6 @@ yciyf.com
 ycju26.webwave.dev
 ycloudp.victorzeman.com
 ycloventari.xyz
-ycomohuredexxnzgu.com
 ycomp.cynthiaboyermlo.com
 ycoor.islamnesia.com
 ycq.d2euvq.qpon
@@ -3562,7 +3563,6 @@ yihkwl.com
 yihuis.com
 yihwnnfj.shop
 yijun88.com
-yikbrrcxaudg.live
 yildirimcncotomat.com
 yildirimsanayisogutma.com
 yildizbaharat.com
@@ -3713,6 +3713,7 @@ yondnokey.site
 yondsense.site
 yondteforge.site
 yonendustriyel.com
+yonetim-bankofamerica.ph
 yonifxesthetics.com
 yopinant.net
 yopinia.com
@@ -4993,12 +4994,14 @@ zeltixai-pt.live
 zeltixai.live
 zeltixai.net
 zeltixaipro.com
+zeltixaitrade.com
 zeltixplatform.com
 zelton.shop
 zeltorivah.com
 zeltozaelik.com
 zelucast59.site
 zelucube.site
+zelufirmn.site
 zeluflair.site
 zelufleet.site
 zelufuel.site
@@ -5366,7 +5369,6 @@ zetaunit.site
 zetauscope.site
 zetavexhub.info
 zetawblood.popelnuh.com
-zetlk.com
 zetraajans.com
 zetranexia-es.live
 zetranexia-fr.live
@@ -5575,7 +5577,6 @@ zigkellner.com
 zignagovetro.mom
 zignalorai-app.com
 zignifysourcing.net
-ziguana.club
 zigzagtadjust.best
 ziheciy.com
 zihinlab.com
@@ -5740,7 +5741,6 @@ zjxty.com
 zjxwf.com
 zjyouhua.com
 zjytasupgexo.eu
-zjyxbmrpodmjwbv.live
 zjzkzh.com
 zjzth.com
 zjzxg.com
@@ -5760,10 +5760,10 @@ zklatkischodowejzbetonu.pro
 zkllzm.com
 zkort.shop
 zkorytarzaobok.pro
-zkratka.link
 zksaqj.com
 zksjubbb.shop
 zktdigital.site
+zl5vv.kz7dsq.top
 zlal-ii327.eu.cc
 zlal-ii327.my.id
 zlancia-ai.com
@@ -6519,6 +6519,7 @@ zynovetpharma.com
 zynpilot.site
 zynqorava365.info
 zynqrexx.net
+zynsilank.site
 zyntera.cyou
 zynthariworld.pro
 zynthera-core.com
