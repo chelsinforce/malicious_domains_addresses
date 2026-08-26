@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-08-26T16:05:50.401Z
-# Segment: af (6/6) | Entries in this file: 6683 | Total in full list: 156683
+# Generated: 2026-08-26T22:05:50.155Z
+# Segment: af (6/6) | Entries in this file: 6668 | Total in full list: 156668
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     156683 valid, 156683 new after dedup | OK
+#     156668 valid, 156668 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,23 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-www.okazjeland.shop
-www.okazjemarket.shop
-www.okazjeonline.shop
-www.okazjepolska.shop
-www.okazjexpress24.shop
-www.okazjezone.shop
-www.okningfundex.net
-www.okx-desktop.org
-www.okx-tech.org
-www.olafschreiber.shop
-www.olgafelsberga.shop
-www.olivierveys.shop
-www.olutionsgro.com
-www.omniraht.shop
-www.omniwlink.shop
-www.ompros.ru
-www.onaydinlatma.com
 www.one-provide.ch
 www.onlinesurplus.shop
 www.onneat.online
@@ -568,6 +551,7 @@ www.saway-fashiontrends.shop
 www.saway-pl.co
 www.saway-rabat.shop
 www.saway-shoe.co
+www.saway-simpleelegant.shop
 www.saway.vip
 www.sawayolinepl.com
 www.sawayuroda-pl.xyz
@@ -2120,6 +2104,7 @@ xjgrq.com
 xjhhkj.com
 xjhiq.com
 xjhsk.com
+xjkangdi.com
 xjkfhq.com
 xjmlf.com
 xjodci.com
@@ -2899,7 +2884,6 @@ xtradergrok-es.fyi
 xtradergrok350plixi.net
 xtraflair.com
 xtreme-current.com
-xtreme-lightingkc.com
 xtremefitness.mom
 xtribafuel.site
 xtrilogicfeed.site
@@ -3050,6 +3034,7 @@ xylnpumesh.site
 xyloboost.site
 xylocube.site
 xyloflair.site
+xyloilcloud.site
 xylovia.site
 xylowrap.blog
 xylowrapvia.site
@@ -3688,7 +3673,6 @@ yogaforhealthyhormones.com
 yogaman.xyz
 yogapl.club
 yogaspace.mom
-yogeshpanwar.com
 yogicpa.com
 yoginikaliji.com
 yoginimx.com
@@ -3823,7 +3807,6 @@ yoursecondhand.net
 yourspiritcoaching.com
 yourtopwinner.us
 yourusreputation.com
-yourwineworld.com
 youssef.acces948207.pro
 youssef.bdll-273312.pro
 youssef.bdll457877.pro
@@ -5086,6 +5069,7 @@ zenitdexerisapp.com
 zenitdochodek.com
 zenitdochodek.net
 zenitdochodekai.com
+zenitfondivo.org
 zenith-ai.live
 zenith-bitnova-solution.com
 zenith-bumper.com
@@ -5493,6 +5477,7 @@ zhenshanwx.com
 zhexx.colum6us.com
 zhfcst.com
 zhffadoparlp.shop
+zhfkofko.shop
 zhggm.com
 zhibang178.com
 zhichenghui.com
