@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-08-27T04:05:50.737Z
-# Segment: ae (5/6) | Entries in this file: 30000 | Total in full list: 156668
+# Generated: 2026-08-27T10:05:50.295Z
+# Segment: ae (5/6) | Entries in this file: 30000 | Total in full list: 156661
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     156668 valid, 156668 new after dedup | OK
+#     156661 valid, 156661 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,6 +14,7 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+shoeboxbazaar.shop
 shoeby-fashion.com
 shoeby-shop.com
 shoecollection.shop
@@ -139,6 +140,7 @@ shopmilo.shop
 shopmirth.shop
 shopneath.shop
 shopoasis.shop
+shopp-tiktok.com
 shopp3ster.pro
 shopp88er.pro
 shopparch.shop
@@ -221,7 +223,6 @@ short27wi7.com
 short41486-personal-unlock.192-145-237-208.cpanel.site
 short8199-personal-unlock.192-145-237-208.cpanel.site
 short89368-personal-unlock.192-145-237-208.cpanel.site
-shorta.link
 shorta24na7.com
 shortacsabanwa.click
 shortadmakslfds.cyou
@@ -2327,7 +2328,6 @@ snapaloxi600-fr.fyi
 snapaloxi600-pt.com
 snapaloxi600-pt.fyi
 snapandstow.shop
-snapasale.top
 snapaurarion.click
 snapbackup.katalystintegrations.com
 snapchat-web.net
@@ -2794,7 +2794,6 @@ solflare-en.wixstudio.com
 solgrapt.site
 solhavengrut.pro
 soliachoice.shop
-solicitareservada.com
 solicitud-en-lina-23898.infy.click
 solicitudyserviciobhddominicana.xo.je
 solid-bastion.com
@@ -3374,6 +3373,7 @@ souveronyxtrade.com
 sov-brundheltova.top
 sov-gheltamikura.pro
 sov-grimhelta.top
+sov.investnovex.com
 sov8ra.lat
 sov8ri.top
 sova-television.com
@@ -3522,6 +3522,7 @@ spark-smart.com
 spark-spill.com
 spark-stocks.com
 spark-sway.com
+spark2.bond
 sparkandsound.com
 sparkasse-slots.xyz
 sparkasse.mitid.ltd
@@ -4071,6 +4072,7 @@ sportvisionsale.top
 sportwhip.com
 sportyspot.shop
 sportzz.shop
+sporuriabb.rest
 spostpseud.cyou
 spostsotto.click
 spoststarf.cyou
@@ -4264,7 +4266,6 @@ spugnradio.rest
 spugnsmeri.cyou
 spulcprofe.cyou
 spumasepar.cyou
-spumasmela.rest
 spumasnift.cyou
 spumiseiso.cyou
 spunknoncu.rest
@@ -4612,6 +4613,7 @@ stakefinapp.net
 stakehexlispro.net
 stakejob.live
 stakelispro-it.fyi
+stakelispro05.net
 stakelispro300-es.live
 stakelispro300.click
 stakelispro300.pro
@@ -4842,6 +4844,7 @@ start-trezerioapps.wixstudio.com
 start-with-ledger.zapier.app
 start-with-trezor.zapier.app
 start.browser.lol
+start.myincometeamx.com
 start.nowo-shop.lat
 starta-ledgr.wixstudio.com
 startahead.digital
@@ -5328,7 +5331,6 @@ steamcommnunmity.com
 steamcommumminmty.cam
 steamcommumminty.cam
 steamcommummity.cam
-steamcommunitly-workspaceshop.shop
 steamcommunity.blog
 steamcommunity.ing
 steamcomnunnlty.com
@@ -5342,7 +5344,6 @@ steamqr.site
 steamroom.cholesteroldowndiet.com
 steamverifyhelp.com
 steanncomnnity.ru
-stechex.com
 stedoquin.pro
 stedorix-ai-hr.com
 steeavesacre.info
@@ -6460,7 +6461,6 @@ studiokg.live
 studiokinski.mom
 studiokopiowania.mom
 studiomaki.live
-studiomarywilska.pl
 studiomatejki.mom
 studiomatsumoto.live
 studiomcopyediting.com
@@ -6671,6 +6671,7 @@ subrterm.site
 subrtrix.site
 subrtron.site
 subrtyrm68.site
+subrvistadash.site
 subscribepage.io
 subscription-update-mt.com
 subscriptionmembershipsettlement.com
@@ -7078,7 +7079,6 @@ sunplux.com
 sunquartzcraft.digital
 sunridge-bitrevia-solution.com
 sunridge-pyrvox.live
-sunridgeharbor.com
 sunridgehome.eu
 sunridgepyrvox.pro
 sunrise-balance.com
@@ -7297,6 +7297,7 @@ suppomind.cfd
 suppoplunge.rxupdates.com
 support-aboplusinfo.help
 support-abovideo.help
+support-acc.eu.cc
 support-acctek.com
 support-acs.eu.cc
 support-assurance-sante.com
@@ -8185,7 +8186,6 @@ sykdh.com
 sykestestggatrices.info
 sykja.com
 sykqy.com
-sylam.vip
 syljyb.com
 sylkwx.com
 syllabuse.top
@@ -8308,6 +8308,7 @@ synilyticsmetra.site
 synnapforce.site
 synncell.site
 synndata.site
+synnfubyte.site
 synnloopzop.site
 synnterm.sbs
 synobloxir.site
@@ -9547,7 +9548,6 @@ tdallinone.com
 tdays.datamsg.com
 tdbdz.com
 tdeignan0.wixstudio.com
-tdenerdgi.ru
 tdepl.proximatechat.com
 tdesi.kalusinator.com
 tdeve.dcext.com
@@ -10161,6 +10161,8 @@ telebeprot.club
 telebright.shop
 telebright.work
 telechaonu.cyou
+telecisxsu.love
+telecisxsu.work
 telecom-login.com
 telecominsight.com
 telecorexo.help
@@ -10172,6 +10174,7 @@ teleefxm.com
 teleeiuc.com
 teleeproos.club
 teleerprox.cyou
+teleerprox.shop
 teleezcc.com
 telefestore.com
 telefjyr.com
@@ -10233,6 +10236,8 @@ telemvgna.com
 telenbupx.com
 telendszes.click
 telendxcry.icu
+telendxcry.love
+telendxcry.wiki
 teleneoutk.work
 telenepros.click
 telenepros.wiki
@@ -10253,7 +10258,9 @@ telequozv.com
 teleresime.rest
 telesacg.com
 telesbomba.cyou
+telesexxs.love
 telestalxs.club
+telestalxs.help
 telestiogs.help
 telestonde.cyou
 telestrane.rest
@@ -10266,11 +10273,15 @@ teletyph.com
 teleuanqo.work
 teleundhkb.shop
 teleuniver.click
+teleuniver.cyou
 televerify.wiki
 televgmq.sbs
 telewexs.com
+telexbxcr.help
+telexbxcr.wiki
 teleybecro.shop
 teleyxfbxo.work
+teleyxoixc.click
 teleyxoixc.cyou
 telezoxxsk.cyou
 telezsag.com
@@ -10380,6 +10391,7 @@ temvqzxlnd.cyou
 temvqzxlnd.help
 temvqzxlnd.icu
 temvqzxlnd.shop
+temzadu.shop
 temzvqxlra.click
 temzvqxlra.help
 temzvqxlra.shop
@@ -11092,6 +11104,7 @@ testatrasa.rest
 testbuilderpro.com
 testdomain.techsolpak.com
 teste.melom.com
+testebump.com.br
 testeomega.videowithjustin.com
 testibeffa.online
 testiccfiers.info
@@ -12076,6 +12089,7 @@ thalariest.cyou
 thalassotech.pl
 thalen-equibridge.live
 thalenequibridge.live
+thaliorgan.rest
 thalldemag.rest
 thaloraktatravorn-pl.com
 thaloraktatravorn.net
@@ -13218,6 +13232,7 @@ thirdaunt.click
 thirddaytechnology.com
 thirdmaxi.pics
 thirstycougar.com
+thirteenh.com
 thirtyminuteseder.net
 thisauthorexperiment.com
 thisborder.baby
@@ -13254,7 +13269,6 @@ thomasleary.shop
 thomasvalera.com
 thomaswilke.shop
 thombansen-classic.infra-struktur.eu
-thompsonmason.shop
 thompsonwholesaleplus.com
 thongtacconghanoi.net
 thoracicsubjeeectivism.info
@@ -13651,6 +13665,7 @@ tindkapitvik.net
 tindkapitvik.shop
 tindkapitvikai.shop
 tindr.site
+tindsparo.com
 tindvinstmar.com
 tinfort.com
 tinhyvk.com
@@ -14121,7 +14136,6 @@ tooldiydc.shop
 tooldiyonline.com
 tooles-deal.shop
 tooles-outlets.shop
-toolesdeal-pl.shop
 toolesdiscount.shop
 tooleshardware.shop
 toolesmarket.shop
@@ -14601,6 +14615,7 @@ tr-usly.shop
 tr-zosuite-tre.wixstudio.com
 tr29.net
 tr2tt82f.lat
+tr6935.craftum.io
 traaadedwolfer.info
 trabajaenred.com
 trablunaksis.de
@@ -15066,7 +15081,6 @@ tranquil-voyages.com
 tranquilgourmet.com
 tranriseag.site
 transa-gainoz.live
-transacao-nubank.br-tag.com
 transacces.cyou
 transafore.cyou
 transagainoz.com
@@ -15148,8 +15162,6 @@ tranzcorev11.digital
 tranzeo-ro.live
 tranzeotrade.com
 trapableph.cyou
-trapaterzo.rest
-trapestraf.rest
 traplaivest.xyz
 traposenor.cyou
 trapp99leaf.pro
@@ -15528,6 +15540,7 @@ trexano.info
 trexaorks.com
 trexavakrorentalixa.site
 trexdata19.site
+trexechodock.site
 trexel-currency.com
 trexelytics.site
 trexforgeg.site
@@ -16300,7 +16313,6 @@ tszbq.com
 ttaakaabenttis.com
 ttaittcyyqdh.com
 ttax.us
-ttcoups.top
 ttdzyy.com
 ttech.best
 ttfpnx.com
@@ -16408,7 +16420,6 @@ tumidnessppes.info
 tumoracerebrala.com
 tumorcilla.com
 tumorribec.autos
-tumotegrinkbi.pro
 tun-1782199208.golocalport.link
 tun5.bridalreliance.beauty
 tun5.clearlandscapingvalue.live
@@ -16453,7 +16464,6 @@ tunnelsshade.rayannikcanada.com
 tunneltriangle.proto-cad.com
 tunnemolla.cyou
 tunovault-engine.com
-tunquelaste.top
 tunstallsmarthub.com
 tunuleluximimafotanori.info
 tuoei.com
@@ -16596,6 +16606,7 @@ turoinvenza-ai.live
 turoinvenza.com
 turoinvenza.live
 turoinvenza.shop
+turpeli.shop
 turqual.com
 turquoise-location-761814.framer.app
 turquoisehavenvilla.com
@@ -16658,7 +16669,6 @@ tvbhk.com
 tvbqojt.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
 tvelmc.com
 tvjdek.com
-tvjrmakx.xyz
 tvlseawaca.com
 tvmxh.com
 tvoja-prilika.com
@@ -17007,6 +17017,7 @@ tzokamirel-official.com
 tzokamirel.digital
 tzokamirel.sbs
 tzokamirel.tech
+tzomirogru-ai.com
 tzqsi.com
 tzqxf.com
 tzrwh.com
@@ -18709,7 +18720,6 @@ uroda-care7xlab.info
 uroda-plsaway.shop
 urodadoz.shop
 urodaeumless.info
-urodaexpert365.info
 urodaexpertmax.info
 urodalab360.info
 urofertil.com
@@ -19429,7 +19439,6 @@ valkorprimegpt-de.live
 valkorprimegpt.com
 valkorprimegpt.live
 valkorprimetrade.com
-valksmeder.top
 valkyriesartistry.com
 valleprofitra-es.fyi
 valleprofitra-fr.com
@@ -19758,7 +19767,6 @@ varrocliighting.com
 varrogep.hu
 varsentora.top
 varsovianet.info
-vartelloncrest.life
 vartjerise.site
 vartomir-pl.com
 vartomir-pl.live
@@ -20606,7 +20614,6 @@ verdcapitencia.com
 verdcapitencia.live
 verdcapitencia.shop
 verdesendero.com
-verdicholta.pro
 verdienen-sie500-soft.com
 verdienen-sieapp.com
 verdifjord-app.com
@@ -21141,7 +21148,6 @@ video-espaceprime.com
 video-page-metabusiness.com
 video-souscrip.com
 videoamzprime.com
-videoblocktz.colechimneysweep.com
 videolift.com
 videoothick.marytarrant.com
 videoprime.co
@@ -21763,6 +21769,7 @@ vinted.doublychase.com
 vinted.f958h745.xyz
 vinted.form129321.cfd
 vinted.form1963.sbs
+vinted.form541613513.cfd
 vinted.form5426131.cfd
 vinted.form705691.help
 vinted.form83613.cfd
@@ -23645,7 +23652,6 @@ vitaldynamics.com
 vitale-info.com
 vitaleey.com
 vitalenobi.space
-vitalextpoltew26.info
 vitalibre.site
 vitalique.space
 vitalis-traitement.com
@@ -24888,7 +24894,6 @@ wallet-exoduss-io.wasmer.app
 wallet-legder-live.wixstudio.com
 wallet-pantom.framer.ai
 wallet-support.digital
-walletguidemax.site
 wallett-exoduss-innus.wasmer.app
 walletthetatoken.org
 wallinor.com
@@ -25344,7 +25349,6 @@ wdcqvcic.shop
 wddiyi.com
 wdemo.lewte.com
 wdesignj.adiestramiento-natural.com
-wdffgsda.top
 wdhjmx.com
 wdjys.com
 wdmgsq.com
@@ -27752,9 +27756,11 @@ www-hk-google.com
 www-id-me.viewonlineid-me.gr.com
 www-kapitall.click
 www-kapitall.xyz
+www-ledger-com-live-app.applications3.top
 www-ledger-com-live-app.feurut.top
+www-ledger-com-live-app.icueoe.top
 www-ledger-com-live-app.jvcko.top
-www-ledger-com-live-app.ndersc.top
+www-ledger-com-live-app.woasp3.top
 www-ledger-updates-service.salomas.cv
 www-metas-blutick2026.info
 www-microsoft.com.cn
@@ -27773,7 +27779,6 @@ www.2026parkside.shop
 www.2026pl-saway.shop
 www.247center.us
 www.247loanpros.com
-www.27277586365.com
 www.3672108.com
 www.3dscure.com
 www.4-fizjo.shop
@@ -27929,6 +27934,7 @@ www.allegrolokainie.pl-489689124.lol
 www.allegrolokainie.pl-83345.click
 www.allegrolokainie.pl-847261842.lol
 www.allegrolokainie.pl-m8s8f.click
+www.allegrolokainie.prywatne7239.shop
 www.allegrolokalne.2012094h84.shop
 www.allegrolokalne.20120oe.shop
 www.allegrolokalne.382839j56.shop
@@ -27963,6 +27969,7 @@ www.allegrolokalnie.pl-5891795691.sbs
 www.allegrolokalnie.pl-589679353.lol
 www.allegrolokalnie.pl-60459034.click
 www.allegrolokalnie.pl-62885439.click
+www.allegrolokalnie.pl-74553845.click
 www.allegrolokalnie.pl-746373638.click
 www.allegrolokalnie.pl-77655.top
 www.allegrolokalnie.pl-847261842.lol
@@ -28087,14 +28094,13 @@ www.bag-sale.com
 www.bags-sale.top
 www.baileymorgan.shop
 www.balaganpolska.com
-www.balancettk.online
 www.balegepi.com
 www.balenciaga-polska.pl
 www.banbenq.com
 www.banbenx.com
+www.bancainternacional.iniciopersona.site
 www.bankd.me
 www.bankpedia.org
-www.banksar.co.id
 www.bannedretro.com
 www.banpro.club
 www.bapespolska.pl
@@ -28150,7 +28156,6 @@ www.biedronkaoutlets.shop
 www.bihazjl.cn
 www.binance-zh.com
 www.binancebooster.com
-www.binanceplc.com
 www.binkbottlepolska.com
 www.biometrie-nouvelle-carte.com
 www.biosustainf.shop
@@ -28238,6 +28243,7 @@ www.canons.pl
 www.canpeak.org
 www.capitalgrowthhub.net
 www.carbitektec.com
+www.carbonate-egyjo.com
 www.carburetorv.com
 www.careza.shop
 www.carlosripoll.shop
@@ -28290,7 +28296,6 @@ www.chekmeseger-adspager.online
 www.chekmesssupot.online
 www.chekmessupmettas.top
 www.chifocapital.com
-www.chilhoodgames.com
 www.chinabswl.com
 www.chloeturner.shop
 www.choisir-horaire.com
@@ -28373,7 +28378,6 @@ www.craftsportswearpolska.pl
 www.craftstiudio.shop
 www.craftsvapace.shop
 www.craigpeck.shop
-www.cratefugaliz.com
 www.creation-numerique.com
 www.creative-titanium.com
 www.credejinza.shop
@@ -29055,7 +29059,6 @@ www.gerlachsho.shop
 www.gerlachshoppl.shop
 www.getwealthyclients.com
 www.gevsix.com
-www.gg9.live
 www.ggudnbef.shop
 www.gicarealestate.com
 www.gigibuy.de
@@ -29322,7 +29325,6 @@ www.ichnology.cfd
 www.icloud.doboxa.biz
 www.icloudsignaturere.com
 www.icmktg.n0c.world
-www.id8341.com
 www.identity2u.com
 www.idimingo24.pl
 www.ifexcapital.com
@@ -29333,11 +29335,11 @@ www.iiyout.cn
 www.ikeda-living.com
 www.ileniamottin.shop
 www.ilgenw.shop
+www.image-upscaling.net
 www.imath.kiev.ua
 www.immaclua.shop
 www.immediateget.net
 www.immediatetradeai.de
-www.imtoken-market.com
 www.imxprs.com
 www.industaro.com
 www.infinity-zone.com.pl
@@ -29352,8 +29354,8 @@ www.informacni-sluzbacom.com
 www.ingrdfarmro.com
 www.inouecraft.com
 www.inrleiot.com
+www.install-xam-documents.icu
 www.institutobushido.org.br
-www.intactbeauty.pk
 www.intermodalequipments.com
 www.intexpoland.shop
 www.intimissimipolska.pl
@@ -29419,7 +29421,6 @@ www.jpsmbc.com
 www.jrbjw.com
 www.jrrjmarketing.com
 www.jrtewnbh.com
-www.jsccindo.id
 www.juicy-couture.pl
 www.julialoan.shop
 www.juliasvoice.org
@@ -29878,7 +29879,6 @@ www.myaccmonthre.com
 www.myacmonthy.com
 www.mybusiness361.com
 www.myescroz.com
-www.myfidelitysite.com
 www.myfin-spf.com
 www.myfinity.douglasdhawk.com
 www.myfinity.maturesexylonna.com
@@ -29977,7 +29977,6 @@ www.obtaina.shop
 www.occamedgetech.com
 www.ochnikoutlet.shop
 www.ochnikshoppstor.com
-www.odmity.com
 www.odp-strawtv.com
 www.odpsodo.biz
 www.odtubirder.org
@@ -30014,3 +30013,4 @@ www.omniraht.shop
 www.omniwlink.shop
 www.ompros.ru
 www.onaydinlatma.com
+www.one-provide.ch
