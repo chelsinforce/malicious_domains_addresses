@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-08-31T22:05:48.970Z
-# Segment: ad (4/6) | Entries in this file: 30000 | Total in full list: 158900
+# Generated: 2026-09-01T04:05:50.239Z
+# Segment: ad (4/6) | Entries in this file: 30000 | Total in full list: 158867
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     158900 valid, 158900 new after dedup | OK
+#     158867 valid, 158867 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,6 +14,9 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+ni-internet.com
+ni-jp.co
+ni-pa.co
 niagarasouthcoasttourism.com
 niall.me
 nialv.shop
@@ -180,7 +183,6 @@ ninjalucky.com
 ninlei.com
 ninovarexo.eu
 ninte.casa
-niorex.com
 nipponhosting.com
 nippywarthog.autos
 niqkro.cn
@@ -426,7 +428,6 @@ noahadams.shop
 noahgushard.com
 noahsophy.shop
 noamateurs.com
-noarax.com
 noasakura.shop
 noatbwfe.shop
 noawinyekspresowe.com
@@ -472,6 +473,7 @@ nobleacinu.cyou
 nobleaxisvision.pro
 noblebitencia.net
 noblecapitenza-es.com
+noblecapitenzaia.com
 noblecelio.cyou
 noblecoreless.pro
 noblecoreviax-fr.live
@@ -558,7 +560,6 @@ nodefusionup.site
 nodegauge.troop5id.com
 nodelgrape.cfd
 nodeneurolink.site
-noderefresh.com
 noderepo4.site
 nodesovelit.live
 nodesovelit.shop
@@ -670,6 +671,7 @@ nonexistentialll.info
 nonfaambie.cyou
 nonfarmironweedffs.info
 nonfesolva.cyou
+nonffferrous.info
 nonfismobi.cyou
 nonfluorescentpudubbs.info
 nonfrarrol.cyou
@@ -1818,7 +1820,6 @@ numbersseal.mrbeancafe.com
 numbertlok.com
 numbertryuk.site
 numbraquake.com
-numcaso.com
 numerical-actions-551048.framer.app
 numerical-network-704294.framer.app
 numerical-pumpkin-107703.framer.app
@@ -1946,6 +1947,7 @@ nverufisdjkakassdasi.site
 nvestflow24.com
 nvestragptapp.org
 nvfrd.com
+nvidiacapital.net
 nvkcy.icu
 nvmlefocdsaz.com
 nvoint.com
@@ -2552,7 +2554,6 @@ ochnikpl.vipsale.co
 ochnikpla.click
 ochnikplb.click
 ochnikplepl.com
-ochnikpleplshop.shop
 ochnikplesaleshopshopping.shop
 ochnikplshoppingspree.com
 ochnikqkst.shop
@@ -3779,7 +3780,6 @@ okonto-verify.ct.ws
 okonto-verify.free.nf
 okonto-verify.gt.tc
 okonto.digital
-okonto.page.gd
 okonto.work
 okoosifsfiolokosiid.site
 okoravisitproplatform.com
@@ -6048,7 +6048,6 @@ olx.pl-8493240.lol
 olx.pl-85192.lat
 olx.pl-8523663256324zamowienie8534752754566s.sbs
 olx.pl-853421.sbs
-olx.pl-853584741baanpw00157891zamowienie.cfd
 olx.pl-85563.click
 olx.pl-8573921.cfd
 olx.pl-86255449.click
@@ -6179,7 +6178,6 @@ olx.pl-bdb.cfd
 olx.pl-be4.cfd
 olx.pl-bf5.cfd
 olx.pl-bu6rhggt.cfd
-olx.pl-cahshsbb827363839ogloszenie103663912.sbs
 olx.pl-csjjbx73278zamow542789vsdg.biz
 olx.pl-cyks.cfd
 olx.pl-d-oferta938128374771238281227341.sbs
@@ -7092,7 +7090,6 @@ olyddudo.usw-1.sealos.app
 olymgroup.net
 olymhub.net
 olympiass.co.uk
-olympslots.bet
 olyp01nxt-zjbb.c8onkf.top
 olysxx.fit
 olyva.info
@@ -7314,7 +7311,6 @@ onet-poczta-verify.free.nf
 onet-poczta-verify.fwh.is
 onet-poczta-verify.html-5.me
 onet-poczta-verify.xo.je
-onet-pocztadns.verifyinformation-server.alternate-balance.online
 onet-pppl234.eu.cc
 onet.pl-verify.account-info.165-245-182-1.cpanel.site
 onet.pl-verify.account-info1.165-245-182-1.cpanel.site
@@ -7377,7 +7373,6 @@ online-authentication-santanderconsumer-pl.com-auth.info
 online-bankingdkb.com
 online-beibo.com
 online-dealse.shop
-online-discount.shop
 online-engelbert-strauss.shop
 online-factory.shop
 online-gobik-store-jt.shop
@@ -7400,6 +7395,7 @@ online-strauss.shop
 online-surplus.shop
 online-tchibosale.shop
 online-zahlung-info.de
+online.accounts-google-com-id29902wavx-ssl-k-emailrenew55.codes566ghhhbvnnjui.srpska-banka.com
 online.alignments.click
 online.berryku.top
 online.developments.click
@@ -8098,8 +8094,10 @@ orbitcorebase.site
 orbitflitt.cyou
 orbithaber.com
 orbitio.pro
+orbitispet.store
 orbitpuls.net
 orbitra.top
+orbittrystel.com
 orbitwavebase.pro
 orbitwavenet.com
 orbitxfinance.net
@@ -8745,7 +8743,6 @@ outfitlane.top
 outfitoasis.click
 outfitro.shop
 outflankinnng.info
-outflslega.rest
 outflspedi.rest
 outgachine.rest
 outgenkkerals89.info
@@ -9159,6 +9156,7 @@ ozoneanalytics.com
 ozonemusicfoundation.org
 ozonilitar.cyou
 ozonoungos.cyou
+ozovarel.com
 ozsavunmaakademisi.com
 ozsirkeci.com
 ozturknakliyat.net
@@ -9192,6 +9190,7 @@ p-w6rk.site
 p.91syun.com
 p.eventafisha.com
 p01--ar24securitydoc--ztbdptjpg9dv.code.run
+p02cta-pp0llwk4asyss.fn2cdp.casa
 p02kc7a-pp01-cca-stg-kago5.u5neie.sbs
 p02tca3-p1c-k4-ra24.mg1kqm.casa
 p0rtal.pl
@@ -9937,11 +9936,11 @@ paolobiella.shop
 paolocursaro.shop
 paoloiotti.shop
 paolomerda.shop
-paowax.com
 papafavip4.shop
 papaje.lovable.app
 papajifood.live
 papanicksconroe.com
+paparbacch.store
 papasela.com
 papaspix.net
 papatyaeczanesi.online
@@ -10600,8 +10599,8 @@ paypaalcdn.wixstudio.com
 paypal-banking.pro
 paypal-details.com
 paypal-invoice.com
+paypal-login-support.com
 paypal-refund.com
-paypal.cardpaysecurity.org
 paypal.com-websppsc-verification.epsilons.co
 paypalapp-auth-de.net
 paypalcointrade.com
@@ -11067,6 +11066,7 @@ pemqora.shop
 pemut.cyou
 pemxx.info
 penainveranza.com
+penainweransa.com
 penalfores.cyou
 penalty-traffic.com
 penalty-uk.com
@@ -11976,6 +11976,7 @@ phonenicot.cyou
 phonestra.com
 phonewf.com
 phoneworkapps.com
+phoniexledgers.net
 phonoadvoc.cyou
 phononlaser.cfd
 phonoory.mom
@@ -12060,7 +12061,6 @@ php5u.com
 phrasema.com
 phraserrmaker.info
 phrenroxbu.rest
-phrenspine.rest
 phtoothbrush.club
 phulveyrada.info
 phundektrissolution.click
@@ -13332,7 +13332,6 @@ pl-8493240.lol
 pl-85192.lat
 pl-8523663256324zamowienie8534752754566s.sbs
 pl-853421.sbs
-pl-853584741baanpw00157891zamowienie.cfd
 pl-85490384.icu
 pl-85563.click
 pl-8573921.cfd
@@ -13385,7 +13384,6 @@ pl-909897942.click
 pl-91.cfd
 pl-910130.icu
 pl-91037.icu
-pl-9106022.icu
 pl-9122-oferta.click
 pl-91519162528zamowienie715156172620.lat
 pl-91682762272622zamowienie771916181h8162892.lat
@@ -13530,7 +13528,6 @@ pl-bieznie.com
 pl-bodzio.shop
 pl-btcsoulai.com
 pl-bu6rhggt.cfd
-pl-cahshsbb827363839ogloszenie103663912.sbs
 pl-capital.icu
 pl-ccc.one
 pl-ccc.sbs
@@ -14378,7 +14375,6 @@ pl0197602.cfd
 pl03.noyopharm.shop
 pl03.noyopharm.store
 pl06516.009297292839391.com
-pl0aan.info
 pl1.saratelegram.pl
 pl100691230.cfd
 pl10106033.icu
@@ -14622,6 +14618,7 @@ plamaut-ai-edge.live
 plamendohodavatrade.com
 plamonline.shop
 plamora.shop
+plan-b-net-zero.com
 plan-forward.online
 plan0stack.info
 plan1hub.info
@@ -14761,7 +14758,6 @@ platformi.digital
 platforms-liveapp.wixstudio.com
 platforms-trexor.wixstudio.com
 platformsclose.truckerlawcenter.com
-platformsense.sbs
 platformshoes.shop
 platformsspeed.casasentequisquiapan.com
 platfscream.vivatsp.com
@@ -15525,7 +15521,6 @@ poczta-pl.cbiawewa.icu
 poczta-pl.cedafer.icu
 poczta-pl.ceragera.shop
 poczta-pl.colper.icu
-poczta-pl.dapartor.cfd
 poczta-pl.eadfbe.icu
 poczta-pl.eauinae.icu
 poczta-pl.eefage.icu
@@ -15875,7 +15870,6 @@ pohitea.com
 pohjorvalene.pro
 poi12781290h-45.lat
 poi78128990x.shop
-poi7nt.info
 poin4t.info
 poinformowani.xyz
 poinseaattias.info
@@ -16617,7 +16611,6 @@ poolxgear.bilhons.com
 poonmal.com
 pooperscooperdoo.com
 poormichigan.org
-poortwi4de.info
 poostta-id6228.eu.cc
 pootitions.net
 poowepaodpweporwoda.site
@@ -16678,8 +16671,6 @@ poqwewowrodlsdo.site
 poqwkiaodkqwoeqewikad.site
 poqyhei.com
 por3t.info
-por5tplan.info
-por7t.info
 poranekpl.pro
 porarquitectura.com
 porc.domici11920.pro
@@ -17049,7 +17040,6 @@ poweirpsdoipsfowrosdp.site
 poweiwrodiaodposdfso.site
 powellzion.shop
 powelsopdoewrwia.site
-powemex.com
 poweoadpweakdawe.site
 poweorosfioerisodf.site
 poweorrpsofoeproseo.site
@@ -17649,6 +17639,7 @@ presuc.xyz
 presugreen.cyou
 presuriapp.cyou
 presuvalla.cyou
+preteinter.store
 pretermissibbon.info
 pretoscacc.cyou
 pretrsoppo.cyou
@@ -17716,6 +17707,7 @@ primal-assets.com
 primal-lock.com
 primalaras.com
 primalorgin.net
+primapatrenova.com
 primarendavenza.com
 primarkpolska.pl
 primary-service-portal.help
@@ -17908,7 +17900,6 @@ primevoltd.pro
 primewarehousesale.shop
 primewatches.xyz
 primewealthstad-de.fyi
-primewinners.at
 primeworld.shop
 primeworldbrief.com
 primeworldreport.com
@@ -18165,7 +18156,6 @@ proel.adianjing.com
 proemprede.cyou
 proezas.diazpabon.info
 prof45k.sbs
-profalinfa.rest
 profaltaf.com
 profaoutve.cyou
 profdioxqkbsu5toqiuy2xvktypaewb3o.mobilerus.online
@@ -18316,6 +18306,7 @@ profitportholm-ai.com
 profitportholm-de.com
 profitraai-software.com
 profitrianexone-pt.fyi
+profitrianexone.net
 profitrings.online
 profitrise.live
 profitrondash-nl.com
@@ -18331,6 +18322,7 @@ profitstrategy.blog
 profitstrategy.ink
 profitthailand.com
 profittikivo.de
+profittikivotrade.com
 profittnode.pro
 profittreasurehub.com
 profitwave-soft.com
@@ -19389,7 +19381,6 @@ pub-339ed1e572c44e38b332b62b38f3360c.r2.dev
 pub-33bffc01b8af423d8ee5acb2a32a9c79.r2.dev
 pub-33e32f673ff541698d9ea2873aeedf01.r2.dev
 pub-33fc44ce91fa4584a26302790cccfa9d.r2.dev
-pub-341f5624d2bc4c8297dedbe9f6b13d25.r2.dev
 pub-34800083ccc34975a9f4455a9e48b9a7.r2.dev
 pub-3489a406e2d943c7bca5d5ddefd3ef25.r2.dev
 pub-34cf0d8afbdc4bf485b00ea93dcdbae3.r2.dev
@@ -19404,7 +19395,6 @@ pub-35fa439d66a94beaaefc5892d00f0493.r2.dev
 pub-362a7a63af874906b5a852f8d1b739ed.r2.dev
 pub-364ea8788b684a76867bee81a5b962c3.r2.dev
 pub-365ad51d2d81418e8d5fb85815040ecf.r2.dev
-pub-3681f47e7d324a3cba2141b188ed6aca.r2.dev
 pub-368902b231094c049027f8c70eba8349.r2.dev
 pub-36ad9f0ba5ac48abafb6762745b544f0.r2.dev
 pub-36f075228b5e4c7e8dc7b16a89adccce.r2.dev
@@ -19472,7 +19462,6 @@ pub-40788e030eee4e159dbef0b51f237482.r2.dev
 pub-408a43e5a2f24bbca8411418be6cccb6.r2.dev
 pub-40ad58af455047d9a464b18a5f622876.r2.dev
 pub-40c0d7c71b0f4861a56766078cb6f223.r2.dev
-pub-4106757ffadd4696bfa963a0b6955e4f.r2.dev
 pub-411c3b2f7aa84062822e3b0a2b1e2e50.r2.dev
 pub-4129285e770f406b8d6a35560ebdfacc.r2.dev
 pub-41c2e04eed7c43bd89ebd5fbedf3f7b2.r2.dev
@@ -20242,7 +20231,6 @@ pub-b7f8ffc2e1dc475fb955e15b1a633dde.r2.dev
 pub-b808d49393464900ab418430c76582aa.r2.dev
 pub-b8121b8e047e42df82e487d7e47e1ef8.r2.dev
 pub-b8735748a9474ef684b83941ce4cdb65.r2.dev
-pub-b88f0146811942dd95bf7888b6c21af6.r2.dev
 pub-b8aece6410254e0eafbd860997dcc12f.r2.dev
 pub-b8b952d8a505484ab427aa76ccb1b407.r2.dev
 pub-b90e589e43d646f684e78d7904647e68.r2.dev
@@ -20252,7 +20240,6 @@ pub-b9af96a23d224955ba27b556afffe9d9.r2.dev
 pub-ba357d95075c4d879b3d01b38b24ecc6.r2.dev
 pub-ba58548dfbe64481b9df87933103c064.r2.dev
 pub-ba65764a4dee4e76bb488ceb0920eee0.r2.dev
-pub-ba929d2ab1f04e75869e394f6d120bba.r2.dev
 pub-bac46a963cc448e7a85ea2814d04293f.r2.dev
 pub-bb403275e61d4b5bbfa3820c808423cb.r2.dev
 pub-bb55aedf0ff24aa5883cbfa402ea4ed7.r2.dev
@@ -20565,7 +20552,6 @@ pub-ed63458a17e048da8587e5eb322d4fa7.r2.dev
 pub-ed9a7c303a65428b82f6089516d7fd71.r2.dev
 pub-ede8feacc3bb4c1e84b1378ac2e3972d.r2.dev
 pub-ee00d0cc29ef4440bd5f86189ee819a4.r2.dev
-pub-ee08f885b3b54c15942ded9e8db4b0b5.r2.dev
 pub-ee199fb6eeb24e078bbe948f199a2302.r2.dev
 pub-ee2c75607542482ca5ab528e0499c3db.r2.dev
 pub-ee3ddc06c1e64c1eaae39d808e0da698.r2.dev
@@ -20624,7 +20610,6 @@ pub-f5da12160d984a559a4a0bb56816cf98.r2.dev
 pub-f5f6eab7eccf4608b3a7b23eb15a4a60.r2.dev
 pub-f609c7afb2cb4b10825d617d49d1d847.r2.dev
 pub-f611d274df8e4f67b68b0b360a31cedc.r2.dev
-pub-f61d5eb08b6f461eb0310ed71224f01c.r2.dev
 pub-f6267a1907b44a078354e073bd286e20.r2.dev
 pub-f62c162b56594358978550e6b7fdea83.r2.dev
 pub-f67d2814946243c5b85d77492c13c372.r2.dev
@@ -20898,8 +20883,6 @@ pulszosiedla.top
 pulverana.top
 pulzinvella.cfd
 pumaliftelevator.com
-pumpfun-celebration.com
-pumpfun-celebration.org
 pumpkincarvingonline.com
 pumppalace.click
 pumpplaza.shop
@@ -20964,6 +20947,7 @@ puracustodier-no.live
 puracustodier.live
 purainversoria.shop
 puramercadea-ai.live
+puramercadea.com
 puramercadea.live
 puramercoviabot.live
 puramonetivo-app.com
@@ -23104,6 +23088,7 @@ r7-kzp.site
 r7d6b8.cfd
 r7d6b8.icu
 r7kv2wn.hair
+r7pv2n.cfd
 r7qmpa.fit
 r7qmpa.site
 r7qn5pv.hair
@@ -24119,7 +24104,6 @@ recordical.media
 recordsfeel.shopware-academy.com
 recordsw.com
 recortafan.cyou
-recouautoc.rest
 recousopro.rest
 recouvr-54652.com
 recov.click
@@ -25050,7 +25034,6 @@ rerosecushionimmng.info
 rervantis.com
 res.highexchanges.com
 resacu.digital
-resaiacapn.rest
 resalecommercialcommercial.com
 resanarlier.com
 rescatehotel.com
@@ -25220,6 +25203,7 @@ resimlicvornekleri.com
 resimuch.pro
 resindrivewayswrexham.xyz
 resinskegg.cyou
+resisintra.autos
 resistmmivity.info
 resitsarica.shop
 resiwo.com
@@ -25407,6 +25391,7 @@ revareal.com
 revaulnexinvexor.net
 revaultnex-es.live
 revaultnex.pro
+revaultnextrade.com
 revcdsxzvbcs.site
 revealhel.trailofthekings.com
 revealoutside.bolcastapp.com
@@ -25509,7 +25494,6 @@ rewadode.com
 rewagurted.com
 rewamoniel24.pro
 reward-ff.garenaind.com
-reward-polymarket.com
 rewardcoin.space
 rewardgifts.quest
 rewarding.webaccessplatform.com
@@ -25531,7 +25515,6 @@ rexex.org
 rexharte.shop
 rexosuu.com
 rexspecs.mom
-rexys.bet
 reyconlogistics.com
 reyerutiworiweort.site
 reyesaurora.shop
@@ -25765,6 +25748,7 @@ ricardocoelho.shop
 ricca-valoravia.live
 riccaplatform.shop
 riccavaloravia-it.live
+riccavaloravia.com
 riccawalorawia.live
 riccawalorawia.org
 riccawalorawia.pro
@@ -25983,6 +25967,7 @@ rigopublishing.tech
 rigorbello.rest
 rigorottav.rest
 rigoviemal.cyou
+rigovimmot.autos
 rigriorbit.cyou
 rigskapitalkitrade.com
 riguasmata.cyou
@@ -26164,7 +26149,6 @@ rinzamelon.cyou
 rinzerintr.rest
 rioafrica.com
 riocapitenza.com
-riocasino.life
 riofg.com
 riomakolians.com
 riomeridianhotels.com
@@ -26699,8 +26683,6 @@ robloxc.com.es
 robloxcheatengine.com
 robloxhack.xyz
 robloxmodsapk.com
-robloxr.com.es
-robloxt.com.es
 robo-200-alorasystem.com
 robo13xeurax.com
 robo3000app.com
@@ -26806,6 +26788,7 @@ rodalamasa.com
 rodandbeccaluxuryhomes.com
 rodassist.com
 rodendiffi.online
+rodierholdings.net
 rodiyatak.com
 rodmccombie.com
 rodneydiaz.shop
@@ -27109,6 +27092,7 @@ rootluxerisq-ai.fyi
 rootluxerisq-en.com
 rootluxerisq.shop
 rootluxerisqapp.com
+rootraid.in
 rootsfly.trexsit.com
 rootssofficial.com
 rootwavebase.site
@@ -27213,6 +27197,7 @@ roulure.hub464708.pro
 roulure.jpod10884268.pro
 roulure.ope846042.pro
 roundcube.pl.miakay.online
+roundeeebeeeedoc.undergroundboards.com
 roundethese.bond
 roundmas.marisapieper.com
 roundmobile.online
@@ -27784,7 +27769,6 @@ runejedi.site
 runescapearts.forums.events.quitting.giveaway.gul.org-fm-678-223-176-122345492-182-342.ru
 runescapeprivateservers.net
 runeverdinas.com
-runinborn.com
 runjikap-finq.com
 runklsmamm.cyou
 runleave.today
@@ -28132,7 +28116,6 @@ s.qrlink.nl
 s.raumwerk-reichel.de
 s.sevendreamers.net
 s.team-bf.com
-s.team-dcw.com
 s.team-p.my
 s.team-zi.com
 s03291291828.surf
@@ -28358,6 +28341,7 @@ safefinvics-fr.live
 safefinvics-ro.live
 safefinvics.digital
 safefinvics.org
+safefinvicsai.net
 safefinvicstrade.com
 safegroveplatform.shop
 safeid911-booking.com
@@ -28445,7 +28429,6 @@ saidservice.com
 saifoodanaly.com
 saigonbitnova-soft.com
 saike.icu
-sailbaddob.rest
 sailingasgard.com
 sailingvybes.com
 sailoffaith.com
@@ -28902,7 +28885,6 @@ saorsasanctuary.scot
 saort4938h45.cfd
 saostorevip.shop
 saouryadi.in
-saovax.com
 sapancabungalove.com
 sapancalakepalace.com
 sapancayamacparasutu.com
@@ -29271,6 +29253,7 @@ sayxs.com
 sazavprofitnik-ai.com
 sazavprofitnik-cs.live
 sazavprofitnik-es.live
+sazavprofitnik.com
 sazavprofitnik.live
 sazencoreno.eu
 sazonadorcompleto.com
@@ -29436,6 +29419,7 @@ scalestrader.com
 scalesys.cyou
 scalevari.cyou
 scaleyport.info
+scaliagevo.store
 scalmcappe.cyou
 scalpcoolingdata.com
 scalzimbio.cyou
@@ -30014,3 +29998,19 @@ secondary-style-233155.framer.app
 secondhandcellular.com
 secondmay.click
 secondpaycheck.shop
+secondpermanent.arisuretail.com
+secondplurals.com
+secopye.pro
+secret-crisis-blueprint.org
+secret-ember.com
+secret24.today
+secretariabr.site
+secretgardeningsociety.net
+secretgardenrail.pro
+secretheartbeat.com
+secretinvestment-platform.com
+secretistanbul.com
+secretsofmyvegankitchen.com
+sectijoy.sbs
+sectioncome.workinthenorth.com
+sectionshide.lokazz.com
