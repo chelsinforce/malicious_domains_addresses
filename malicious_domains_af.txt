@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-09T10:05:49.572Z
-# Segment: af (6/6) | Entries in this file: 6677 | Total in full list: 156677
+# Generated: 2026-09-09T16:05:49.642Z
+# Segment: af (6/6) | Entries in this file: 6691 | Total in full list: 156691
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     156677 valid, 156677 new after dedup | OK
+#     156691 valid, 156691 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,6 +14,25 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+www.pcn-noticum.top
+www.pcn-noticun.cyou
+www.pcn-noticuo.cyou
+www.pcn-noticuo.shop
+www.pcn-noticup.cyou
+www.pcn-noticup.shop
+www.pcn-noticup.top
+www.pcn-noticuq.cyou
+www.pcn-noticuq.shop
+www.pcn-noticuq.top
+www.pcn-noticur.top
+www.pcn-noticus.cyou
+www.pcn-noticus.top
+www.pcn-noticut.shop
+www.pcn-noticuu.cyou
+www.pcn-noticuv.shop
+www.pcn-noticuv.top
+www.pcn-noticuw.top
+www.pcn-noticux.cyou
 www.pcn-noticux.shop
 www.pcn-noticuy.shop
 www.pcn-noticuy.top
@@ -643,6 +662,7 @@ www.sunlu-printing.com
 www.supchecmessmta.store
 www.superdack.se
 www.supermarkts.shop
+www.superokazjapl.shop
 www.superor.click
 www.supersalepl.shop
 www.superwyprzedaz.shop
@@ -898,7 +918,6 @@ www.vam-sa.pt
 www.vanguardmaison.shop
 www.varrogep.hu
 www.vasev.shop
-www.vbureaue.com
 www.veepee-fr.com
 www.vehiclepl.com
 www.velatrend.shop
@@ -1108,7 +1127,6 @@ www.zenzorafits.shop
 www.zerfktqn.com
 www.zetalube.co.kr
 www.zexgo.shop
-www.zfloorsu.com
 www.zgymglamour.top
 www.zh-h5-qiyiguosports.com
 www.zh-home-qiutansports.com
@@ -1400,7 +1418,6 @@ x5vq2mn.skin
 x5y.s8rddm.sbs
 x617ip7.pics
 x6cpek.fit
-x6cpek.site
 x6k8m2.cfd
 x6kzja.site
 x6mn3qt.skin
@@ -1726,7 +1743,6 @@ xemprechain.site
 xempreterm.site
 xemprifuel.site
 xemptelane.site
-xenalivto.com
 xencolor.com
 xendupi.shop
 xenemoe.pro
@@ -1841,6 +1857,7 @@ xfwjt.com
 xfyjj.com
 xfzjx.com
 xg.moqusopestore.top
+xgamb.cc
 xgdsms.com
 xgfbl.com
 xghzs.com
@@ -2591,6 +2608,7 @@ xovtalent.com
 xowbuk.xyz
 xoyri.com
 xoztugifasfi.eu
+xp-steth.org
 xp0.936.mytemp.website
 xpapsuq.lol
 xpbmx.com
@@ -3044,7 +3062,6 @@ y5t8mf.lat
 y5wzvq2xop.digital
 y6c3vn.lat
 y6p1r4.sbs
-y6p2n0.sbs
 y6zvle.site
 y749.sbs
 y7n1mk.lat
@@ -3250,7 +3267,6 @@ ydevi.losherbaristas.com
 ydgds.com
 ydkj666.com
 ydmzxc.com
-ydodaw.com
 ydshipin.com
 ydswf.com
 ydxdl.com
@@ -4082,7 +4098,6 @@ z2nqxd.site
 z2nr7i.webwave.dev
 z2p9hc.lat
 z2pfrw.fit
-z2pfrw.site
 z2pfrw.wiki
 z2qm8xn.skin
 z2qv7mn.casa
@@ -5766,7 +5781,6 @@ zliftj.scoundreljs.com
 zliwoscia.com
 zljk88.com
 zljsb.com
-zlkcd.com
 zlknxzy.skin
 zlmocny.com
 zlmsh.com
