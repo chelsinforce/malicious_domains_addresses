@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-09T16:05:49.642Z
-# Segment: af (6/6) | Entries in this file: 6691 | Total in full list: 156691
+# Generated: 2026-09-09T22:05:49.299Z
+# Segment: af (6/6) | Entries in this file: 6647 | Total in full list: 156647
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     156691 valid, 156691 new after dedup | OK
+#     156647 valid, 156647 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,51 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-www.pcn-noticum.top
-www.pcn-noticun.cyou
-www.pcn-noticuo.cyou
-www.pcn-noticuo.shop
-www.pcn-noticup.cyou
-www.pcn-noticup.shop
-www.pcn-noticup.top
-www.pcn-noticuq.cyou
-www.pcn-noticuq.shop
-www.pcn-noticuq.top
-www.pcn-noticur.top
-www.pcn-noticus.cyou
-www.pcn-noticus.top
-www.pcn-noticut.shop
-www.pcn-noticuu.cyou
-www.pcn-noticuv.shop
-www.pcn-noticuv.top
-www.pcn-noticuw.top
-www.pcn-noticux.cyou
-www.pcn-noticux.shop
-www.pcn-noticuy.shop
-www.pcn-noticuy.top
-www.pcn-noticyd.cyou
-www.pcn-noticyd.shop
-www.pcn-noticye.top
-www.pcn-noticyf.shop
-www.pcn-noticyf.top
-www.pcn-noticyg.top
-www.pcn-noticyh.cyou
-www.pcn-noticyh.shop
-www.pcn-noticyh.top
-www.pcn-noticyi.cyou
-www.pcn-noticyi.shop
-www.pcn-noticyi.top
-www.pcn-noticyj.cyou
-www.pcn-noticyj.shop
-www.pcn-noticyj.top
-www.pcn-noticym.cyou
-www.pcn-noticym.top
-www.pcn-noticyn.cyou
-www.pcn-noticyn.shop
-www.pcn-noticyo.shop
-www.pcn-noticyo.top
-www.pcn-noticyp.cyou
-www.pcn-noticyq.cyou
 www.pcn-noticyq.shop
 www.pcn-noticyq.top
 www.pcn-noticyr.cyou
@@ -83,13 +38,13 @@ www.peraroi.pro
 www.perpetualmotioninc.com
 www.perrymireya.shop
 www.perschke.koeln
+www.person.digitalbd.online
 www.peseriale.com
 www.petbok.com
 www.peter-milla.com
 www.peterjauch.shop
 www.petrakeil.shop
 www.petriastinga.shop
-www.pflugfelderbartholomew.shop
 www.philippevoyer.shop
 www.phonewf.com
 www.phononlaser.cfd
@@ -343,8 +298,8 @@ www.roblox.com.bi
 www.roblox.com.et
 www.roblox.com.ml
 www.roblox.com.mu
+www.roblox.com.pt
 www.roblox.et
-www.roblox.ly
 www.roblox.tc
 www.robloxc.com.es
 www.robzak.click
@@ -414,7 +369,6 @@ www.saway-rabat.shop
 www.saway-shoe.co
 www.saway-simpleelegant.shop
 www.saway.vip
-www.sawayolinepl.com
 www.sawayuroda-pl.xyz
 www.sayoga.club
 www.scarpaspolska.com
@@ -429,7 +383,6 @@ www.seanrobb.shop
 www.secu-reactiv.com
 www.secu.borneoechos.com
 www.secure-accounts-verify.com
-www.secure-bank-alerts.com
 www.secure-base.app
 www.secure-sakuraaccount.com
 www.secureactivitysett726411.li
@@ -456,7 +409,6 @@ www.serv7231.pro
 www.serv807539.pro
 www.serv912564.pro
 www.serveetoo-dupooood-polski.pl
-www.service-mksports.com
 www.serviceespacesante.info
 www.servicemaladiesante.com
 www.servicevinci.com
@@ -482,7 +434,6 @@ www.shoppl.cc
 www.shopstra.shop
 www.shopzenza.shop
 www.shopzonepl.shop
-www.shorten.tv
 www.shriramnursingcollege.com
 www.shssc.edu.bd
 www.sieradenbycelin.nl
@@ -730,7 +681,6 @@ www.techsvibe.shop
 www.techvirbe.shop
 www.techzonear.com
 www.tecorportas.com
-www.tefhksut.com
 www.tegolino24.online
 www.telegrammz.cc
 www.telekom-privatkunden-de.com
@@ -892,8 +842,8 @@ www.user8304issue.help
 www.userinvoice.click
 www.uslkyabk.shop
 www.uspscanada.com
+www.uspstdf.click
 www.usrkj.com
-www.usuariosmxonline.com
 www.uthzoticawesome.digital
 www.uverdnes.cz
 www.uvexkask.shop
@@ -932,7 +882,6 @@ www.velvetsshift.shop
 www.veneziapolska.shop
 www.veneziawyprzedaz-pl.shop
 www.veneziawyprzedaz.com
-www.veneziawyprzedaz.shop
 www.venezlosale-pl.shop
 www.venezlosale.shop
 www.venicecanoe.com
@@ -987,7 +936,6 @@ www.vuhewau.pro
 www.wabihome.shop
 www.wabispace.shop
 www.wabiwood.shop
-www.wallet-base.online
 www.wallet.vaultledgers.com
 www.wanpptv.com
 www.wardpeter.shop
@@ -1017,6 +965,7 @@ www.wekstronpro.com
 www.wellsfraudsupport.com
 www.welsun.pl
 www.weps.org
+www.wetalaurore.com
 www.wetrl-file18273892.viewf-sso827362.online
 www.wfruichen.com
 www.whatsappvips.com
@@ -1077,6 +1026,7 @@ www.yfood-polska.pl
 www.yfoodpolska.pl
 www.yheanqmi.com
 www.yinxing688.com
+www.yizhihuiwu.com
 www.yjjxj.com
 www.ynsua.com
 www.yokkao-polska.pl
@@ -1437,6 +1387,7 @@ x7.x8xmho.cfd
 x7g2mg.webwave.dev
 x7k1zp.lat
 x7k4m3.cfd
+x7m5bp.lat
 x7mn4qt.casa
 x7mt5qn.skin
 x7mz4qn.skin
@@ -1655,7 +1606,6 @@ xcicip.com
 xclmt.com
 xclubmy.com
 xcmgri.com
-xcmvbn.site
 xcnmewr3.click
 xcorewave.site
 xct.q5wikm.casa
@@ -1676,6 +1626,7 @@ xdire.heyskip.com
 xdist.blackfemmesurvival.com
 xdj.tq5qdt.cfd
 xdjtz.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
+xdmeogt.com
 xdrivecapital.com
 xds.j6iwuq.sbs
 xdsmart.com
@@ -1690,7 +1641,6 @@ xedecareers.com
 xedgenet.site
 xedjsiksdjiaodisdd.site
 xeerfisidosdpaodaadp.site
-xegaru.pro
 xeh.pl-mandat.com
 xehap.com
 xeheca.com
@@ -1766,6 +1716,7 @@ xenobrain.site
 xenocrystal.work
 xenodrivegear.site
 xenoforge.site
+xenogear.blog
 xenogovia.site
 xenohub.shop
 xenojwore.site
@@ -2735,7 +2686,6 @@ xtimes10.com
 xtiobackgo.xyz
 xtjzgg.com
 xtkip.com
-xtoje.com
 xtpnd.com
 xtqdzc.com
 xtracorewave.site
@@ -3029,6 +2979,7 @@ y2o7v8.webwave.dev
 y31820g341-2.lat
 y345934983984.cfd
 y3c8nh.lat
+y3d8ht.lat
 y3eb5nx.cc
 y3k-9d.site
 y3ku9d.hair
@@ -3185,7 +3136,6 @@ yashofficial.site
 yasindusoruth.com
 yasitbag.com
 yasmine-messara.com
-yasminpuncak.com
 yasndikk.shop
 yasrr.com
 yassim.ext826180.pro
@@ -3407,7 +3357,6 @@ yhhqy.com
 yhijeeovyrle.eu
 yhnlf.com
 yhnori05.com
-yhnujm.site
 yhparvippl.com
 yhqby.com
 yhtdf.com
@@ -3482,6 +3431,7 @@ yivasavunma.com
 yiyigy.com
 yiyny.com
 yizgo.com
+yizhihuiwu.com
 yj4sjx.sbs
 yjayfhed.shop
 yjbzzj.com
@@ -3500,7 +3450,6 @@ ykateba.pro
 ykm.de
 ykmimarlikstudio.com
 ykmlgs.com
-yknct.us
 yknolant.com
 ykonaf.online
 yksdeneme.com
@@ -3864,7 +3813,6 @@ ytsh63e.top
 ytsketch.com
 ytskw.com
 ytterbic-amber-qilwigl2.edgeone.dev
-ytterbic-amber-qtvi6cek.edgeone.dev
 ytterdisav.cyou
 yttrcurveoj.site
 yttrgyre.site
@@ -4119,6 +4067,7 @@ z3vqalyx-platform.com
 z3vqalyx.digital
 z3vqalyx.net
 z4-sxp.site
+z4c7mv.lat
 z4mn9qp.casa
 z4mv9kx.skin
 z4nzqc.sbs
@@ -4350,6 +4299,7 @@ zakatekotwartychpomyslow.site
 zakawkazlot.cfd
 zakcaupy.shop
 zakiazaytoun.com
+zaklady-ceramiczne.shop
 zaklady.top
 zakladybolesl.homes
 zakladyboleslawiec-online.shop
@@ -4383,6 +4333,7 @@ zakladyboleslk.homes
 zakladybolslk.homes
 zakladybolslka.homes
 zakladybolslkz.homes
+zakladybolslkzs.homes
 zakladyceramiczne.shop
 zakladykspl.shop
 zakladys.online
@@ -4430,6 +4381,7 @@ zal0g-ds72a.pl
 zaladanoutlets.com
 zaladujpakla.com
 zalando-de.trekplsdfsdfsdfdsfdsfeister-nl.sbs
+zalando-eu.buy-vera.com
 zalando-nl.top
 zalando-online.sbs
 zalando.blog
@@ -4670,6 +4622,7 @@ zasobost.com
 zaswskeoakweriaodple.site
 zaszzzksdoosdoadsk.site
 zatorskaprzygoda24.eu
+zatrimsz.shop
 zatuzei.pro
 zatyczkiloopearplugs.com
 zaudi.toddetzel.com
@@ -5380,7 +5333,6 @@ zfaste.cyou
 zfb-jk.com
 zfgjg.com
 zfgt.shop
-zfloorsu.com
 zfnch.com
 zfslw.com
 zftrkh.info
@@ -5403,6 +5355,8 @@ zgjxjs.com
 zgloszenia.puescinc.com
 zgnbny.com
 zgnmbb.com
+zgod-481029.eu.cc
+zgod-930218.eu.cc
 zgodnosc.podatkina.com
 zgp520.com
 zgrbhz.com
@@ -5648,6 +5602,7 @@ ziraatbankasiai.live
 ziraatbankasitech.com
 ziraatyatirimborsahesabi.pro
 zirbankasiai.click
+zircon-fondmoor.click
 zirconledger.com
 zirelobunari.com
 ziresto.shop
@@ -5883,7 +5838,6 @@ zohaze-jacodi.info
 zoidinsap.cyou
 zoiuj.com
 zojanau.com
-zojina.pro
 zokehou.world
 zokienkaodkuchennegoparapetu.xyz
 zokienkaodkuchennegostolikapodoknem.top
@@ -6243,7 +6197,6 @@ ztria.twpadmin.com
 ztrzechscianpokojuzczwartej.xyz
 ztrzeciegopiananarozumiejsca.top
 ztrzeciegopietraobokkreconychschodow.top
-ztxr.arcavon.info
 ztygldlawroclawia.top
 ztygodnawkrakowie.xyz
 ztygodniawdrugiej.xyz
@@ -6321,6 +6274,8 @@ zupaqaobe.autos
 zupda.cyou
 zupgradey.suzerin.com
 zuprel.shop
+zuqvemrok-germany.sbs
+zuqvemrok-spain.sbs
 zur-sternwarte.mom
 zurelochain.digital
 zurelochain.shop
@@ -6610,6 +6565,7 @@ zysw1010.com
 zythimatte.rest
 zytolio.pro
 zytrixapex.com
+zytroxbrevon.com
 zytsw.com
 zytwbjqd.shop
 zytyj.com
