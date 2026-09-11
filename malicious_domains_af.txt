@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-11T04:05:49.466Z
-# Segment: af (6/6) | Entries in this file: 5320 | Total in full list: 155320
+# Generated: 2026-09-11T10:05:52.818Z
+# Segment: af (6/6) | Entries in this file: 5331 | Total in full list: 155331
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     155320 valid, 155320 new after dedup | OK
+#     155331 valid, 155331 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,6 +14,13 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+x2vn7qm.skin
+x2wfdn.fit
+x2wfdn.site
+x3dzmp.fit
+x3f-5r.asia
+x3f-5r.fit
+x3f-5r.site
 x3f-5r.top
 x3f-5r.wiki
 x3f-5r.xin
@@ -1899,6 +1906,7 @@ ydecl.tower-trash.com
 ydevi.losherbaristas.com
 ydgds.com
 ydkj666.com
+ydljmn.com
 ydmzxc.com
 ydshipin.com
 ydswf.com
@@ -1932,6 +1940,7 @@ yelbuke20.com
 yeldunravu-app.com
 yeldunravuai-app.com
 yelgar.info
+yelkaasesoriaempresarial.lat
 yelkenflama.com
 yelkentur.com
 yellow-cheetah-715428.hostingersite.com
@@ -2705,6 +2714,7 @@ yzzbuy.com
 yzznwj.com
 z-2wpm.site
 z-aokesports.com
+z-bio.link
 z-g-m.com
 z-m-h.com
 z-m7kp.shop
@@ -5157,6 +5167,7 @@ zynk88.online
 zynmark.site
 zynnex.pro
 zynovetpharma.com
+zynovolt.net
 zynpilot.site
 zynqorava365.info
 zynqrexx.net
