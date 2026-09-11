@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-11T04:05:49.466Z
-# Segment: ab (2/6) | Entries in this file: 30000 | Total in full list: 155320
+# Generated: 2026-09-11T10:05:52.818Z
+# Segment: ab (2/6) | Entries in this file: 30000 | Total in full list: 155331
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     155320 valid, 155320 new after dedup | OK
+#     155331 valid, 155331 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,6 +14,41 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+booking.hotel-status-prearrival.com
+booking.hotel-stay16.com
+booking.hotel-stayse87401.com
+booking.hotelstatus127542.com
+booking.housegoldehoms.com
+booking.id48667.com
+booking.id61707739219.click
+booking.id68143.click
+booking.id78788.click
+booking.id943563.com
+booking.interaction.lat
+booking.jxdccz.com
+booking.latimhome-confirmation.com
+booking.latin-confirmation.com
+booking.lelittre-confirmation.com
+booking.luxurylocations2026.com
+booking.milanid2026.net
+booking.mlhz88.net
+booking.number-room-eu.com
+booking.pppzixun.com
+booking.pre-arrivial-validate.com
+booking.prearrival-hub.com
+booking.prearrival-stay-status.com
+booking.prearviallstatus-guest.com
+booking.processing-approve.com
+booking.qdwanheda.com
+booking.reserrooms-botuquesfim875.com
+booking.reservations-bookstay.icu
+booking.rezerwacja524579.shop
+booking.rezerwacja864463.lat
+booking.rh456hvg.com
+booking.roamassist.help
+booking.romalive2026.net
+booking.room-cancel.com
+booking.secure-validate.com
 booking.service-booking-returns.com
 booking.servicearea.shop
 booking.servicepanel.rest
@@ -121,7 +156,6 @@ bootedcalimmco.info
 bootlacenonuseccs.info
 bootlmassa.cyou
 bootsoutletpolska.com
-bootsphy.com
 booxlkverse.shop
 boozybrowser.com
 bopitu.com
@@ -135,6 +169,7 @@ borboimpar.cyou
 borborygmuoa.pro
 borde.saeaccess.com
 bordeamos.click
+borderclick.com
 bordereaudedepostsecurise.com
 bordodicro.rest
 bordqika.vip
@@ -790,7 +825,6 @@ bramoviquldrexan.digital
 bramridgetrust.live
 bramridgetrust.pro
 bramtravels.com
-bramwellenos.shop
 branche-rendalie-ai.com
 brancherendalie.com
 branchesfinish.xyz
@@ -1285,7 +1319,6 @@ bright-vaultmere.live
 bright-wanderer.com
 bright-wedge.com
 bright-yieldholm-ai.fyi
-bright-yieldholm.net
 bright-zone-core.pro
 bright4note.info
 brightaccrudance.net
@@ -1691,7 +1724,6 @@ brouillardvineyard.com
 brovalen.online
 broventi.click
 brovexaria.com
-brovinkaste.top
 brovlie.info
 broward-treasury.com
 browardcommunityschool.com
@@ -3489,7 +3521,6 @@ cabalancenori.com
 caballoandante.com
 caballoandante.org
 cabalrentorio-es.fyi
-cabalrentorio.net
 cabanasuspedeal.ro
 cabanedeloiseau.com
 cabbageatte.yearofblood.com
@@ -3672,7 +3703,6 @@ cainternationaldab.com
 cainternationaldop.com
 cainternationalline.com
 cainternationalplub.com
-cairn-fundholm.net
 cairn-phundholm.live
 cairnfundholm-ai.fyi
 cairnfundholm.fyi
@@ -3772,6 +3802,7 @@ caliuo.shop
 call.instlyfpaie.com
 callaflowers.mom
 callaloonnhydrographic.info
+callback.safexpayment.in
 callcenterbigdata.com
 callgirlbook.xyz
 callgraph.cyou
@@ -3996,7 +4027,6 @@ canalsuportenet.com
 canamaja.com
 canapinfar.cyou
 canard-gov.com
-canardd.com
 canarecw.com
 canary.sec-whatsapp.com
 canary.static-whatsapp.com
@@ -4755,6 +4785,7 @@ casso.tciaffiliateprogram.com
 cassorio-it.fyi
 casstastrophe.com
 cast-happen.uncrn.co
+castcum.com
 casteadynexo.com
 casteggllansglottis.info
 castelbelpl.shop
@@ -4985,7 +5016,6 @@ cazkazenonix-ai.com
 caztoqgmj.top
 cazzeantis.cyou
 cb-dashprovider.org
-cb-ssl.org
 cb-ticketportal.com
 cb.mszggkt.com
 cb0515riv6w74cs9.fantom.neriobazzano.it
@@ -5049,7 +5079,6 @@ cccoutlet.uk
 cccpl.online
 cccpl.vipsale.co
 cccplsell.top
-cccs-pl.shop
 cccsport.club
 cccsport.shop
 ccdgander.com
@@ -5371,7 +5400,6 @@ cenforan.cfd
 cengizhanmuderrisoglu.com
 cenifondo-flatilliosoft.com
 cenka.shop
-cennostow-app.com
 cennostow.com
 cennostow.digital
 cennostow.net
@@ -5572,7 +5600,6 @@ certero-metovia.live
 certerometovia.com
 certerometovia.live
 certerorentovia.net
-certesnewrs.com
 certificado.vouserpai.com.br
 certificlexhub.info
 certifiedcleaningnyc.com
@@ -5905,8 +5932,10 @@ chartreuse-fox-501659.framer.app
 charvistore.com
 chase.bioplass.com
 chase.com.cobblestonesw.com
+chase.personalaccount.app
 chaseeriodppado.site
 chasethevision.us
+chaseuk.personalaccount.app
 chassisnine.internetfirehouse.com
 chat.standardbroadband.ca
 chat.z.ai
@@ -6771,7 +6800,6 @@ civitta.shop
 civoraquota.net
 civylya.pro
 civyqeu.pro
-ciwypii.com
 cixero.com
 cixevey.homes
 cizimtek.com
@@ -6994,6 +7022,7 @@ claugentor.net
 clausingroud.live
 clausminsuri.com
 clauvictorun.live
+claviejjristic.info
 clavorentix.xyz
 clavusholdings.com
 clawepertu.autos
@@ -7566,6 +7595,7 @@ cn-web-yoolive.com
 cn-zhengrong.com
 cn.1mebetx.com
 cn.comm-whatsapp.com
+cn.memxzf.com
 cn.static-whatsapp.com
 cnahcs.com
 cnarrowh.tkoent.com
@@ -7912,6 +7942,7 @@ coinfliptrade.com
 coingpt.biz
 coingpt.nl
 coinhdinom.store
+coinhouseavis.net
 coinhuge.xyz
 coinlore-titan-app.com
 coinmarket-io-en.wixstudio.com
@@ -9298,6 +9329,7 @@ cotacao-nacional.online
 cotamstudio.mom
 coteassetage-fr.fyi
 coteassetage-pt.fyi
+coteassetage.net
 coteassetage.pro
 cotedparainfluenzazzs.info
 cotijuba.com
@@ -9491,6 +9523,7 @@ cpuip.vu
 cpwehwhhhdsjddjkdfhesh-dps076qx66zp.edgeone.dev
 cpwzp.com
 cq-safewatch.grupocgd.co
+cq.lzkqhez.net
 cqalfilkltypnld.com
 cqbds.com
 cqfjjt.com
@@ -9575,7 +9608,6 @@ cranxihob.cyou
 craporifos.cyou
 crapucockc.cyou
 craque.co
-crashh5car.pro
 crashwoaarthy.life
 crasssbarr.cyou
 cratek.maximolshevsky.com
@@ -9870,7 +9902,6 @@ crestvaultshire.net
 crestvaultshire.online
 crestvaultshire.shop
 crestvermothal.net
-crestway-talyx.com
 crestyieldmere-ai.fyi
 crestyieldmere.pro
 crestyieldvale.com
@@ -10736,7 +10767,6 @@ cyberphantasm.shop
 cyberpolicja.com
 cyberquant.pro
 cyberrbyte.info
-cyberroamy.digital
 cybersecurity.contractors
 cybersecurityacademycq.info
 cybersecurityexpertsys.pro
@@ -11173,7 +11203,6 @@ dailyheadline.space
 dailyheadline.xyz
 dailyhearth.eu
 dailyhollow.eu
-dailyhub.site
 dailyhubx.info
 dailyindex.info
 dailyinfo.site
@@ -11505,7 +11534,6 @@ dashaloxi200trade.com
 dashboard-admin.is-certified.com
 dashboard-browser.com
 dashboard-choice.com
-dashboard-dplus.com
 dashboard-panel.online
 dashboard-rho.com
 dashboard-view7341.shop
@@ -12845,6 +12873,7 @@ dev.casaderincon.com
 dev.fiorin.app
 dev.m3e-gmbh.com
 dev.monalisaod.net
+dev.uspsstampstogo.com
 dev1-eronis.poweredbywasabibeta.com
 dev3.evoaccess.com
 devakspvc.com
@@ -12853,10 +12882,8 @@ devanshfoods.com
 devappweb.com
 devbfjsierfhiss.site
 devbulut.net
-devcatools.pcriot.com
 devdexentertaiment.wixstudio.com
 deved.vu
-developed-moccasin-gsqaxb6nfs-kkobyqpwga.edgeone.app
 developedtheories.com
 developermoidul.xyz
 developerscorridor.the-rcode.com
@@ -12944,6 +12971,7 @@ dextimetra.site
 dextova.blog
 dextrlose.cyou
 dextronixbot-software.com
+dextrspana.store
 dextsipath.site
 dexttapki.site
 dextyxflair.site
@@ -13040,9 +13068,7 @@ dhchg.com
 dhdq168.com
 dhehhedbfk.com
 dhihairexpert.com
-dhillshopping.com
 dhinprison.org
-dhjglhs.bond
 dhkpitea.lol
 dhl-express-outre-mer.com
 dhl-express-test.lobster-cloud.com
@@ -13710,6 +13736,7 @@ disaccoble.cyou
 disacextru.cyou
 disacimman.rest
 disacrigua.cyou
+disacunobv.store
 disadconve.rest
 disadforni.store
 disadunsym.cyou
@@ -14204,7 +14231,6 @@ dizaynotopaspas.com
 dizaynyapimalzemeleri.com
 dizigappre.cyou
 dizzy-ocelot-025652.framer.app
-dizzydomaintrack.com
 dj3cvg.eu
 dj5xmz.sbs
 dj6smith.net
@@ -14748,6 +14774,7 @@ donats.digital
 donbrownministries.com
 doncasterhomebuyers.com
 dondantyzip--elirdgz.replit.app
+dondantyzip--nelsonandflanag.replit.app
 donerizma.com
 donerj.com
 donerkesmemakinasi.com
@@ -14870,6 +14897,7 @@ dornatrixel-engine.com
 dornatrixel-system.com
 dorncapwick.click
 dorncapwick.com
+dornegyrfa.store
 dornejon.com
 dornrendthal.live
 dornwealthstead-ai.com
@@ -16607,7 +16635,6 @@ dvg.x7paqt.sbs
 dvhawkins.com
 dvigok-warszaw.live
 dvlaselect.org
-dvoa-cdfvo.com
 dvondaluronai.net
 dvslocksmith.com
 dvtvvv.com
@@ -16920,6 +16947,7 @@ e-zikoapteka.svetnapojovs.help
 e-zoy.com
 e-zpassgroup-update.20-244-12-151.cpanel.site
 e-zpassgroupstatement.20-244-12-151.cpanel.site
+e.vg
 e.zonka.co
 e0aoi7c.skin
 e0c0.com
@@ -18385,7 +18413,6 @@ email-social.com
 email-y87mxhwnvfiu4wu2favff3t4dgthtbb4pm9jtpbfhlcjbnet.6designs.net
 email.alternatives.digital
 email.mail.iteratehq.com
-email.previewship.net
 emailnotifications.m365-microsoft.com
 emailowzlot24.com
 emails.collaboration.vu
@@ -18394,6 +18421,7 @@ emailtronix.com
 emaiy.icu
 emana.lifeofthepartyband.com
 emanasera.cyou
+emanuelabsoluciones.com
 emaslyk.biuro-subskrypcja.sbs
 ematr.nauzsagalore.com
 emaysi.com
@@ -18522,6 +18550,7 @@ emjsdjeisodksdoeksjd.site
 emlakspace.com
 emlakvegaleri.com
 emlakzip.com
+emlowealt.store
 emmaadam.shop
 emmagonzales.com
 emmakioko.com
@@ -18984,7 +19013,6 @@ ennergy.ink
 ennncashable.info
 ennonly281.com
 ennpassage.tirtawr.com
-ennper.cfd
 enochjim.shop
 enochjoel.shop
 enodea.sbs
@@ -19673,7 +19701,6 @@ escogengra.cyou
 escogsesse.shop
 esconcalci.autos
 escondidoweekly.com
-escorgulon.rest
 escripts.org
 escroregen.cyou
 escuadronlegal.com
@@ -19734,6 +19761,7 @@ esnoutleteur.com
 esnstoreeur.shop
 eso-inzeniring.top
 esocrapru.rest
+esodeautoc.store
 esohaber.com
 esonerugum.cyou
 esophstagn.cyou
@@ -19835,6 +19863,7 @@ essorinvexaro.shop
 essorinvexaroai.click
 essorinvexarotech.com
 essorluxent-engine.com
+essorluxent.org
 essorluxera-es.fyi
 essorluxera-fr.fyi
 essoropulex.digital
@@ -20097,6 +20126,7 @@ eu-kurtgeiger.shop
 eu-mammuts.shop
 eu-movarastudio.com
 eu-msnsx.com
+eu-oferta11092.sbs
 eu-oferta49818453.click
 eu-official.shop
 eu-outlet-store.shop
@@ -20252,7 +20282,6 @@ eur.smobyclub.com
 eur.smobytime.com
 eur.stanlay1913.com
 eur.stanlayshop.com
-eur.stanlyss1913.com
 eurains.shop
 euralux.pro
 euratempan.com
@@ -20342,7 +20371,6 @@ europelidl.com
 europeoutlet.shop
 europeparks.shop
 europestyle-sale.shop
-europetranslations.net
 europrojectunisrl.com
 euroquantumpro.com
 euroquantumtech.com
@@ -20468,7 +20496,6 @@ everexedgefoundation.net
 everfarewell.site
 everfield.mobi
 evergrammar.space
-evergreencoastgate.com
 evergreenfield.eu
 evergreenquantum.digital
 evergroveharmony.digital
@@ -20675,7 +20702,6 @@ exawre.icu
 exbbcz.com
 excamsepel.store
 exceepuddl.cyou
-excel-micro.wasmer.app
 excel-trainings.com
 excelkryptotrading.net
 excellab365.com
@@ -20757,7 +20783,6 @@ exinturkey.com
 exionedgetrade.com
 exisheska.info
 exito-ambiental.org
-exitodoribax-app.com
 exitor-luxerise.net
 exitorluxerise.club
 exitplanhotsauce.com
@@ -21138,6 +21163,7 @@ f1ieldbit.info
 f1izsv.cfd
 f1km5r.lat
 f1llowwide.info
+f1nancier.com
 f1q7vh.lat
 f1yapiinsaat.com
 f1z7nc.lat
@@ -22375,7 +22401,6 @@ ferygaclogam.pro
 ferylyxai.com
 ferylyxai.net
 ferylyxai.shop
-fest-fondstein.net
 festac-inc.online
 festervumon-software.com
 festfondstein.org
@@ -23311,6 +23336,7 @@ finanzbotki.live
 finanzbotkiengine.com
 finanzbotplatform.com
 finanzbottrade.com
+finanzen-im-fokus.online
 finanzforensik.net
 finanzielle-freiheit.cyou
 finanziellebildung-de.com
@@ -25091,6 +25117,7 @@ fisios0-illum11.sbs
 fisios0-illum12.sbs
 fisios0-illum59.sbs
 fisios0-in20.sbs
+fisios0-ipsa24.sbs
 fisios0-labore15.sbs
 fisios0-labore44.sbs
 fisios0-molestiae97.sbs
@@ -25158,6 +25185,7 @@ fisios1-voluptatem8.sbs
 fisios1-voluptatibus29.sbs
 fisios1-voluptatum65.sbs
 fisios2-amet36.sbs
+fisios2-at81.sbs
 fisios2-aut48.sbs
 fisios2-consequatur52.sbs
 fisios2-corporis78.sbs
@@ -25185,6 +25213,7 @@ fisios2-non7.sbs
 fisios2-nulla94.sbs
 fisios2-pariatur98.sbs
 fisios2-praesentium27.sbs
+fisios2-qui61.sbs
 fisios2-qui87.sbs
 fisios2-quia51.sbs
 fisios2-quia95.sbs
@@ -25252,6 +25281,7 @@ fisios3-soluta32.sbs
 fisios3-suscipit35.sbs
 fisios3-unde11.sbs
 fisios3-unde22.sbs
+fisios3-ut80.sbs
 fisios3-vel42.sbs
 fisios3-velit13.sbs
 fisios3-velit51.sbs
@@ -25280,6 +25310,7 @@ fisios4-ex33.sbs
 fisios4-excepturi4.sbs
 fisios4-exercitationem8.sbs
 fisios4-fuga18.sbs
+fisios4-harum11.sbs
 fisios4-in97.sbs
 fisios4-laudantium88.sbs
 fisios4-libero19.sbs
@@ -25300,6 +25331,7 @@ fisios4-quos85.sbs
 fisios4-rerum3.sbs
 fisios4-sint63.sbs
 fisios4-soluta40.sbs
+fisios4-veniam27.sbs
 fisios4-voluptatem72.sbs
 fisios4-voluptatem90.sbs
 fisios5-animi19.sbs
@@ -25307,6 +25339,7 @@ fisios5-architecto52.sbs
 fisios5-at38.sbs
 fisios5-aut36.sbs
 fisios5-corporis8.sbs
+fisios5-cum38.sbs
 fisios5-delectus93.sbs
 fisios5-deserunt70.sbs
 fisios5-dicta96.sbs
@@ -25339,6 +25372,7 @@ fisios5-repellat84.sbs
 fisios5-repellendus84.sbs
 fisios5-sequi72.sbs
 fisios5-sint66.sbs
+fisios5-sit20.sbs
 fisios5-sit3.sbs
 fisios5-soluta59.sbs
 fisios5-suscipit85.sbs
@@ -25358,6 +25392,7 @@ fisios6-consequatur97.sbs
 fisios6-dolor14.sbs
 fisios6-dolorum52.sbs
 fisios6-eos82.sbs
+fisios6-est26.sbs
 fisios6-est61.sbs
 fisios6-et79.sbs
 fisios6-eveniet28.sbs
@@ -25422,6 +25457,7 @@ fisios8-aut74.sbs
 fisios8-aut91.sbs
 fisios8-consequatur65.sbs
 fisios8-debitis48.sbs
+fisios8-deserunt12.sbs
 fisios8-dolore94.sbs
 fisios8-enim92.sbs
 fisios8-est56.sbs
@@ -25504,7 +25540,6 @@ fission-drive.com
 fission-haze.com
 fission-spark.com
 fissiona-horizon.com
-fissitesse.rest
 fissjizvault.site
 fisslanode.site
 fisslutrail.site
@@ -25612,7 +25647,6 @@ fjallr-mall.shop
 fjallreuoutlet.shop
 fjalltravelwear.shop
 fjbjx.lg8ems.top
-fjel-brunstavikka.info
 fjel-bruntdova.info
 fjell-valtrixsolution.com
 fjellkarta.pro
@@ -25685,7 +25719,6 @@ flamecrest-ranger.com
 flamegrills.com
 flamencaastridhohle.es
 flamenta.com
-flamgordeviksta.info
 flamgresholt.info
 flamgreshund.info
 flamgresthavd.info
@@ -26101,7 +26134,6 @@ flruftex.info
 fls-a1eaceca-fdc7-4744-a102-835c501a9e99.laravel.cloud
 fls-a282443e-5c51-480f-a970-72d906602daa.laravel.cloud
 fls-a28e90fb-e473-45b8-b0a7-d4a6d9c50db3.laravel.cloud
-fls-a2b3065d-afb4-4e9d-88c1-b1b9e2ca48f8.laravel.cloud
 fls5.d3vvtx.casa
 fltransportlogistikspolkazoo.com
 fluchos.win
@@ -26111,10 +26143,8 @@ fluestock.com
 flufconde.cyou
 fluffbalbblclerihews.info
 flufffy1pillow.info
-flufffy7tail.pro
 fluffmatic9hub.info
 fluffmcloud.com
-fluffy3tail.pro
 flugrizox-ai.com
 fluhaxyndor.vip
 fluid-footprint-036602.framer.app
@@ -26441,7 +26471,6 @@ fonq-nl.top
 fontactivnutricion.com
 fontebitanza.net
 fontefinvalis-ai.fyi
-fontefinvalis-app.com
 fontefinvalis-it.fyi
 fontefinvalis.top
 fonteinvestenza.net
@@ -26721,7 +26750,6 @@ formumedes.cyou
 formureper.cyou
 formvisionfocus.pro
 fornappon.club
-fornelaonelyx.net
 fornelaonelyx.org
 forneygold.com
 fornirossi777.mom
@@ -27232,6 +27260,7 @@ francelombergar.com
 franchisersrectibbfy.info
 franchocolate.com
 francineorhan.shop
+franciscojfcosta1787865291113.0720058.meusitehostgator.com.br
 francishomelive.com
 francisomalley.org
 francobrickmasonry.com
@@ -27242,7 +27271,6 @@ francoiseelvin.net
 francorea-fin.digital
 francoreafinpro.com
 francoreservian-es.fyi
-francoreservian.net
 francoreserviantrade.com
 francowebsolutions.com
 francprofitence-fr.com
@@ -27288,6 +27316,7 @@ frastol.shop
 frattrasht.click
 fratura.urge284671.pro
 fraud-cordacu.org
+fraudcheck.sviluppo.host
 fraude-ing.com
 fraudshieldrecovery.net
 fraudteam-eemobile.com
@@ -27585,9 +27614,6 @@ frizesimpa.cyou
 frizimyelo.cyou
 frizz6yhair.pro
 frizzroent.cyou
-frizzsulph.rest
-frizzzy9cut.pro
-frlidl-outlet.shop
 frmrdo-onlline.top
 frnca137.com
 frnews.site
@@ -28716,7 +28742,6 @@ garagoverg.store
 garagtracc.rest
 garaj.shop
 garanagiomil.com
-garanthmn.art
 garantiedatenbank.net
 garantipara.com
 garantipsikoloji.com
@@ -29989,28 +30014,3 @@ gjyex.com
 gjyrn.com
 gjzzzzag.shop
 gk.bnznji.net
-gkatxk.com
-gkgabc.site
-gkgklkfdjjglkdfkgjgdlgflkgd.com
-gkpdi.com
-gkpge-ebok.com
-gkpge-pl.pem.pe
-gkpge.acrobatsign.sbs
-gkpge.fakturaklientaabonamentowego.com
-gkpge.miesiecznafakturaklienta.com
-gkpge.mojepremiumservice.com
-gkpge.subscribeaccount.com
-gkpgepl.wpdevcloud.com
-gkssa.org
-gkufh.com
-gkuiujhdkvk.nport.link
-gkyhq.com
-gkyui.com
-gl-jj.com
-gl.willmayerc4o.com
-gl9sqj.sbs
-glabmspark.shop
-glacial-cove.com
-glacial-frost.com
-glacial-mint.com
-glacial-mist.com
