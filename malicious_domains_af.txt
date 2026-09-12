@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-12T10:05:49.018Z
-# Segment: af (6/6) | Entries in this file: 4560 | Total in full list: 154560
+# Generated: 2026-09-12T16:05:49.051Z
+# Segment: af (6/6) | Entries in this file: 4557 | Total in full list: 154557
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     154560 valid, 154560 new after dedup | OK
+#     154557 valid, 154557 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,10 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-xn--albilet-b9a.174257d5.sbs
-xn--albilet-b9a.178352476v6.sbs
-xn--albilet-b9a.18235278z6.sbs
-xn--albilet-b9a.1826346f7.sbs
 xn--albilet-b9a.183528x56.sbs
 xn--albilet-b9a.188139.click
 xn--albilet-b9a.1945jkk.shop
@@ -398,6 +394,7 @@ xn--app-medife-i0b.eu
 xn--chq8c94d62eyzat95cevlp73a.com
 xn--crudit-gva.domici11920.pro
 xn--drjsus-dva.com.br
+xn--entrepreneur-lgal-otb.fr
 xn--fiqx4b39po3g7l1ayg1b.com
 xn--klver-kua.se
 xn--le-registre-des-societes-franaises-37c.fr
@@ -430,6 +427,7 @@ xnordiqo.live
 xnpaw.com
 xnqsly.com
 xnryw.com
+xnsqbw.com
 xnxhbx.com
 xnzhj.com
 xodus-web3.wixstudio.com
@@ -671,6 +669,7 @@ xtwis.space
 xtxcom.wixstudio.com
 xtycys.com
 xtzjc.com
+xuanzhentaisui.com
 xuaoka.com
 xubamyy.com
 xucylue.world
@@ -1102,7 +1101,6 @@ yb.xlksmp.net
 yb028.com
 yb842190123.click
 yb885189091.click
-ybegine.casa
 ybgvfp.work
 ybgvfr.fit
 ybgvft.fit
@@ -1718,6 +1716,7 @@ ytisuq.pro
 ytjcdq.com
 ytjcsm.com
 ytjili.com
+ytjinyin.com
 ytkeg.cfd
 ytmdance.mom
 ytmjta.info
@@ -1757,6 +1756,7 @@ yuancunnongye.com
 yuandeauto.com
 yuanne.com
 yuanpayapp.com
+yuantaihb.com
 yuantrademaster-top-one.financecryptoworld.com
 yuanweixian.com
 yubernb.info
@@ -2489,7 +2489,6 @@ zaqswe656-oplkiuj897.premiumspark.su
 zaqwen.cfd
 zaqxsw.work
 zara.workforce-career-network.com
-zarabianienaankietach24.pl
 zarada-portfel.live
 zaradaportfel.net
 zaradaportfel.shop
@@ -2635,7 +2634,6 @@ zd-gabion.com
 zd-vwx.com
 zd-vwx.net
 zddrj.com
-zdecl.megagamelike.com
 zderioxan-app.com
 zdhac.com
 zdire.turbosolver.com
@@ -2841,7 +2839,6 @@ zelvico.info
 zelvico.shop
 zelvistium.pro
 zelvorithax.com
-zelvotrun.pro
 zelvutarapex.com
 zemantraki-de.live
 zemantraki.live
@@ -3286,12 +3283,12 @@ zgrkj43wiq.shop
 zgrsxz.com
 zgsab.com
 zgsac.com
-zgshvjea.shop
 zgsmzs.com
 zgsstr.com
 zgwzt.com
 zgyehdgeg.com
 zgymglamour.top
+zgyncn.com
 zgynrrjy.shop
 zh-8568f96248.preview.weglot.io
 zh-9youapps.com
@@ -4212,7 +4209,6 @@ zus.emerytpl.com
 zusaktual.lwstatic.com
 zusymie.pro
 zutabe.info
-zutigrafika.pl
 zuverfin.net
 zuvexx.top
 zuviraleno.de
@@ -4490,6 +4486,7 @@ zyvox.digital
 zyvqaro.shop
 zyvralen-app.com
 zyvralen-denmark.com
+zyvralen-france.com
 zyvralen-ireland.com
 zyvralen-italy.com
 zyvralen-netherlands.com
