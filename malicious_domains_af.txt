@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-13T10:05:49.012Z
-# Segment: af (6/6) | Entries in this file: 4042 | Total in full list: 154042
+# Generated: 2026-09-13T16:05:49.224Z
+# Segment: af (6/6) | Entries in this file: 4008 | Total in full list: 154008
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     154042 valid, 154042 new after dedup | OK
+#     154008 valid, 154008 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,41 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-xqpbq.com
-xqswfd.com
-xqtpw.com
-xquirehdfh.customerdocument.com
-xr.wv7qwu.casa
-xr8s.com
-xrampek.info
-xreadit.site
-xredadoz.net
-xrjvjz.com
-xrlrd.com
-xrmytc.com
-xrnxc.com
-xrolvadeno.shop
-xrows.cyou
-xrplatform.digital
-xrt.kz7dsq.top
-xruit.com
-xrunpelyx-ai.live
-xrunpelyx-es.live
-xrunpelyx-fr.live
-xrunpelyx-nl.live
-xrunpelyx-ro.live
-xrunpelyx.live
-xrunpelyxplatform.com
-xrunpelyxtrade.com
-xrxef.com
-xs.d3qkkd.sbs
-xs9.do1ofk.sbs
-xsajk.com
-xsbmarketing.com
-xscalarw.courses
-xscaptcha.com
-xsd668899.com
-xsfad.com
 xsfh.shop
 xsharpw.retailnes.com
 xshcfb.com
@@ -672,7 +637,6 @@ yellowcrystal.garnenterprise.com
 yellowdkey.yellowanemone.com
 yelloweasyqe.info
 yellowflyingbear.com
-yellowkvalencia.seahoop.com
 yelostone.com
 yelvick.live
 yelvihedgetrade.com
@@ -941,7 +905,6 @@ yokusfightclub.com
 yol.marketproapp.com
 yolderebeton.com
 yoledu-yuyibu.info
-yolegedo.com
 yolkeasydebonairquote.com
 yolktenewyo.rest
 yollacekelim.com
@@ -3197,7 +3160,9 @@ znbiz.com
 znczpzit.shop
 zneltarvo-app.com
 zneltarvo-austria.com
+zneltarvo-netherlands.com
 zneltarvo.net
+zneltarvo.sbs
 zneltarvosoft.com
 zngposqrmenu.com
 zngtpna.ca6a8b74-32ac-45ea-84f0-fb607b8789ab.click
@@ -3318,6 +3283,7 @@ zooart.kicks-se.shop
 zooart.mgi-es.com
 zooart.selgros24.shop
 zooart.shimanoeu.sbs
+zooart.shop
 zooart.voetbalshop-co.com
 zooart.xxxxfish-hu.sbs
 zooart.zlbzlb.top
