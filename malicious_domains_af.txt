@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-17T10:05:49.073Z
-# Segment: af (6/6) | Entries in this file: 4387 | Total in full list: 154387
+# Generated: 2026-09-17T16:05:49.118Z
+# Segment: af (6/6) | Entries in this file: 4268 | Total in full list: 154268
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     154387 valid, 154387 new after dedup | OK
+#     154268 valid, 154268 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,112 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-xn--albilet-b9a.pl-59901241.lol
-xn--albilet-b9a.pl-599124412.lol
-xn--albilet-b9a.pl-599185798124.lol
-xn--albilet-b9a.pl-5co4p.sbs
-xn--albilet-b9a.pl-60459034.click
-xn--albilet-b9a.pl-635373625373.shop
-xn--albilet-b9a.pl-64243.click
-xn--albilet-b9a.pl-651241.cyou
-xn--albilet-b9a.pl-65891248791243.sbs
-xn--albilet-b9a.pl-689912412.lol
-xn--albilet-b9a.pl-690189642.lol
-xn--albilet-b9a.pl-7543235678.click
-xn--albilet-b9a.pl-7826385818735.biz
-xn--albilet-b9a.pl-7895781.sbs
-xn--albilet-b9a.pl-79304912.click
-xn--albilet-b9a.pl-83012.sbs
-xn--albilet-b9a.pl-83022.sbs
-xn--albilet-b9a.pl-83345.click
-xn--albilet-b9a.pl-835347547.click
-xn--albilet-b9a.pl-83712.sbs
-xn--albilet-b9a.pl-84223.click
-xn--albilet-b9a.pl-84382.click
-xn--albilet-b9a.pl-84432.click
-xn--albilet-b9a.pl-85563.click
-xn--albilet-b9a.pl-86255449.click
-xn--albilet-b9a.pl-891757.cyou
-xn--albilet-b9a.pl-89179578124.lol
-xn--albilet-b9a.pl-89384051.click
-xn--albilet-b9a.pl-89452.sbs
-xn--albilet-b9a.pl-9001809642.lol
-xn--albilet-b9a.pl-90249.sbs
-xn--albilet-b9a.pl-9058712412.lol
-xn--albilet-b9a.pl-909897942.click
-xn--albilet-b9a.pl-92113.click
-xn--albilet-b9a.pl-92133.click
-xn--albilet-b9a.pl-9394274.click
-xn--albilet-b9a.pl-943293.sbs
-xn--albilet-b9a.pl-95439032.cyou
-xn--albilet-b9a.pl-957917.cyou
-xn--albilet-b9a.pl-983243.sbs
-xn--albilet-b9a.pl-984523.sbs
-xn--albilet-b9a.pl-aukcja958912.best
-xn--albilet-b9a.pl-aukcja968942.sbs
-xn--albilet-b9a.pl-hbauv.sbs
-xn--albilet-b9a.pl-l2r3s.sbs
-xn--albilet-b9a.pl-m8s8f.click
-xn--albilet-b9a.pl-oferta03116876.shop
-xn--albilet-b9a.pl-oferta21857139.shop
-xn--albilet-b9a.pl-oferta24533.sbs
-xn--albilet-b9a.pl-oferta295938.shop
-xn--albilet-b9a.pl-oferta3625bdg54.click
-xn--albilet-b9a.pl-oferta4582753.lol
-xn--albilet-b9a.pl-oferta4jdfj4s.click
-xn--albilet-b9a.pl-oferta543321.lol
-xn--albilet-b9a.pl-oferta57423598.shop
-xn--albilet-b9a.pl-oferta5jfc4dd4x.click
-xn--albilet-b9a.pl-oferta635h5fs7h.click
-xn--albilet-b9a.pl-oferta73072399.click
-xn--albilet-b9a.pl-oferta7353hd6hd.click
-xn--albilet-b9a.pl-oferta736hdt6fe.click
-xn--albilet-b9a.pl-oferta745hf65.shop
-xn--albilet-b9a.pl-oferta75h547f4.click
-xn--albilet-b9a.pl-oferta7845hf5f.shop
-xn--albilet-b9a.pl-oferta836hdhye3.click
-xn--albilet-b9a.pl-oferta84df858hf4d.click
-xn--albilet-b9a.pl-oferta84nfsdf56d.click
-xn--albilet-b9a.pl-oferta857715ha1.click
-xn--albilet-b9a.pl-oferta85fj598f.click
-xn--albilet-b9a.pl-oferta874f5h5.click
-xn--albilet-b9a.pl-ofertafirmowa746heu6feh.cfd
-xn--albilet-b9a.pl-ofertafirmowa845jhjx8n4f.click
-xn--albilet-b9a.pl-ofertafirmowa94nf87f.click
-xn--albilet-b9a.pl-ofetra74hfgsu5.click
-xn--albilet-b9a.pl-ogkbc.sbs
-xn--albilet-b9a.pl-ogloszenia-firmowe-73842.click
-xn--albilet-b9a.pl-ogloszenia-firmowe-83443.click
-xn--albilet-b9a.pl-ogloszenia-firmowe-83445.click
-xn--albilet-b9a.pl-ogloszenia-firmowe-id-332388.sbs
-xn--albilet-b9a.pl-ogloszenia-firmowe-id-883823.click
-xn--albilet-b9a.pl-ogloszenia-firmowe-id823833.click
-xn--albilet-b9a.pl-ogloszenia-firmowe-id833083.click
-xn--albilet-b9a.pl-ogloszenia-firmowe-id83380.click
-xn--albilet-b9a.pl-ogloszenia-firmowe-id838423.click
-xn--albilet-b9a.pl-ogloszenia-firmowe-id8832383.click
-xn--albilet-b9a.pl-ogloszenia-firmowe-id883828.sbs
-xn--albilet-b9a.pl-ogloszenia-firmowe-id902430.click
-xn--albilet-b9a.pl-ogloszenia-firmowe83842.click
-xn--albilet-b9a.pl-ogloszenia-firmowe8827323.click
-xn--albilet-b9a.pl-ogloszenie-pawelwisniewski9-29.click
-xn--albilet-b9a.pl-ogloszenie-prywatne763637483.click
-xn--albilet-b9a.pl-ogloszenie-prywatne765256384.click
-xn--albilet-b9a.pl-ogloszenie-tomaszkaraszewski-52.click
-xn--albilet-b9a.pl-ogloszenie4567998231.top
-xn--albilet-b9a.pl-ogloszenie5672993186.top
-xn--albilet-b9a.pl-ogloszenie5722931873.lol
-xn--albilet-b9a.pl-ogloszenie6753998232.lol
-xn--albilet-b9a.pl-ogloszenie8598192.click
-xn--albilet-b9a.pl-ogloszenie895812.sbs
-xn--albilet-b9a.pl-przvf.sbs
-xn--albilet-b9a.pl-smart0800679.sbs
-xn--albilet-b9a.pl-smart1254345.sbs
-xn--albilet-b9a.pl-smart521353.cyou
-xn--albilet-b9a.pl-smart5623523.sbs
-xn--albilet-b9a.pl-smart589154843.sbs
-xn--albilet-b9a.pl-smart5919512.cyou
-xn--albilet-b9a.pl-smart758718581.pl
 xn--albilet-b9a.pl-smart78598127.sbs
 xn--albilet-b9a.pl-smart8598124.lol
 xn--albilet-b9a.pl-smart9679499.sbs
@@ -193,7 +87,6 @@ xndlr.com
 xneurdata.site
 xneyx.com
 xnfgmysh.shop
-xnfj888.com
 xnhzpjij.shop
 xnicet.sbs
 xnjczsgs.com
@@ -489,6 +382,7 @@ xuvrel.click
 xuwawuy.com
 xuxun.net
 xv3.lg8ems.top
+xvbetiuk.shop
 xvbfx.com
 xvdianchi.com
 xvdtek.com
@@ -560,7 +454,6 @@ xyburey.com
 xyce-ld.nefxed.biz.id
 xyd9l6.shop
 xydral.pro
-xyezrp.com
 xyfmxx.com
 xyfron.digital
 xyfxyd.com
@@ -719,7 +612,6 @@ y5wzvq2xop.digital
 y6c3vn.lat
 y6p1r4.sbs
 y6t1hz.lat
-y6zvle.site
 y7n1mk.lat
 y7x.podatk.com
 y87f6s34a2qw-dp3fy8azkrz8.edgeone.dev
@@ -953,6 +845,7 @@ yektadogru.com
 yel2ri.top
 yelbuke20.com
 yeldunravu-app.com
+yeldunravu-austria.com
 yeldunravu-belgium.com
 yeldunravu-italy.com
 yeldunravu-netherlands.com
@@ -1437,7 +1330,6 @@ yriwdhiweankd.site
 yrkgzlyl.shop
 yro4jl.info
 yroun.theqsolutions.com
-yrpt888.com
 yrriwdewartdji.site
 yrrteeusidsfjusdia.site
 yrtpvn.com
@@ -1504,7 +1396,6 @@ ytnpic.com
 ytohzyv.com
 ytongfiyati.com
 ytouc.soylon.com
-ytreop.com
 ytrieosjfisdfiuwofri.site
 ytrmpzkr.com
 ytruiworjsfisodiewrjsdi.site
@@ -1562,7 +1453,6 @@ yuhjlm.com
 yuiopm.work
 yuiopq.work
 yuiurbbo.lol
-yujght.site
 yujingxuancy.com
 yukon-creditavale.cfd
 yukon-creditavale.pics
@@ -1731,7 +1621,6 @@ z-aokesports.com
 z-g-m.com
 z-m-h.com
 z-m7kp.shop
-z-m7kp.skin
 z-mycar.com
 z-ostatniej-chwili.com.pl
 z-ostatniej-chwili.pl
@@ -1746,7 +1635,6 @@ z1u.podatk.com
 z1xqrf.site
 z2m3p8.sbs
 z2mv8qx.skin
-z2nqxd.site
 z2nr7i.webwave.dev
 z2p9hc.lat
 z2pfrw.fit
@@ -1834,7 +1722,6 @@ z8nqfw.shop
 z8nqfw.work
 z8q5yw.lat
 z8rmcq.fit
-z8rmcq.site
 z8rmcq.work
 z8rxok.site
 z8t3wd.lat
@@ -2409,7 +2296,6 @@ zckec.com
 zclipo.jizelleteves.com
 zcoilz.carmen-carmen.com
 zcooxlrw.shop
-zcq8888.com
 zcs.silomanagement.gr
 zcskq.com
 zcwjpj.com
@@ -2964,7 +2850,6 @@ zerroketan.pro
 zerrreach.site
 zerrstrebot.site
 zerujy.com
-zerurizloneloxafz.info
 zeruyu-ciwowa.info
 zervulkait-de.live
 zervulkait-it.live
@@ -3483,7 +3368,6 @@ zloty-zyskowium.pro
 zlotyzyskowium-pl.fyi
 zlotyzyskowium.com
 zlovimaxaipro.com
-zloxupfa.info
 zlpostsom.eu.cc
 zlqqx.com
 zlrww.com
@@ -4071,12 +3955,10 @@ zvlcl.com
 zvokmuvrettrade.com
 zvonlams.com
 zvoralek.com
-zvtwrm.com
 zwaanvermodijk.net
 zwarewinstdam.net
 zwdsl.com
 zwglasif.shop
-zwhicht.garagetuba.com
 zwidea.sbs
 zwinna-platencja.com
 zwinna-ziskownia-ai.com
@@ -4104,7 +3986,6 @@ zxbaoye.com
 zxcno.com
 zxcnv.com
 zxcpt.com
-zxcsda.site
 zxcvbn.fit
 zxcvma.fit
 zxdsx.com
