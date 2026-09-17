@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-17T04:05:48.939Z
-# Segment: af (6/6) | Entries in this file: 4459 | Total in full list: 154459
+# Generated: 2026-09-17T10:05:49.073Z
+# Segment: af (6/6) | Entries in this file: 4387 | Total in full list: 154387
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     154459 valid, 154459 new after dedup | OK
+#     154387 valid, 154387 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,71 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-xn--albilet-b9a.pl-4839804561.xyz
-xn--albilet-b9a.pl-484378755.click
-xn--albilet-b9a.pl-489018512.lol
-xn--albilet-b9a.pl-48918956819.sbs
-xn--albilet-b9a.pl-48919241455.lol
-xn--albilet-b9a.pl-4893902753.xyz
-xn--albilet-b9a.pl-489689124.lol
-xn--albilet-b9a.pl-4910249012.lol
-xn--albilet-b9a.pl-491414242.lol
-xn--albilet-b9a.pl-49194992.lol
-xn--albilet-b9a.pl-4932493.cfd
-xn--albilet-b9a.pl-498083926.xyz
-xn--albilet-b9a.pl-53421.click
-xn--albilet-b9a.pl-54901204124.lol
-xn--albilet-b9a.pl-549890128.cyou
-xn--albilet-b9a.pl-5632621.cyou
-xn--albilet-b9a.pl-56891859123.lol
-xn--albilet-b9a.pl-56901895.lol
-xn--albilet-b9a.pl-580124024.lol
-xn--albilet-b9a.pl-5801952421.lol
-xn--albilet-b9a.pl-5809127.cyou
-xn--albilet-b9a.pl-58091480944.sbs
-xn--albilet-b9a.pl-58109248912.lol
-xn--albilet-b9a.pl-58192479.sbs
-xn--albilet-b9a.pl-58791879534.sbs
-xn--albilet-b9a.pl-5890124812.sbs
-xn--albilet-b9a.pl-5890184912.lol
-xn--albilet-b9a.pl-58901879512.lol
-xn--albilet-b9a.pl-589019501.lol
-xn--albilet-b9a.pl-58912412421.xyz
-xn--albilet-b9a.pl-58912547891.sbs
-xn--albilet-b9a.pl-58912789561.lol
-xn--albilet-b9a.pl-589127951243.sbs
-xn--albilet-b9a.pl-589128095919.sbs
-xn--albilet-b9a.pl-58912849.click
-xn--albilet-b9a.pl-58912890512.sbs
-xn--albilet-b9a.pl-5891758124.lol
-xn--albilet-b9a.pl-5891785122.lol
-xn--albilet-b9a.pl-589178571.xyz
-xn--albilet-b9a.pl-589178941.xyz
-xn--albilet-b9a.pl-5891789581.lol
-xn--albilet-b9a.pl-5891798124.lol
-xn--albilet-b9a.pl-58918795212.lol
-xn--albilet-b9a.pl-58918857819.sbs
-xn--albilet-b9a.pl-58918959124.lol
-xn--albilet-b9a.pl-589198541.lol
-xn--albilet-b9a.pl-58990124824.lol
-xn--albilet-b9a.pl-590012412.lol
-xn--albilet-b9a.pl-590120421.lol
-xn--albilet-b9a.pl-59012412.lol
-xn--albilet-b9a.pl-590124124.lol
-xn--albilet-b9a.pl-5901241241.lol
-xn--albilet-b9a.pl-59012412412.lol
-xn--albilet-b9a.pl-5901280958.lol
-xn--albilet-b9a.pl-5901294042.lol
-xn--albilet-b9a.pl-59012980965.lol
-xn--albilet-b9a.pl-59019052.lol
-xn--albilet-b9a.pl-5903241241.lol
-xn--albilet-b9a.pl-5909124894.lol
-xn--albilet-b9a.pl-5910240124.lol
-xn--albilet-b9a.pl-5910240142.lol
-xn--albilet-b9a.pl-591024124.lol
-xn--albilet-b9a.pl-5981085912342.sbs
-xn--albilet-b9a.pl-5981874.cyou
-xn--albilet-b9a.pl-598901879324.lol
 xn--albilet-b9a.pl-59901241.lol
 xn--albilet-b9a.pl-599124412.lol
 xn--albilet-b9a.pl-599185798124.lol
@@ -270,9 +205,7 @@ xnordiqo.digital
 xnordiqo.live
 xnpaw.com
 xnqsly.com
-xnryw.com
 xnsqbw.com
-xnxhbx.com
 xnzhj.com
 xodus-web3.wixstudio.com
 xofijih.pro
@@ -423,7 +356,6 @@ xsrxsr.com
 xssfj.com
 xsslt.com
 xssok.com
-xsudca.com
 xsulq.com
 xsupe.cfd
 xswedc.work
@@ -1546,7 +1478,6 @@ ysuhfuduadij.site
 ysujs.com
 ysuxz.com
 ysxlb.com
-yszzk.com
 yt-family.com
 yt8wol.webwave.dev
 ytcephe.com
@@ -2428,7 +2359,6 @@ zavorelix.com
 zavoretern.store
 zavornek.com
 zavrixonta.com
-zavrovia32.pro
 zavsehvsera.com
 zavvdex.com
 zavyfitness.com
@@ -2443,7 +2373,6 @@ zazerfiosuirip.com
 zazerfiosuiripi.com
 zazxwzoz.usw-1.sealos.app
 zb-bearing.com
-zb1414.craftum.io
 zb7npf.casa
 zbb-haixinglive.com
 zbbsb.com
@@ -4084,7 +4013,6 @@ zuqvemrok-germany.sbs
 zuqvemrok-italy.sbs
 zuqvemrok-spain.sbs
 zur-sternwarte.mom
-zurai02.is-a.dev
 zurelochain.digital
 zurelochain.shop
 zurevelhx-italy.sbs
@@ -4226,6 +4154,7 @@ zyciezulicy.top
 zyciqyori.autos
 zyduqiu.pro
 zyella.store
+zyexx.com
 zyfcq.com
 zyfefiy.com
 zyfrapro.pro
@@ -4233,7 +4162,6 @@ zyfrona.click
 zyfronatrade.com
 zygenovareltharique.net
 zygkkj.com
-zygnoroprime-app.com
 zygnoroprime.net
 zygobuild.site
 zygocloudgate.site
