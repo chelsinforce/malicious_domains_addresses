@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-16T22:05:48.968Z
-# Segment: af (6/6) | Entries in this file: 4546 | Total in full list: 154546
+# Generated: 2026-09-17T04:05:48.939Z
+# Segment: af (6/6) | Entries in this file: 4459 | Total in full list: 154459
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     154546 valid, 154546 new after dedup | OK
+#     154459 valid, 154459 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,90 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-xn--albilet-b9a.858185215.click
-xn--albilet-b9a.8756818551.click
-xn--albilet-b9a.8758185812.click
-xn--albilet-b9a.8810h-54.cfd
-xn--albilet-b9a.8851885152.click
-xn--albilet-b9a.894674754765.click
-xn--albilet-b9a.8h723810.xyz
-xn--albilet-b9a.9017348916743.lat
-xn--albilet-b9a.921-08g8.xyz
-xn--albilet-b9a.925389h451.shop
-xn--albilet-b9a.9457jh745.xyz
-xn--albilet-b9a.949875h.xyz
-xn--albilet-b9a.aui74391230857j54.shop
-xn--albilet-b9a.aukcj239058239023.bond
-xn--albilet-b9a.aukcj82180-43h4.shop
-xn--albilet-b9a.aukcj823549523012.lat
-xn--albilet-b9a.aukcje564349.lol
-xn--albilet-b9a.bih4837h4h93.shop
-xn--albilet-b9a.f958h745.xyz
-xn--albilet-b9a.get9547823.lol
-xn--albilet-b9a.goof8471230m.bond
-xn--albilet-b9a.hhgi3488g2.xyz
-xn--albilet-b9a.hpooti54823.shop
-xn--albilet-b9a.html-produkt34894389.top
-xn--albilet-b9a.iafer72437923-1243.lol
-xn--albilet-b9a.iauckej83429.xyz
-xn--albilet-b9a.iaukcej84934921928.baby
-xn--albilet-b9a.iaukcj8321920-h345.lat
-xn--albilet-b9a.ifeort943732.shop
-xn--albilet-b9a.iofert94371.xyz
-xn--albilet-b9a.o45ih452.lol
-xn--albilet-b9a.o4o23-200.xyz
-xn--albilet-b9a.oaikcj823012-340.lat
-xn--albilet-b9a.ofe1924812034-yh345.shop
-xn--albilet-b9a.ofe92387812940-j5.baby
-xn--albilet-b9a.ofeer2r39831.xyz
-xn--albilet-b9a.ofep23891.shop
-xn--albilet-b9a.oferp7283501.lat
-xn--albilet-b9a.ofert34592512-509.lat
-xn--albilet-b9a.ofert54034938h5h5.shop
-xn--albilet-b9a.ofert83481.shop
-xn--albilet-b9a.oferta1758691.click
-xn--albilet-b9a.oferta37654208.shop
-xn--albilet-b9a.oferta383462.shop
-xn--albilet-b9a.oferta57815810.shop
-xn--albilet-b9a.oferta64174146.shop
-xn--albilet-b9a.oferta65422643.shop
-xn--albilet-b9a.oferta81480578.click
-xn--albilet-b9a.oferta8589512511.click
-xn--albilet-b9a.oferta862145.shop
-xn--albilet-b9a.oferta87851858.click
-xn--albilet-b9a.oferta878861.click
-xn--albilet-b9a.oferta885215158.click
-xn--albilet-b9a.oferta885618712.click
-xn--albilet-b9a.oferta88617743.click
-xn--albilet-b9a.oferta88618129.click
-xn--albilet-b9a.oferta88696112.click
-xn--albilet-b9a.oferta89618421.click
-xn--albilet-b9a.oferta98647924.click
-xn--albilet-b9a.oier773r28g43-g34.lat
-xn--albilet-b9a.oy845845j.shop
-xn--albilet-b9a.peto543734.shop
-xn--albilet-b9a.pl-018968981.lol
-xn--albilet-b9a.pl-0589018953.lol
-xn--albilet-b9a.pl-05901242.sbs
-xn--albilet-b9a.pl-1284339.shop
-xn--albilet-b9a.pl-139485782.xyz
-xn--albilet-b9a.pl-14982.click
-xn--albilet-b9a.pl-19252.sbs
-xn--albilet-b9a.pl-19382945.click
-xn--albilet-b9a.pl-1968433.cyou
-xn--albilet-b9a.pl-1984334.shop
-xn--albilet-b9a.pl-23659853.cyou
-xn--albilet-b9a.pl-24338.sbs
-xn--albilet-b9a.pl-25294.click
-xn--albilet-b9a.pl-3065921.click
-xn--albilet-b9a.pl-3214897967.click
-xn--albilet-b9a.pl-39052.sbs
-xn--albilet-b9a.pl-3948058.xyz
-xn--albilet-b9a.pl-401248954.lol
-xn--albilet-b9a.pl-43294323434.cyou
-xn--albilet-b9a.pl-45901240.lol
-xn--albilet-b9a.pl-45901841214.lol
-xn--albilet-b9a.pl-478857818758322.sbs
 xn--albilet-b9a.pl-4839804561.xyz
 xn--albilet-b9a.pl-484378755.click
 xn--albilet-b9a.pl-489018512.lol
@@ -332,6 +248,7 @@ xn--registre-entreprise-franaise-bqc.fr
 xn--registre-societes-franaise-dkc.fr
 xn--remplacement-cartesant-w8b.co
 xn--rgfundoriax-qeb.pl
+xn--socit-gnrale-scurit-ezbbcbgf.com
 xn--www-ldger-uqd.com
 xn--wyprzedaspecjalna-3yd.pl
 xn--xgwajq202603090111mzqz9oja-ye44ce01ib5g.iufhtss.info
@@ -506,7 +423,6 @@ xsrxsr.com
 xssfj.com
 xsslt.com
 xssok.com
-xstim.islamnesia.com
 xsudca.com
 xsulq.com
 xsupe.cfd
@@ -1517,6 +1433,7 @@ youssef.bdll457877.pro
 youssef.ope-772281.pro
 youssef.ope-961084.pro
 youssef.ope5723538.pro
+youssef.toit5471684.pro
 youssef.urge843284.pro
 youssouf.pickup-distrib.com
 youssoufa.liv-536801.pro
@@ -2763,6 +2680,7 @@ zelufirmn.site
 zeluflair.site
 zelufleet.site
 zelufuel.site
+zeluhome50.site
 zeluifirm.site
 zelulaneo.site
 zeluloop.site
@@ -3500,7 +3418,6 @@ ziskorixtrade.com
 ziskotria-ai-cz.com
 ziskotria.shop
 ziskotriatech.com
-ziskovex-cz.fyi
 ziskovex-it.fyi
 ziskplus-ai.com
 ziskportfolin-cz.com
@@ -3594,14 +3511,12 @@ zlancia.com
 zlapaoxy.lol
 zlapokazje.shop
 zlataera.com
-zlatarendacka-cz.fyi
 zlatarendacka.shop
 zlatnifondgrad-hr.fyi
 zlatnifondgrad.net
 zlatnikdepozovna.com
 zlatovin-ai.net
 zlatovin-cs.live
-zlatovin-cz.fyi
 zlatovin.live
 zlatovin.shop
 zlatovinsystem.digital
@@ -3831,7 +3746,6 @@ zoogaundwe.cyou
 zoom.murigu.com
 zoom.o3c.com
 zoomblueberry.sacredknowledgedoulacare.com
-zoomcalit.com
 zoomed-breeze.com
 zoomedutr.com
 zoomeventlive.com
@@ -4498,7 +4412,6 @@ zywa-kapiter.net
 zywa-kapiter.online
 zywa-kapiter.org
 zywa-kapovin.com
-zywa-kapovin.org
 zywa-platownia-ai.com
 zywa-platownia-pl.com
 zywa-platownia.com
