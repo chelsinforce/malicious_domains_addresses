@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-20T22:05:49.350Z
-# Segment: ab (2/6) | Entries in this file: 30000 | Total in full list: 151685
+# Generated: 2026-09-21T04:05:49.054Z
+# Segment: ab (2/6) | Entries in this file: 30000 | Total in full list: 151591
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     151685 valid, 151685 new after dedup | OK
+#     151591 valid, 151591 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,6 +14,16 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+bradesco.habilitanetempresabr.live
+bradesco.habilitanetempresabr.pro
+bradesco.habilitanetempresabr.site
+bradesco.hubclientepjs.online
+bradesco.ipcadastro.com
+bradesco.juridicochat.click
+bradesco.juridicochat.info
+bradesco.modulo-netempresas.com
+bradesco.negocioscontapj.click
+bradesco.net-empresas.click
 bradesco.netatendimentocorporativo.click
 bradesco.netatendimentocorporativo.digital
 bradesco.netatendimentocorporativo.info
@@ -4287,7 +4297,6 @@ cc7wlp.qpon
 ccapa.marketsply.com
 ccbspt.com
 ccc-eu-pl.shop
-ccc-eu.co
 ccc-hu.shop
 ccc-pl.com
 ccc-pl.sbs
@@ -4314,7 +4323,6 @@ cccoutlet.uk
 cccpl.online
 cccpl.vipsale.co
 cccplsell.top
-cccsport.club
 cccsport.shop
 ccecjycck.top
 ccfhx.com
@@ -5129,7 +5137,6 @@ charlie.thisisinfo.com
 charliebperkins.com
 charliebrowninsurance.com
 charlieclingman.com
-charliking.com
 charlipl.shop
 charlottesecuritysolutions.com
 charlottesportbet.com
@@ -6416,6 +6423,7 @@ clientesweboportunidades.com
 clientjin.maximilianomaito.com
 clientmaison.ulcraft.com
 clientoperatingsystem.com
+clients-essais-primes.com
 clients.devtux.com
 clients.gruppobper.co.uk
 clientsgparticuliers.com
@@ -7009,7 +7017,6 @@ coiltulip.thirstycougar.com
 coilzizeh.cyou
 coin-base-hub-us.zapier.app
 coin-gpt.app
-coin-opgames.com
 coin-trade-1000.com
 coinappai.solutions
 coinbase-airdrop.b12sites.com
@@ -8114,7 +8121,6 @@ corex360.org
 corexmeqon7.com
 corexsoftware.pro
 corextrading.net
-coreyellowdigitalqi.pro
 corezboard.site
 corezfleet.site
 corezgridib.site
@@ -9479,7 +9485,6 @@ cu8oeu.casa
 cuadaronline.com
 cuanoviai.com
 cuanpulsa.online
-cuathepchinhhang.com
 cuatrocuadrados.com
 cub-containers.com
 cubako.com
@@ -10282,7 +10287,6 @@ dailyworldsignal.com
 dailyysspace.com
 daimconstruction.com
 daimcontracting.com
-dainiksakolkhabar.com
 daireler.net
 dairyfreeandy.com
 dairyquotes.com
@@ -10854,7 +10858,6 @@ deal-kiste.de
 deal-lounge.de
 deal-marke.de
 deal-market.shop
-deal-plan.de
 deal-plus.de
 deal-pulse.de
 deal-select.de
@@ -11838,7 +11841,6 @@ devitdisos.cyou
 devize.app
 devjuhong.com
 devmyrndltest.arsia.xyz
-devoha.com
 devoloa.site
 devomats.com
 devoncraft.com
@@ -12664,7 +12666,6 @@ discamedul.store
 discanonpa.rest
 discareinv.store
 discaseduc.cyou
-discavirgo.rest
 discerningai.org
 disceunsag.cyou
 discfsecure.info
@@ -12881,13 +12882,11 @@ disondumil.cyou
 disonmargh.cyou
 disonpedan.rest
 disontempo.cyou
-disorcelio.rest
 disordertransvalwwue.info
 disorientatuue.info
 disorinver.store
 disormacro.cyou
 disosvarca.cyou
-disovdislu.rest
 disowmonos.cyou
 dispaaa820.com
 dispabracc.cyou
@@ -12998,7 +12997,6 @@ districtchronicles.com
 districtcourtsouth.com
 distrpour.skillet-ninja.com
 distrritas.cyou
-distrscrep.rest
 distrstrog.cyou
 distrterri.online
 disugchrys.cyou
@@ -14018,9 +14016,7 @@ dpanel.fefetrans.ro
 dpanel.vetactivity.ro
 dpcconsulting.us
 dpd-1058253.4playqq.com
-dpd-14647471.piquedesigninc.com
 dpd-34909630.4playqq.com
-dpd-35654078.tedramsay.com
 dpd-55207680.event-ng28sports.com
 dpd-bdjfa.cc
 dpd-cexlora.link
@@ -14031,6 +14027,12 @@ dpd-dexviro.link
 dpd-fexlira.link
 dpd-fluxnira.com
 dpd-gexvora.link
+dpd-ie-edit.com
+dpd-ie.cc
+dpd-ie.club
+dpd-ie.com
+dpd-ie.shop
+dpd-ie.xin
 dpd-kelvora.com
 dpd-local.eu.cc
 dpd-lpobj.cc
@@ -14502,7 +14504,6 @@ dpdpaczka.hojkazlot24.sbs
 dpdpaczka.kl12a9.sbs
 dpdpaczka.klopmesdf234.cyou
 dpdpaczka.kloppzlt24.cyou
-dpdpaczka.klupgdfgui45.cyou
 dpdpaczka.milowkazlot24.sbs
 dpdpaczka.zlotdanrt24.cfd
 dpdparcelb.cyou
@@ -14794,7 +14795,6 @@ dreopolska.com
 dreptate.info
 dreqripy.shop
 dresalornix-platform.com
-dresk.shop
 dresqik.shop
 dressdese.digital
 dressedbeac.zajistenainvestice.com
@@ -14980,7 +14980,6 @@ drmax.clarel.top
 drmax.cosibellacheap.top
 drmax.cosmeceuticalsale.shop
 drmax.debijenkorfs.top
-drmax.dracikcz.top
 drmax.ejnl.shop
 drmax.friscooutlet.sbs
 drmax.haldorado-outlet.shop
@@ -16005,6 +16004,7 @@ easyoffer.shop
 easypark-pl.autos
 easypark-pl.top
 easypark.trafficsdxl.com
+easypark.worltay.com
 easyparki.eu.cc
 easyparkil.eu.cc
 easypeakk.info
@@ -16231,7 +16231,6 @@ eclizybrtap.site
 ecnirp.icu
 ecnkirec.com
 eco-drive.vip
-eco-eu.shop
 eco-innovators.com
 eco-terra.app
 eco-terra.io
@@ -17310,7 +17309,6 @@ emeraldrisefinance.cc
 emeraldsep.cfd
 emeraldspa.pro
 emeralstandards.com
-emergeiidgrainer.info
 emergent-netsolutions.com
 emergent.antivirae.info
 emergentbot-fr.live
@@ -17439,7 +17437,6 @@ ems-power.mom
 ems-vnp.com
 emsayapidekor.com
 emulaintin.cyou
-emulofinge.rest
 emvmnext.com
 en-apps-exedusweb.wixstudio.com
 en-appstart.wixstudio.com
@@ -17608,7 +17605,6 @@ energetic.icu
 energeticflag.lhe-designs.com
 energia-invion.com
 energiaenperspectiva.com
-energiainviontrade.com
 energieverde.site
 energilo-moon.com
 energiseimpact.tech
@@ -17703,7 +17699,6 @@ engardepictures.com
 engawayard.shop
 engcollection.com
 enge163.com
-engelbeitstraus.site
 engelberstrausz.com
 engelbertstrausz.pro
 engelbetstrausz.com
@@ -17929,7 +17924,6 @@ eobuwie-pln.shop
 eobuwie-plshoe.sbs
 eobuwie-plshoe.shop
 eobuwie-plsnug.shop
-eobuwie-poland.top
 eobuwie-polandpl.top
 eobuwie-saleshop.top
 eobuwie.actionshop.sbs
@@ -18118,6 +18112,7 @@ eportalweb.app
 eposanytime.com
 epowernorth.com
 eprime-access-index.com
+eprime-espace.com
 eprime-sav.com
 eprovideq.kpdeploy.com
 epsalayer.site
@@ -19227,7 +19222,6 @@ everlanehome.eu
 everlastingcenter.alfouzancamp.com
 everlastingenchantment.com
 everlastingjoint.securemailpath.com
-everlight-api.com
 everliven.site
 evermarket.eu
 evermistatelier.live
@@ -19570,7 +19564,6 @@ experienceastrology.com
 experienced-apartment-812927.framer.app
 experienced-cougar-209737.framer.app
 experienced-emojis-635132.framer.app
-experientiaiilrejiggering.info
 experimentalcommunities.net
 experiorholdings.com
 experspill.punkerotica.com
@@ -19903,7 +19896,6 @@ f4nmri.site
 f4nmrv.club
 f4nmrv.luxe
 f4nmrv.pw
-f4nmrv.shop
 f4nmrv.tech
 f4nmrv.top
 f4nmrv.xin
@@ -20023,6 +20015,7 @@ facebookbonus.emmanueldegreatltd.com
 facebookcasereviews.com
 facebookcustomer-service.com
 facebookfanpage.com
+facebooknotification-retricted.com
 facebooknotify-noreply.com
 facebookpage-noreplycenter.com
 facebookpagemanagement.com
@@ -20147,7 +20140,6 @@ faenafondorio.digital
 faenafondorio.net
 faerwin.com
 faf-cuni-cz.bdpf-pf.online
-fafaliattipoe.shop
 fafaretce.com
 fagame123.com
 fagasy.top
@@ -20270,6 +20262,7 @@ falconwertane.live
 falconwertane.net
 falconwertane.online
 falconwertaneai.com
+faldorzintrexosmatrix.com
 faldorzintrexoszone.com
 faldrok.shop
 falebrin.cyou
@@ -20346,7 +20339,6 @@ familysorted.info
 famon.site
 famouscast.com
 famousret.xyz
-famoway-pro.net
 fanaberia.live
 fancentro.online
 fanchurch.info
@@ -20885,6 +20877,7 @@ femalesecurityagency.com
 femaxatus.net
 femeariagokl.pro
 femeawellness.com
+femestage.shop
 femi9san.shop
 feminismo.eu
 feminitateautentica.com
@@ -21209,10 +21202,8 @@ fiber-glide.com
 fiber-streak.com
 fiber-surge.com
 fibersaksial.com
-fibertexdb.com
 fibocharts.com
 fibriphota.cyou
-fibrocartilage.pro
 fibronivo.com
 fibuhon.com
 fiche-655231.com
@@ -24353,7 +24344,6 @@ fj3.t2ltdy.top
 fjafgqpm.shop
 fjalkenvost.info
 fjalkindura.top
-fjallllraven.shop
 fjalloutdoor.shop
 fjallreuoutlet.shop
 fjalltravelwear.shop
@@ -24975,7 +24965,6 @@ foc-share.com
 focalpiv.shop
 focalywpiv.shop
 focgarpl.shop
-fochafyndveo.com
 focoglobalmedia.com
 focoinnovacionmundo.com
 focompenma.cyou
@@ -25230,7 +25219,6 @@ fordistic.icu
 fordlloyd.shop
 forebdemas.cyou
 forebet.com.pl
-foreflightlicense.com
 foreignapexmargin.net
 forelocksfawwlls.info
 foreniq.site
@@ -27396,7 +27384,6 @@ gardendom.shop
 gardendomes.shop
 gardendomowy.shop
 gardeneggplant.fairganesh.com
-gardeneggplant.findomcentral.com
 gardeneggplant.fridaynightthundertv.com
 gardeneggplant.jambarley.com
 gardeneggplant.jampay.com
@@ -27407,7 +27394,6 @@ gardeneggplant.jjunoon.com
 gardeneggplant.jonathanjaco.com
 gardeneggplant.josephwasden.com
 gardeneggplant.joshuafwiedeman.com
-gardeneggplant.jstreetphoto.com
 gardeneggplant.jupiterworx.com
 gardeneggplant.kcyberop.com
 gardeneggplant.keithkeough.com
@@ -27436,7 +27422,6 @@ gardeneggplant.treatmentpreview.com
 gardeneggplant.triberh.com
 gardeneggplant.truckerlawcenter.com
 gardeneggplant.trustedpostgres.com
-gardeneggplant.turismoruraltenerife.com
 gardenestetyka.shop
 gardenexo.shop
 gardenexpert24.shop
@@ -28005,7 +27990,6 @@ geomeg.info
 geometerrise.site
 geometrydashgolden.wixstudio.com
 geomogiunt.cyou
-geomorpholognny.info
 georgecard.com
 georgekiraz.com
 georges.direct-143044.pro
@@ -28396,7 +28380,6 @@ giggglebox.info
 gigglesforchildren.com
 gigibuy.de
 gigliafrik.cyou
-gigsy.top
 gihiwa.com
 gijagia.com
 gijsberthotte.shop
@@ -30014,3 +29997,20 @@ gpt-1x-ai-soft.com
 gpt-1xpump-soft.com
 gpt-3vadipex.com
 gpt-adipex-system.com
+gpt-bot.net
+gpt-coinbase.xyz
+gpt-eurax.com
+gpt-invest-platform.com
+gpt-invest.live
+gpt-seguroapp.com
+gpt-trade-global.com
+gpt-trade-investments.com
+gpt-tradingpro.com
+gpt-x2-ifex.net
+gpt30-mentax.com
+gpt30ifex.net
+gpt30mentax.digital
+gpt3v-app.cyou
+gpt3vadipex-app.net
+gpt3vadipex-software.com
+gpt3vadipex.click
