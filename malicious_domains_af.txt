@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-21T22:05:49.054Z
-# Segment: af (6/6) | Entries in this file: 1475 | Total in full list: 151475
+# Generated: 2026-09-22T04:05:48.983Z
+# Segment: af (6/6) | Entries in this file: 1470 | Total in full list: 151470
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     151475 valid, 151475 new after dedup | OK
+#     151470 valid, 151470 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,13 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-zephcast.site
-zephgain-au.site
-zephgain.digital
-zephgain.net
-zephgain.org
-zephgainapp.com
-zephgate.site
 zephplanedock.site
 zephterm.site
 zephvelayer.site
@@ -170,7 +163,6 @@ zfaste.cyou
 zfb-jk.com
 zfgjg.com
 zfgt.shop
-zfkmasinac.com
 zfnch.com
 zfrmz.eu
 zfslw.com
@@ -188,6 +180,7 @@ zgdri.com
 zgesf.com
 zgfujwjh.shop
 zggbf.com
+zggdb2b.com
 zghnjg.com
 zgjgl.com
 zgjjg.com
@@ -269,7 +262,6 @@ zhibang178.com
 zhichenghui.com
 zhichengsoft.com
 zhidiands.com
-zhifayt.com
 zhizhangfangshuiji.com
 zhjfwqstore.shop
 zhjqx.com
@@ -623,6 +615,7 @@ zmtsc.com
 zmutreldon.net
 zmzh.shrinkpopsecretbutton.monster
 zn.j9vnfc.casa
+znakonlinebookstore-pl.top
 znaldaruve-belgium.sbs
 znaldaruve-italy.sbs
 znaverkuldo-argentina.sbs
@@ -655,6 +648,7 @@ znpconcept.com
 zntpremium.com
 znvvb.com
 zo2wht.cfd
+zo4zoxv.shop
 zoaldi.shop
 zoaxiqdash.site
 zob.urge284671.pro
@@ -955,6 +949,7 @@ zqluf.com
 zqmuju.com
 zqqsf.com
 zqsndsyxx.com
+zquctsyi.shop
 zqwecrvag.shop
 zqzrzcto.shacukj.cn
 zr.j9vnfc.casa
@@ -974,7 +969,6 @@ zrp.aliveand.com
 zrshop.top
 zrukqz.businesssedona.us
 zrygs.com
-zryvevolux.net
 zryw-evolux.com
 zryw-evolux.org
 zryw-finoble.com
@@ -1174,6 +1168,7 @@ zveluptiru-romania.sbs
 zvenkrulvo-spain.com
 zvenkrulvotrade.com
 zvijezdakapiton.net
+zviroppy.shop
 zvlcl.com
 zvokmuvrettrade.com
 zvonlams.com
