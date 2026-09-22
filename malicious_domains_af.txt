@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-22T10:05:49.004Z
-# Segment: af (6/6) | Entries in this file: 1422 | Total in full list: 151422
+# Generated: 2026-09-22T16:05:49.069Z
+# Segment: af (6/6) | Entries in this file: 1459 | Total in full list: 151459
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     151422 valid, 151422 new after dedup | OK
+#     151459 valid, 151459 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,11 +14,48 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+zephyrrendif.digital
+zephyrrendif.live
+zephyrrendif.net
+zephyrrendix.net
+zephyrwealtode.net
+zephyrwertstead.com
+zephzocloud.site
+zepkori-aumveth-germany.sbs
+zepkori-aumveth-spain.sbs
+zepmar.shop
+zeppamento.cyou
+zeppeleuci.cyou
+zeppelijjnchivies.info
+zeppepseud.click
+zepvixai-software.click
+zepvixaitrade.com
+zepvurai.net
+zeqalye.pro
+zeqvornixai.click
+zerafina.online
+zeravinsirelvo.com
+zerfktqn.com
+zeribot.site
+zeribyte21.site
+zericube.site
+zeridrip.site
+zerilpulse.site
+zerimeterrec.site
+zeriprealm.site
+zeritrace.site
+zeritragyre.site
+zerkam.shop
+zerlo.info
+zermixrent-system.com
+zerobdown.sitcdating.com
+zerobeginner.power2career.com
 zeroboss.heynickc.com
 zerodebtspro.com
 zeroextra.shop
 zerokplum.loveombia.com
 zeronvalton.com
+zeronvaltonia.com
 zeropansy.privacyd.com
 zeropointforge.digital
 zeroseiphoto.live
@@ -566,6 +603,7 @@ zmutreldon.net
 zmzh.shrinkpopsecretbutton.monster
 zn.j9vnfc.casa
 znakonlinebookstore-pl.top
+znaldaruve-austria.sbs
 znaldaruve-belgium.sbs
 znaldaruve-italy.sbs
 znaverkuldo-argentina.sbs
@@ -1426,7 +1464,6 @@ zzounds.mom
 zzpsc.com
 zzqbfk.com
 zzqhb.com
-zzsyt.com
 zzthd.com
 zztopconvert.digital
 zztwkj.com
