@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-23T10:05:48.997Z
-# Segment: af (6/6) | Entries in this file: 1329 | Total in full list: 151329
+# Generated: 2026-09-23T16:05:49.098Z
+# Segment: af (6/6) | Entries in this file: 1271 | Total in full list: 151271
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     151329 valid, 151329 new after dedup | OK
+#     151271 valid, 151271 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,62 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-zf.ev9wch.cfd
-zf9.h4ndth.casa
-zfaste.cyou
-zfb-jk.com
-zfgjg.com
-zfgt.shop
-zfnch.com
-zfrmz.eu
-zftrkh.info
-zfuelk.cyou
-zg-dd.com
-zg7wnt.casa
-zg9-telegram.com.cn
-zgalf.com
-zgbusinessgroup.com
-zgcdap.com
-zgcfe.com
-zgdri.com
-zgesf.com
-zgfujwjh.shop
-zggbf.com
-zggdb2b.com
-zghnjg.com
-zgjgl.com
-zgjjg.com
-zgjxjs.com
-zgloszenia.puescinc.com
-zgnbny.com
-zgod-481029.eu.cc
-zgod-7274.eu.cc
-zgod-930218.eu.cc
-zgoda-402.eu.cc
-zgodnosc.podatkina.com
-zgodny-3993.cfd
-zgp520.com
-zgrbhz.com
-zgrdy.com
-zgrkj43wiq.shop
-zgrsxz.com
-zgsab.com
-zgsac.com
-zgsmzs.com
-zgsstr.com
-zgwzt.com
-zgyehdgeg.com
-zgymglamour.top
-zgyncn.com
-zgynrrjy.shop
-zh-8568f96248.preview.weglot.io
-zh-9youapps.com
-zh-aiyouximax.com
-zh-apps-jnsports.com
-zh-cni-bwin.com
-zh-h5-qiyiguosports.com
-zh-home-qiutansports.com
-zh-huatihui-front.com
 zh-huatihui-mobile.com
 zh-in-8868.com
 zh-match-wendingyule.com
@@ -420,8 +364,6 @@ zlbzlb.top
 zlfeelost.eu.cc
 zlgymsport.shop
 zliftj.scoundreljs.com
-zliwoscia.com
-zljsb.com
 zlknxzy.skin
 zlmocny.com
 zlmsh.com
