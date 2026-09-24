@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-24T10:05:49.712Z
-# Segment: ad (4/6) | Entries in this file: 30000 | Total in full list: 150957
+# Generated: 2026-09-24T16:05:49.198Z
+# Segment: ad (4/6) | Entries in this file: 30000 | Total in full list: 150950
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     150957 valid, 150957 new after dedup | OK
+#     150950 valid, 150950 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,6 +14,23 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+olx.652144.lat
+olx.652893.click
+olx.654743.lat
+olx.673262.lol
+olx.674353.lat
+olx.675301.lat
+olx.675844.lat
+olx.688945.lat
+olx.6923781294237.click
+olx.6924781059237.click
+olx.6924781299237.click
+olx.693274893684.bond
+olx.70173248768370327.lat
+olx.7025784208045032.lat
+olx.710002.cyou
+olx.72122648-oferta-pl.click
+olx.72362.click
 olx.728012.pl
 olx.736268.click
 olx.73774.lat
@@ -1427,6 +1444,7 @@ olx.pl-8349-oferta.click
 olx.pl-835347547.click
 olx.pl-83712.sbs
 olx.pl-8374917.lol
+olx.pl-841pav5.sbs
 olx.pl-84223.click
 olx.pl-84382.click
 olx.pl-84386.click
@@ -1669,6 +1687,7 @@ olx.pl-oferta41142113151202981.sbs
 olx.pl-oferta4114211315122981.sbs
 olx.pl-oferta4142113151202981.sbs
 olx.pl-oferta4146161729.sbs
+olx.pl-oferta4187287941.sbs
 olx.pl-oferta41924.cfd
 olx.pl-oferta42697.click
 olx.pl-oferta434512.icu
@@ -1797,6 +1816,7 @@ olx.pl-oferta783694.biz
 olx.pl-oferta7837428483.sbs
 olx.pl-oferta78429.lol
 olx.pl-oferta7845hf5f.shop
+olx.pl-oferta7891241924.sbs
 olx.pl-oferta812281.lol
 olx.pl-oferta81267329324.icu
 olx.pl-oferta81276832.shop
@@ -1906,6 +1926,7 @@ olx.pl-ogloszenia-frimowe-8328409.click
 olx.pl-ogloszenie-1k851fa.shop
 olx.pl-ogloszenie-firmowe-83681867.click
 olx.pl-ogloszenie-firmowe-86231867.click
+olx.pl-ogloszenie-jaroslawkarasz-58.top
 olx.pl-ogloszenie-pawelwisniewski9-29.click
 olx.pl-ogloszenie-prywatne73636284.click
 olx.pl-ogloszenie-prywatne748362548.click
@@ -2334,6 +2355,7 @@ ombryx.vip
 omedi.mytechathome.com
 omegaalmond.smartlearningtrack.com
 omegaend.shop
+omegalul.top
 omela-finova.bet
 omenrise.org
 omenrisestudio.org
@@ -2437,7 +2459,6 @@ omvpetrom.net
 on-banking-internet.site
 on-eur-shop.top
 on-notic.site
-on-suite-profitroom.com
 on-wangcai28.com
 on42309fk3.shop
 onaltuning.com
@@ -3030,7 +3051,6 @@ optibeam.site
 opticoreconsulting.com
 optidashgo.site
 optiex24.live
-optif2ramepro.pro
 optigain-ai.com
 optigain-ai.net
 optigain.pro
@@ -3354,6 +3374,7 @@ organikkahve.net
 organique.mom
 organreali.rest
 organrestore.sbs
+organsomainn7.eu.cc
 organtransplanttrust.com
 orgassprol.cyou
 orgbase.us
@@ -3935,7 +3956,6 @@ outlook-email-2026.hstn.me
 outlook-office365.com
 outlook.accountantsclaim.com
 outlook.autodiscover.bankofamericacanadastore.ph
-outlook.autodiscover.bankofamericamerchantservices.ph
 outlook.verifytoken.com
 outlook.webaccess-alert.com
 outlookmail.social
@@ -4351,7 +4371,6 @@ p5a2mmg65c2vexkm.fantom.neriobazzano.it
 p5c7vr.lat
 p5ic8n.cfd
 p5kt7rv.hair
-p5lbtr.site
 p5ms2v.cfd
 p5n1a6.cfd
 p5n9jr.lat
@@ -4684,7 +4703,6 @@ pages-bitunixcdn.wixstudio.com
 pages-bridge-en.wixstudio.com
 pages-ledgor-com.wixstudio.com
 pages-metamask-help.wixstudio.com
-pages-metaquest.com
 pages-metmaskcdn.wixstudio.com
 pages-suit-trezre.wixstudio.com
 pages-texorsuites.wixstudio.com
@@ -5245,7 +5263,6 @@ pascalelucas.shop
 pascaljouve.shop
 pasceincon.store
 pascemarra.cyou
-pascoesche.rest
 pasdfjnapri.shop
 pasek-powrotu.lovable.app
 pashaai.digital
@@ -6017,7 +6034,6 @@ pelna-zyskowow.com
 pelnarioxaa.info
 pelnazyskowow.com
 pelofsfisfksodpofeflofs.site
-peloink.cyou
 pelonastira.xyz
 pelotpalpi.cyou
 pelquo.click
@@ -6582,6 +6598,7 @@ pewnykieruneknaprzyszlosc.site
 pewnylink.online
 pewnylog365.shop
 pewnynumer.shop
+pewnypodpis.space
 pewnyprofil-2838.store
 pewnyprofil-9366.fun
 pewnysystem24.shop
@@ -7832,6 +7849,7 @@ pl-8349-oferta.click
 pl-835347547.click
 pl-83712.sbs
 pl-8374917.lol
+pl-841pav5.sbs
 pl-84223.click
 pl-84382.click
 pl-84386.click
@@ -8149,6 +8167,7 @@ pl-oferta41142113151202981.sbs
 pl-oferta4114211315122981.sbs
 pl-oferta4142113151202981.sbs
 pl-oferta4146161729.sbs
+pl-oferta4187287941.sbs
 pl-oferta41924.cfd
 pl-oferta42697.click
 pl-oferta434512.icu
@@ -8286,6 +8305,7 @@ pl-oferta78429.lol
 pl-oferta7845hf5f.shop
 pl-oferta786812.lol
 pl-oferta78687181271.sbs
+pl-oferta7891241924.sbs
 pl-oferta812281.lol
 pl-oferta81267329324.icu
 pl-oferta81276832.shop
@@ -8413,6 +8433,7 @@ pl-ogloszenia-frimowe-8328409.click
 pl-ogloszenie-1k851fa.shop
 pl-ogloszenie-firmowe-83681867.click
 pl-ogloszenie-firmowe-86231867.click
+pl-ogloszenie-jaroslawkarasz-58.top
 pl-ogloszenie-pawelwisniewski9-29.click
 pl-ogloszenie-prywatne73636284.click
 pl-ogloszenie-prywatne748362548.click
@@ -9309,7 +9330,6 @@ plorea.click
 plorevantis.info
 plorix.cyou
 plorlapri.org
-ploroink.cyou
 plotcoffee.co.uk
 plotkarnia.info
 plotkipolsk.xyz
@@ -9984,7 +10004,6 @@ podslyszaneztramwaju.pro
 podslyszanezzamykanychdrzwi.pro
 podsoinvec.cyou
 podsolirrzedstargazings.info
-podst-crednex.com
 podstcrednex-ai.com
 podstcrednex.club
 podstcrednex.net
@@ -10198,7 +10217,6 @@ polderrendsloot.com
 polderrendsloot.live
 poldsku.com
 poldsr.com
-poldvarol.com
 poldvarusa.com
 pole-portfelares.com
 poleandmore.mom
@@ -10479,7 +10497,6 @@ polskaprojectos.site
 polskaprojectoum.store
 polskaprojectum.store
 polskaprojectuum.store
-polskaprzeglad.site
 polskaprzelotem.info
 polskaregionalnaserwis.site
 polskasasiadka.xyz
@@ -10743,8 +10760,6 @@ pootitions.net
 poowepaodpweporwoda.site
 pooz7ca-polck4polcg62.c8onkf.top
 pop-mart.pl
-pop.mx.bankofamericana.ph
-pop.mx.debt-bankofamerica.ph
 pop.schubel.info
 popandc.be
 popandguitars.net
@@ -11025,6 +11040,7 @@ posstaa-i3281.my.id
 post-ahuq6x3s03isu5.sgsp.org.br
 post-mskklinkn.sbs
 post-onlinezahlung.info
+post5255.org
 posta-polasky.shop
 posta.technical-support.digital
 postacilaryapi.com
@@ -11110,6 +11126,7 @@ potofcannabis.com
 potokkursovnik.click
 potokkursovnik.com
 potokkursovnik.live
+potrerodiez.lat
 potruew.com
 pottacopri.rest
 pottaglawfirm.com
@@ -11615,7 +11632,6 @@ prespmigno.cyou
 prespverni.cyou
 press17.com
 press22link.pro
-press9tune.info
 pressandstud.shop
 pressbibli.store
 pressbureauonline.com
@@ -11639,10 +11655,7 @@ pressposts.cyou
 pressreporting.com
 pressreportszone.com
 pressroomless.info
-presss5lab.info
 presss6map.pro
-pressspa0nel.info
-pressspa9rkk.info
 pressstudionet.com
 pressviaq.info
 presswatchglobal.com
@@ -11733,7 +11746,6 @@ price-drops.shop
 price-guide.eu
 pricecut-sale.sbs
 pricecutpl.shop
-pricedripshop.com
 pricedrop-pl.shop
 pricehunterpl.shop
 priceora.top
@@ -11868,6 +11880,7 @@ primebitaitrade.com
 primebitprofit.io
 primebitprofit.org
 primebulletinnow.com
+primecargo.site
 primecliente.xyz
 primecoastgroup.com
 primeconcept.shop
@@ -12109,7 +12122,6 @@ pro-shooting.com
 pro-trade-capex.com
 pro.formview.io
 pro.fvpromo.digital
-pro1gg.info
 proacinc.com
 proactiveosgb.shop
 proactivesaglik.shop
@@ -12239,8 +12251,6 @@ professorhelp.com
 professorlegalhelp.com
 professorline.com
 profeyear.cfd
-proffit19hub.pro
-proffit21er.pro
 proffit5star.pro
 proffponents.info
 profgolftrainer.xyz
@@ -12605,6 +12615,7 @@ proorbanyx.info
 prop-rail-studio.lovable.app
 propaalcyo.cyou
 propagandisticalddly.info
+propagwwules.info
 propainhum.autos
 propaknotw.cyou
 propapredr.cyou
@@ -13993,6 +14004,7 @@ pub-88e81fa814a44857a4a61d189dea48aa.r2.dev
 pub-892c2501da2d4112ad3e57b5bbf7c8e9.r2.dev
 pub-894e33c588d34518b9eb37ee967fc9a2.r2.dev
 pub-8961c2ca10324fafb04ad839e8d2f531.r2.dev
+pub-89a986e9207f48d4823d71b177f7ade5.r2.dev
 pub-89d6260dd73e443b9baea4f56e781f40.r2.dev
 pub-8a04ac0f553244c8a5b52eab5e25f789.r2.dev
 pub-8a50034aaa5440db9df0fd159167593f.r2.dev
@@ -15021,6 +15033,7 @@ purecreditholm.shop
 purecrest-ulrix-solution.com
 purecrestulrix.com
 purecrystalslay.info
+puredailycareca.shop
 pureessenceup.pro
 puregarden.bar
 purehvoda.shop
@@ -15221,7 +15234,6 @@ pytqma.com
 pytqma.info
 pytudei.pro
 pyvlex.info
-pyzoxee.com
 pyzsp.com
 pyzyflakigorace.mom
 pyzzb.com
@@ -15270,6 +15282,7 @@ q4n8x1r.pics
 q4nt9xw.skin
 q4vx8mn.skin
 q4vx9mn.skin
+q4x8mn.lat
 q5a3h6.cfd
 q5b6.kerviw.casa
 q5dxwo.beer
@@ -16850,7 +16863,6 @@ qynxiliur.org
 qynxiliur.pro
 qynxiliurpl.com
 qynxiliurtrade.com
-qynywoy.com
 qyodulaovai.click
 qyodulaovai.live
 qyodulaovtrade.com
@@ -17173,6 +17185,7 @@ racuwu-voxuka.info
 radaarulfikry.rdmmadrasahonline.com
 radamalluc.cyou
 radaperla-germany.sbs
+radaperla-italy.sbs
 radaperla-spain.sbs
 radcliffehouse.eu
 raddeallea.cyou
@@ -17337,7 +17350,6 @@ raincitywoodworks.com
 rainconc.lol
 raindropsuaritma.com
 rainervieider.shop
-rainewscrystalline.com
 rainewsharmonize.com
 rainewsturquoise.com
 rainewsvelocity.com
@@ -18803,8 +18815,6 @@ reordercenter.com
 reorderinfo.com
 reorgtooth.cyou
 reorzo.com
-reotboeoeeorbvkv.sbs
-repairtools-hot.top
 repaperrring.life
 reparagglo.cyou
 repeaaccia.cyou
@@ -20126,8 +20136,10 @@ ritorrevel.cyou
 ritual-care.shop
 ritual-zr.shop
 ritualizationwildnemmsses.info
+rituals-cosmetic.shop
 rituals-sale.org
 rituals-sale.pl
+rituals-womenbeauty.shop
 rituals-zr.shop
 rituals.onlincoa.com
 rituals.onlineoa.shop
@@ -20199,6 +20211,7 @@ riverandreed.eu
 riverandstone.eu
 riverandwillow.eu
 riveraroundgoldengrove.digital
+riverbendbargains.shop
 riverbeyondcalmforest.digital
 riverby.eu
 rivercabinet.eu
@@ -20691,7 +20704,6 @@ ronimlamstr.com
 roninro.com
 ronnbooth.shop
 ronnsmale.shop
-ronoink.cyou
 ronsey.com
 ronstons.site
 rontrixai.click
@@ -21766,6 +21778,7 @@ ryzyzuc.online
 rzcpwl.com
 rzdrj.com
 rzecznik.podatkina.com
+rzetelnadomena.space
 rzetelny-zyskatnik.com
 rzetelnyzyskatnik.com
 rzfpxt.com
@@ -22108,7 +22121,6 @@ sahiblerden.com
 sahidanisman.com
 sahidensahibinden.com
 sahjakshaksscc.eu.cc
-saidoundjim.shop
 saidservice.com
 saifoodanaly.com
 saigonbitnova-soft.com
@@ -22762,7 +22774,6 @@ saventra.xyz
 saveonfurniture.shop
 saveonhome.shop
 saveonsofas.shop
-saveouremsunion.info
 saveourscholars.com
 savepl.shop
 saveporthub.com
@@ -22830,6 +22841,7 @@ saway-leather.xyz
 saway-leathersalesvip.xyz
 saway-lifepoland.sbs
 saway-newproduct.shop
+saway-newwinterarrivals.shop
 saway-online.shop
 saway-pl.co
 saway-pl.com
@@ -22841,9 +22853,11 @@ saway-saleshop.lol
 saway-saleshop.sbs
 saway-shoe.co
 saway-simpleelegant.shop
+saway-trend.shop
 saway-trendyclassic.shop
 saway-upperleather.shop
 saway-warszawa.top
+saway-wintertrends.shop
 saway.dailysaver.co
 saway.debijenkorfs.top
 saway.shoesaleday.shop
@@ -23103,7 +23117,6 @@ scarfnurs.top
 scarfsaga.shop
 scaricontr.cyou
 scarierstories.com
-scarimetar.rest
 scarlet-tassel-bag.shop
 scarletchannel.sbs
 scarletdunit.info
@@ -23552,7 +23565,6 @@ searchh10er.pro
 searchh2line.pro
 searchh6io.pro
 searchh8me.pro
-searchh9box.pro
 searchitbetter.com
 searchnewsgb.site
 searchpathofchicago.com
@@ -24034,6 +24046,7 @@ sell-aldiuk.dailyelitemart.com
 sell-aldiuk.skylineellc.com
 sell-aldius.cozynookknitsllc.com
 sell-iealdi.blueriseeben.com
+sell-iealdi.clyrionllc.com
 sell-iealdi.novabridgeco1.com
 sell-iealdi.veltraviaoutdoors.com
 sell-ukaldi.alveriqo96.com
@@ -24895,6 +24908,7 @@ sg-activation.bolt.host
 sg-app-52.info
 sg-confirmation.bolt.host
 sg-secupassinfo.com
+sg.annulation-paiement.com
 sg.appdiret.club
 sg.criticity.org
 sg.davidagostinotattoo.com
@@ -24937,7 +24951,6 @@ sgm7g.vy8xkb.sbs
 sgmy168.com
 sgnacclly.cyou
 sgoccesige.rest
-sgoccscade.rest
 sgoveareog.autos
 sgpass-fr033.com
 sgpositron.com
@@ -25427,7 +25440,6 @@ shopaldiuk.textiletrfend.com
 shopaldiuk.veroberlin.com
 shopaldius.phyrian-concepts.com
 shopaldius.sh-mavenn.com
-shopandstyle.click
 shoparvo.shop
 shopatkshipbox.com
 shopavento.shop
@@ -25618,7 +25630,6 @@ showssound.memorialschester.com
 showtime-weddings.com
 showtunusual.co
 showyouoffjy.shop
-shqgb.com
 shqpwy.com
 shramsewa.com
 shreeengineeringindustries.com
@@ -25806,6 +25817,7 @@ signicarme.cyou
 significanhhtly.info
 significant-answers-213421.framer.app
 significant-board-444852.framer.app
+signin.billingaccountcenter.com
 signin.broker
 signin.disnyplus.acc-recov-center.xtesa.64-23-174-192.cpanel.site
 signin.microsoft.com.cerblos.ch
@@ -26107,14 +26119,12 @@ simplecedarlane.eu
 simplechnge.wixstudio.com
 simplecomp.sbs
 simplecornerstore.eu
-simplecry.digital
 simpledwelling.eu
 simplefashionstore.com
 simplefic.today
 simplefield.eu
 simplefieldlane.eu
 simplefieldnotes.eu
-simplefuneralplans.site
 simplegarden.eu
 simplegardenhome.eu
 simplegrocer.eu
@@ -26243,7 +26253,6 @@ sintarvelx.com
 sintarvelxoaddfrsa.com
 sintaxisai.net
 sintelicen.cyou
-sinteurceo.rest
 sintevora.com
 sinthelvox.com
 sintoconve.store
@@ -26321,7 +26330,6 @@ site-bradesco.digital
 site-bridge.zapier.app
 site-d020b2b75e8d.mypreview.site
 site-enldger.wixstudio.com
-site-google-havan.com
 site-program.online
 site-program.sbs
 site-program.xyz
@@ -26437,6 +26445,7 @@ sk.zowipumedia.top
 sk4bum.casa
 skaconsultinoanglp.vu
 skadarlakewildlife.com
+skalalol.lol
 skandio.shop
 skantwel.pro
 skaowdq.lol
@@ -26520,7 +26529,6 @@ skilltal.sideodds.com
 skilltechpro.xyz
 skillwide.cyou
 skimboards.biz
-skimbruntol.info
 skimmttishnesses.info
 skims-polska.pl
 skinature.com
@@ -26885,7 +26893,6 @@ slot-gid.online
 slotingonline.com
 slots17cool.store
 slotscement.online
-slotsgorilla.online
 slotsmanias.com
 slovakreport.com
 slovaraix.net
@@ -27104,7 +27111,6 @@ smartfinancecover.info
 smartfinsa.live
 smartfinza.info
 smartfinza.org
-smartforge.digital
 smartfxcrypto.net
 smartgardenfr.com
 smartgdi.ro
@@ -27506,7 +27512,6 @@ snapnx-erymax.digital
 snapopteprex.com
 snapopteprex.org
 snapp2book.pro
-snappick.shop
 snappy-drift.com
 snappy-mentoring.com
 snappy-morning.com
@@ -27563,7 +27568,6 @@ sniderlawnandlandscape.site
 snifferip.com
 sniffinessprssize.info
 sniffyy6nose.com
-snipppy5cut.info
 snitaatiestcivilly.info
 snjkergt4o1.shop
 snkerlads.com
@@ -27607,7 +27611,6 @@ snug-renovate.com
 snugavento.com
 snuggmatic3star.info
 snuggsegna.cyou
-snuzzly3bear.info
 snwxd.site
 snxdw.com
 snyper.digital
@@ -27689,8 +27692,6 @@ societytechnews.com
 sociologistrrmoldinesses.info
 sociquo.com
 sockstore.shop
-socmaalltimenewone.com
-socmaeveryonenewday.com
 socobre.pt
 socoser.com.bo
 socprofile.com
@@ -28744,7 +28745,6 @@ spectrumpac.com
 specttialized.guru
 specuasper.cyou
 speculataaorszippier.info
-speedd17net.pro
 speedd1run.pro
 speedd6now.pro
 speedflowhub.site
@@ -28916,7 +28916,6 @@ spiraindig.rest
 spiralrootscollective.com
 spirals-of-life.com
 spiralteacher.mylioren.com
-spirapalle.rest
 spire-bondtron-fr.live
 spire-bondtron.live
 spire-education.com
@@ -30014,3 +30013,4 @@ startingiotrexio.wixstudio.com
 startingsale.shop
 startingsso-trezocdn.wixstudio.com
 startinledzer-cdn.wixstudio.com
+startio-ledgeapps.wixstudio.com
