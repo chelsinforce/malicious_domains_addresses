@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-24T22:05:49.059Z
-# Segment: ab (2/6) | Entries in this file: 30000 | Total in full list: 150642
+# Generated: 2026-09-25T04:05:49.043Z
+# Segment: ab (2/6) | Entries in this file: 30000 | Total in full list: 150569
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     150642 valid, 150642 new after dedup | OK
+#     150569 valid, 150569 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,6 +14,16 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+bradesco.atualizandocomseguranca.digital
+bradesco.atualizarmodulo.com
+bradesco.atualizarnetempresas.digital
+bradesco.atualizaronline2026.site
+bradesco.atualizarparaempresa.digital
+bradesco.atualizarpj2026.com
+bradesco.auditoriatalao.com
+bradesco.autenticacaocontato.app
+bradesco.autenticacaocontato.click
+bradesco.autenticacaocontato.xyz
 bradesco.autenticacaopj.site
 bradesco.biacentral.pro
 bradesco.biaempresachat.info
@@ -701,6 +711,7 @@ briefdesknow.live
 briefdiariolive.live
 briefhojejornal.click
 briefhojeviva.live
+briefhoynews.click
 briefingdeskpro.com
 briefjet.com
 brieflivedaily.click
@@ -942,7 +953,6 @@ brisk-trails.com
 brisk-twinkle.com
 brisklane-xkdfpw-openroute.site
 brisodojsdiadaos.site
-brisoletta.info
 brisolhavekt.info
 brisolventiga.info
 brisolventuk.info
@@ -1079,7 +1089,6 @@ bronkapithoekai.digital
 brons-invexa-tech.com
 brontelaxor24.com
 brontpropo.cyou
-brontvalsk.pro
 bronvalnex-system.com
 bronvalnexsystem.com
 bronvalnextrade.com
@@ -2301,7 +2310,6 @@ buonddispo.cyou
 buozelhcttipmerkezi.com
 buqubicell.site
 bur-berry-sales.shop
-bur8mw.wiki
 bur8mw.xin
 buradeolenp.info
 burajas.com
@@ -2432,7 +2440,6 @@ business.meta-credit.us
 businessaka.com
 businessbluediamondbartin.com
 businessdigcore.com
-businessdigitalist.com
 businessinternetwebdirectory.com
 businesslight.backend-gw.com
 businessmatchnight.com
@@ -2587,7 +2594,6 @@ bxc.t2ltdy.top
 bxc298371-g9382.lol
 bxcjjt.com
 bxcxlr.com
-bxczvn.top
 bxggbw.com
 bxhytj.com
 bxpxes04.com
@@ -3046,6 +3052,7 @@ cahorizonmovl.com
 caht.info
 caicsarco.cyou
 caierba.it
+caifuxingyuan.com
 cainfiniteadd.com
 cainfobulletin.com
 cainfopulse.com
@@ -3221,7 +3228,6 @@ calvadicer.cyou
 calvenridge-trust.net
 calvenridgetrust.live
 calvenridgetrusttrade.com
-calventosa.info
 calveporta-it.live
 calveporta.live
 calveporta.shop
@@ -3580,7 +3586,6 @@ capilsempl.cyou
 capilunoai.com
 capimexgpt.net
 capimexgpt.shop
-capirate.com
 capitabblistabiogenist.info
 capitaddeb.rest
 capital-core-ai.com
@@ -3657,7 +3662,6 @@ capitcondi.autos
 capiternal.com
 capitexo.shop
 capitfrigh.cyou
-capitlane.com
 capitolranchrealestate.com
 capitomark.com
 capitosten.online
@@ -3671,7 +3675,6 @@ capivalsolvandra.com
 capivalsolvandra.live
 capivelle.com
 capixia.com
-caplineo.com
 caploretima.com
 capmentor.vn
 capnevia.com
@@ -4029,7 +4032,6 @@ caseypierceportraitco.com
 cash-nest365.com
 cash-polski.shop
 cash-vaultshire.shop
-cashariver.com
 casharo.shop
 cashbackworld.help
 cashbot-system.com
@@ -4045,7 +4047,6 @@ cashinio.com
 cashinvenix-software.com
 cashlanes.com
 cashliverse.com
-cashofirm.com
 cashor-profits.com
 cashprofit7.site
 cashpron.site
@@ -4723,6 +4724,7 @@ centralamericanbeef.com
 centralbankofcoin.com
 centralbriefora365.pro
 centralcoastflorist.biz
+centraldecotacao.online
 centraldigest.online
 centralgoldnu.fun
 centralgranvia.com
@@ -4773,7 +4775,6 @@ centrumbiznesu.space
 centrumdoradcow24.com
 centrumenergylandia24.eu
 centrumenergylandia24.pl
-centrumfaktow.site
 centrumkapitalu.site
 centrumkomunikatowonline.site
 centrumlokalnychdanych.site
@@ -5545,7 +5546,6 @@ chlhle.com
 chloesboudoir.com
 chloewanderer.com
 chloewnavalcert.wasmer.app
-chmonar.com
 chmweao.thehhegroup.com
 chn1.marumariani.it
 chn2.marumariani.it
@@ -5561,6 +5561,7 @@ chocoblossom.net
 chococenten.com
 chocolate-advantage-077384.framer.app
 chocolate-beautifully-688838.framer.app
+chocolate-ilove.sbs
 chocolate-population-147588.framer.app
 chocolettas.com
 chocolissimo.lorenta.sbs
@@ -6619,6 +6620,7 @@ clover-kapithaven.cyou
 clover-kapithaven.live
 clover-kapithaven.sbs
 cloverfieldgoods.eu
+cloverkapithaven-ie.com
 cloverkapithaven.net
 cloverkapithaven.shop
 clovermistaq.info
@@ -6720,6 +6722,7 @@ cn-web-yoolive.com
 cn-zhengrong.com
 cn.1mebetx.com
 cn.ember-whatsapp.com
+cn54259.pro
 cnahcs.com
 cnarrowh.tkoent.com
 cnbaixiong.com
@@ -8767,8 +8770,8 @@ credi-pichinchagmailcom--ecuador23433.replit.app
 crediawapu.cyou
 crediblecommerce.com
 crediecpichinch--crediplus.replit.app
+crediecuador--crediecu.replit.app
 crediitmutueel-fr.s-host.net
-credimove.com
 credip-1-chinch-ec--credipich1cha.replit.app
 credipichincha--creditpichinch.replit.app
 credit-0-prestamoss-futuro-ec--dn7485526.replit.app
@@ -9787,7 +9790,6 @@ cybrdapt.site
 cybrdock.site
 cybri-surge.com
 cybrin-hub.com
-cybrixalfluxvector.com
 cybrixalmatrixforge.com
 cybrjam.site
 cybrproto.site
@@ -9909,7 +9911,6 @@ czdaks.com
 czechtradextrade.com
 czechtrust.solutions
 czek.transparency-violations-compl.click
-czervinka.top
 czesci24.com
 czescipl.com
 czfbmy.com
@@ -10046,7 +10047,6 @@ d5qk9x.help
 d5qk9x.luxe
 d5qk9x.shop
 d5qk9x.skin
-d5qk9x.xyz
 d5r8kp.lat
 d5wzkk.beer
 d5wzkk.hair
@@ -10767,6 +10767,7 @@ dcc-invest.com
 dcdryer.com
 dcext.com
 dcf57204.podcasterpraha.cz
+dcf83c75.heftrucksbelgie.eu
 dcjxl.com
 dcpchp.link
 dcraftt.buzz
@@ -12756,7 +12757,6 @@ disfoaccor.cyou
 disfracespartytime.com.ar
 disfrflett.cyou
 disgapenta.rest
-disgasbran.rest
 disgedivam.cyou
 disgiflock.cyou
 disgigazma.cyou
@@ -13800,7 +13800,6 @@ dostep-9312.store
 dostep-promocje.com
 dostmbhinsaat.com
 dostudzienkistudio.mom
-dostw-205.top
 dostw-207.icu
 dostw-208.info
 dostw272.sbs
@@ -13976,6 +13975,7 @@ dpd-fluxnira.com
 dpd-gexvora.link
 dpd-ie-edit.com
 dpd-ie.cloud
+dpd-ie.vip
 dpd-ie.xin
 dpd-kelvora.com
 dpd-local.eu.cc
@@ -15008,7 +15008,6 @@ drostfalkerhundhoolmvekst.pro
 drostfalkerhundvelkst.pro
 drostfalkervindest.pro
 drostfalkgrunthoold.pro
-drostikova.info
 drostmoldheelgrim.pro
 drostmoldheldgrim.pro
 drostmoldventgrimhoolsk.pro
@@ -15174,6 +15173,7 @@ dubeaufinancial.com
 dubicorp.com
 dubielvitrum.live
 dubikin.com
+dubkadoma73.eu.cc
 dubno-id2384.eu.cc
 ducafondorio.net
 ducalfondelle.net
@@ -15281,7 +15281,6 @@ duniseu.com
 duniyasalezone.com
 dunkbharmony.winwithwits.com
 dunkbpeach.glassflip.com
-dunkravest.pro
 dunktwi.zhenhir.com
 dunkzliquid.bond
 dunless.com
@@ -15387,7 +15386,6 @@ dusmileclinic.com
 dusmira.cfd
 duspa.pl
 dustleap.com
-dustonhomescollective.com
 dustwdirig.cyou
 dusukhapi.online
 dusukhapiburada.online
@@ -15841,12 +15839,8 @@ earlytreatmentinfo.com
 earn-matrixpro-system.com
 earninghubtrade.com
 earningplatform-app.com
-earnliva.com
 earnlogic.site
 earnoside.com
-earnostep.com
-earnoview.com
-earnoworks.com
 earnprocryptos.net
 earnrespr.mittencactus.com
 earsuromy.store
@@ -15987,7 +15981,6 @@ ebok-pl.proevent.rs
 ebok.minanoa.rs
 ebokpg-energia6456.pl
 ebony-travels.com
-ebookk-449b3f27-df3a-4ac8-80e2-8bf5a43dc385.indiandiasporacouncil.nl
 ebork.clubemobil.com
 ebork.enrilnet.com
 ebottomp.felicianomeals.com
@@ -17331,6 +17324,7 @@ empresas-bcnlinea.icu
 empresas.bia-atendimento.com
 empresas.click
 empresascorporativonet.chat
+empresasenegocios-atualizar.online
 empresasenegocios.net
 empresasenegociosbrada.com
 empresasjuridica.kinghost.net
@@ -18193,7 +18187,6 @@ ericqianhs.com
 ericrolando.com
 ericschubert.shop
 ericseu.shop
-ericyork.shop
 eridosfperonmer.site
 erifoeridkosodifso.site
 erigisigla.cyou
@@ -18377,7 +18370,6 @@ esjaybysimone.com
 eskainsaat.com
 eskaldventoormskild.top
 eskaldventoorskiml.top
-eskalmonder.top
 eskfalkgrunthoold.top
 eskgruntfalkheelv.top
 eskgruntfalkhold.top
@@ -18900,7 +18892,6 @@ eupolaco.sviluppo.host
 euprava-rs.cc
 eur.agfaga.shop
 eur.dexlonghis.shop
-eur.drmartensales.com
 eur.fifaeu.com
 eur.ochniknow.com
 eur.smobyclub.com
@@ -19785,7 +19776,6 @@ f4n8qx.lat
 f4nmri.site
 f4nmrv.club
 f4nmrv.luxe
-f4nmrv.pw
 f4nmrv.tech
 f4nmrv.top
 f4nmrv.xin
@@ -20176,7 +20166,6 @@ falkenorsync.org
 falkenorsync.shop
 falkenorsynctrade.com
 falkenquant.com
-falkenvurt.info
 falkevermoburg-de.live
 falkevermoburg.live
 falkevermoburg.net
@@ -20483,6 +20472,7 @@ fauverendange.net
 fauxmiliar.com
 favakay.com
 favetticonsulting.com
+favimeble.shop
 favino-invest-platform.com
 favipl.shop
 favitek.com
@@ -20646,7 +20636,6 @@ fed3x.trackingtop.com
 fedasei.com
 fedavstrad.store
 fedcrestai.click
-fedcrestai.com
 fedehiopa.autos
 federalhappyjdi.site
 federalnationalmortgageassociationglobal.monivoia.cfd
@@ -20662,7 +20651,6 @@ fedquicklogistics.online
 fedranet.com
 fedywyy.com
 feedbackid.com
-feedbackszzdinars.info
 feedingtheunfed.com
 feedsusura.cyou
 feegam.net
@@ -20677,7 +20665,6 @@ feelsta.store
 feeltstop.proto-cad.com
 feelwbald.jaradhuffman.com
 feench.com
-feepin.com
 feesteer.xyz
 feesupdate.com
 feetflet.online
@@ -22628,10 +22615,8 @@ finoraai-it.live
 finoraai.live
 finoraai.shop
 finoracapital-app.shop
-finoradius.com
 finorax-finance.com
 finorbitlinek.top
-finoridge.com
 finoriginal.net
 finorimex.digital
 finorixgpt-platform.com
@@ -22650,7 +22635,6 @@ finovestaire-it.com
 finovestairetrade.com
 finovexpro.digital
 finovexprotech.com
-finovistae.com
 finoxio.com
 finoxodium-engine.com
 finozanetix-app.com
@@ -24322,6 +24306,7 @@ flash-sale.sbs
 flash-wind.com
 flashbreeze-transform.com
 flashbriefdesk.lat
+flashbriefnow.click
 flashbrieftoday.pro
 flashbrook.com
 flashcards.bayford.dev
@@ -24335,6 +24320,7 @@ flashed.site
 flashempooczach.live
 flashgust.seeamsterdam.com
 flashhoydesk.lat
+flashhoylive.click
 flashhoywire.pro
 flashingphoto.live
 flashjornalhoje.lat
@@ -24347,6 +24333,8 @@ flashmetropulse.com
 flashnexa.info
 flashnexax.top
 flashnowbrief.live
+flashnowdesk.lat
+flashnowjornal.xyz
 flashnowwire.click
 flashobmen.net
 flashpulsehub.pro
@@ -25617,7 +25605,6 @@ fozzy.site
 fp4ffr.lat
 fpa6kx.pw
 fpa6kx.top
-fpa6kx.uno
 fpa6kx.wiki
 fpackx.site
 fpairz.livechatsupportnow.com
@@ -26445,7 +26432,6 @@ fundariumwave.click
 fundariumwave.net
 fundarope.com
 fundaryxcoretrade.com
-fundastorm.com
 fundatorfin.com
 fundbrookassets.net
 fundedtradersoftware.com
@@ -26481,7 +26467,6 @@ fundlence-global.digital
 fundlence-global.org
 fundmagnate.com
 fundmybizzness.com
-fundomaxer.com
 fundora-app.live
 fundora-stocks.com
 fundorasoftware.com
@@ -26936,7 +26921,6 @@ gaames.net
 gabalunamfmfjgnmmv.site
 gabathandbody.com
 gabbyemu.autos
-gabi1402.jopr2a.pl
 gabicremer.shop
 gabihazut.co.il
 gabinet-ezdrowie.com
@@ -26999,13 +26983,10 @@ gaingeneratorpro-fr.com
 gaingeneratorpro.app
 gaingeneratorpro.com
 gaingeneratorpro.de
-gainlora.com
 gainlore.com
 gainmode-ai-engine.com
 gainocent.com
 gainoflow.com
-gainomark.com
-gainomatic.com
 gainorcapestre-ai.com
 gainorcapestre-fr.live
 gainorcapestre.click
@@ -27112,6 +27093,7 @@ gamehalcyon.com
 gamelyzer.com
 gamemuya.com
 gamena.icu
+gameofamazon.com
 gameplay.gallery
 gameqsilver.addictivesubstance.com
 gamerolled.yourlocalfinancialadvice.com
@@ -27526,6 +27508,7 @@ gdwgames.com
 gdwph.com
 gdxyjz.com
 gdyfx168.com
+gdynia-jasno.base44.app
 gdynia.ahczcy.com
 gdynskarybka.mom
 gdziejestmojapaczka.com
@@ -27799,7 +27782,6 @@ georgienye.com
 georgixio.digital
 georgixio.live
 georgstadler.shop
-geotehnica.com
 geotherm.cfd
 geoues.com
 geovazap.site
@@ -28040,6 +28022,7 @@ ggagronegocios.com.br
 ggamea.yasamdanrenkler.com
 ggatefrmol.lovable.app
 ggath.ownmobilehomes.com
+ggbpl.wolv-idle.com
 ggdflkvk.nport.link
 ggdromprotrade.xyz
 ggdsaery.bond
@@ -29117,7 +29100,6 @@ gold-basedwealth.com
 gold-n-keys.com
 gold-nbp.com
 gold-nbp.net
-gold-smart-pulse.base44.app
 gold-snacks.com
 goldaimex.net
 goldalign-platform.com
@@ -29175,7 +29157,6 @@ goldenharboralchemy.info
 goldenleafgroups.space
 goldenlife.fit
 goldenlife.world
-goldenlionmotionpictures.com
 goldenmistworks.digital
 goldenmooncraft.live
 goldennote.info
@@ -29340,6 +29321,7 @@ google-auth-required.com
 google-square-fr.blogspot.ae
 google.checkmy.world
 google.crosscheck.world
+google.documentpartage.com
 google1107.com
 google1208.com
 google1302.com
@@ -29822,7 +29804,6 @@ gqswedyu783-jskdu390.tracepodspace.su
 gqterdot.shop
 gr-ediyparkside.shop
 gr1hao.qpon
-gr3sthalmuk.pro
 gr8281.lat
 graavl.vip
 grababevi.org
@@ -30014,3 +29995,22 @@ gravidlypqqerspire.info
 gravinferfix.site
 gravitioper.com
 gravkey.online
+gravmehub.site
+gravolorix.com
+gravorboard.site
+gravravault.site
+gravscoperealm.site
+gravvibe.site
+gravynmetur.site
+gray-acknowledge-170985.framer.app
+gray-budget.com
+gray-portion-714077.framer.app
+grayandstoneconsulting.com
+graybabb.shop
+grayboxfarms.com
+grayele.lol
+grayeleanor.shop
+grayepropovia-it.com
+grayepropovia.com
+grayepropovia.shop
+grayktorn.zenorders.com
