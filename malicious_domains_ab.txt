@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-25T22:05:48.766Z
-# Segment: ab (2/6) | Entries in this file: 30000 | Total in full list: 150161
+# Generated: 2026-09-26T04:05:48.821Z
+# Segment: ab (2/6) | Entries in this file: 30000 | Total in full list: 149998
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     150161 valid, 150161 new after dedup | OK
+#     149998 valid, 149998 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,57 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-bradesco.ipcadastro.com
-bradesco.juridicochat.click
-bradesco.juridicochat.info
-bradesco.modulo-netempresas.com
-bradesco.negocioscontapj.click
-bradesco.net-empresas.click
-bradesco.netatendimentocorporativo.click
-bradesco.netatendimentocorporativo.digital
-bradesco.netatendimentocorporativo.info
-bradesco.netatendimentojuridico.app
-bradesco.netclientepro.info
-bradesco.netempresa-acesso.com
-bradesco.netempresalogin.com
-bradesco.netempresapjonline.digital
-bradesco.netempresarial.click
-bradesco.netempresarial.pro
-bradesco.netempresarialonline.com
-bradesco.netempresarialpj.sbs
-bradesco.netempresas-atendimentos.com
-bradesco.netempresas-atendimentos.net
-bradesco.netempresasac.info
-bradesco.netempresascadastro2026.digital
-bradesco.netempresasdigital.app
-bradesco.netempresasportal.com
-bradesco.netempresasvalida.digital
-bradesco.netpjreapro.info
-bradesco.novocadastro.digital
-bradesco.onlinesuportepj.online
-bradesco.paraempresas.sbs
-bradesco.pjatendimento.app
-bradesco.pjatendimento.click
-bradesco.pjatendimento.info
-bradesco.pjatendimento.lol
-bradesco.pjatendimento.pro
-bradesco.pjatendimentojuridico.info
-bradesco.pjatendimentojuridico.ink
-bradesco.pjatualizacao2026.com
-bradesco.pjempresascorp.digital
-bradesco.pjgerencia.com
-bradesco.portalatualizado.info
-bradesco.portalgerencialnetempresas.net
-bradesco.portalnetempresas.net
-bradesco.portalpjacesso.com
-bradesco.praempresas.cfd
-bradesco.praempresas.sbs
-bradesco.principalcliente.com
-bradesco.segurancaempresaweb.click
-bradesco.segurancaempresaweb.digital
-bradesco.segurancaempresaweb.pro
-bradesco.segurancanetempresa.click
-bradesco.segurancanetempresa.ink
 bradesco.segurancanetempresa.live
 bradesco.segurancanetempresa.pro
 bradesco.sincronizacaopjonline.click
@@ -1270,6 +1219,7 @@ brw-eu.shop
 brw-sale.shop
 brw.delhaizeshop.sbs
 brwhome.club
+brwline.com
 brwonline.shop
 brwoutlet.shop
 brwpl.com
@@ -1334,7 +1284,6 @@ bsc-scaner.live
 bsfiosfskdosfkadoisdka.site
 bsh-brykiety.eu
 bsh-wood.info
-bshaes04.com
 bshipd.mhrc2023.com
 bshopnow.shop
 bshwood.com
@@ -2885,7 +2834,6 @@ cadigitalsphere.com
 cadigitalupdate.com
 cadigitalvector.com
 cadigitalworld.com
-cadigitwazh.com
 cadirlitech.com
 cadjedlkjwrjwodmswd.site
 cadrimosa.com
@@ -3772,7 +3720,6 @@ carolwoodside.com
 carolyngrattan.shop
 carolynwright.shop
 carotincan.cyou
-carottrasg.rest
 carouselacres.net
 carousell.avokas.shop
 carousell.nextervis.com
@@ -3872,6 +3819,7 @@ casadaluzvermelha.com.br
 casadeespanapr.com
 casadelalma.shop
 casadelmarbg.com
+casaelvo.com
 casafine.shop
 casafr.com
 casagoyard.com
@@ -3943,7 +3891,6 @@ cashindorfix-solution.com
 cashinio.com
 cashinvenix-software.com
 cashlanes.com
-cashliverse.com
 cashor-profits.com
 cashprofit7.site
 cashpron.site
@@ -4332,7 +4279,6 @@ cdsfbprswq.work
 cdshouhui.com
 cdsxtw.com
 cdusp.com
-cdwarehouse.co.za
 cdxhzn.com
 cdxsza.com
 cdyiruo.com
@@ -4436,7 +4382,6 @@ cefluno.shop
 cefrpodat.com
 cefulao.pro
 cehubao.com
-cehuveo.site
 ceiba-invextumsoftware.com
 ceibafondanza.net
 ceibodivin.store
@@ -4895,7 +4840,6 @@ cgene.mezacard.com
 cgfghghhgghgffdf.framer.wiki
 cghsu729-iux293-s0n.inspiredcords.su
 cgichpp.com
-cginformation.com
 cgjet.com
 cgjxdq.com
 cglzp.com
@@ -5086,10 +5030,6 @@ chatawariatta.mom
 chatbird.app
 chatbradesco.com
 chatbtc-soft.com
-chatcenter.ac.cn
-chatcenter.nm.cn
-chatcenter.sn.cn
-chatcenter.tw.cn
 chateauplanckaert.net
 chatedisir.rest
 chatempresa.net
@@ -5180,7 +5120,6 @@ checkout-biltmore.icu
 checkout-d-castle.cc
 checkout-edinburgh-castle.cc
 checkout-museumsvatican.it
-checkout-process.cfd
 checkout-smart-tol.cc
 checkout.bestfybr.com.br
 checkout.drbanacu-luminita.ro
@@ -6555,7 +6494,6 @@ clyro.beauty
 clyvian.pro
 clyxon.digital
 clzc3r6z.maleteri.com
-clzvip.com
 cm-annulation-operation.com
 cm-secupassinfo.com
 cm.acces-verifcm.com
@@ -6776,7 +6714,6 @@ codeprofix.net
 codeqrise.dcext.com
 codeqstop.xyz
 coderes.gestionandoportunidades.com
-codes8tack.com
 codewithaurora.click
 codewithcalenx.digital
 codiforpel.autos
@@ -9253,7 +9190,6 @@ cs.strengths4u.lat
 cs2challenger.com
 cs2team.shop
 cs2verify-page.com
-cs46-ia2.paypal-update.antimoney-laundering.org
 csa.weryfikacja-konta.com
 csaiofipsdoosfofi.site
 csale.shop
@@ -9426,7 +9362,6 @@ cumbreveloria.digital
 cumbreveritas.com
 cumetradebitgpt-ai.com
 cumetradebitgpt.com
-cumexiu.pro
 cumiguyexusov.eu
 cumminscollections.com
 cumolex.pro
@@ -9830,7 +9765,6 @@ czujnywardownia.com
 czulhaventa.info
 czulventokra.top
 czulventskold.top
-czurantovekka.top
 czurmondvelka.top
 czv6vk.info
 czvji456fg.shop
@@ -11694,7 +11628,6 @@ devitdisos.cyou
 devize.app
 devjuhong.com
 devmyrndltest.arsia.xyz
-devoloa.site
 devomats.com
 devoncraft.com
 devonix.wixstudio.com
@@ -13712,7 +13645,6 @@ douglas2026life.shop
 douglas2026online.shop
 douglas2026pl.shop
 douglas2026vip.shop
-douglasagee.shop
 douglasdostawa.shop
 douglasethompson.com
 douglaswall.shop
@@ -13876,7 +13808,6 @@ dpd-zanviro.com
 dpd-zelvimo.com
 dpd.774021938.cfd
 dpd.abnem.icu
-dpd.banerd.icu
 dpd.bmvxtrq.cyou
 dpd.bvxqtrm.cfd
 dpd.bvxtrpq.cfd
@@ -15822,7 +15753,6 @@ eb39163d.thalassotech.pl
 eb8rvu.top
 ebandhu.com
 ebay-c.com
-ebay-dru.org
 ebay15976.inspectionprocedure.shop
 ebaymclaren-austin.eventshouse.app
 ebaymevip.com
@@ -17065,7 +16995,6 @@ emelectric.org
 emeliegypteg.shop
 emendclevi.cyou
 emendovente.cyou
-emer.cginformation.com
 emer.mjnewsreport.com
 emer.wiadomowpl.com
 emerald-cliff.com
@@ -17321,7 +17250,6 @@ encurtador.dev
 encyclopaediasfggracking.info
 encyclopediashow.com
 endamp.xyz
-endansorvo.rest
 endeaesemp.cyou
 endearingarrangements.com
 endeavorsattack.puzzlearning.com
@@ -17417,7 +17345,6 @@ enfatricon.online
 enfatsbava.cyou
 enfermeriacanaria.com
 enfield4th.com
-enfoqueeco.com
 enfoqueglobaldigital.com
 enfoquemercado.com
 enfoquetecglobal.com
@@ -17599,7 +17526,6 @@ entezoortho.online
 entgravmoldvikr.top
 entgresthaveld.top
 entgrimfalkvendstik.top
-entgrondhal.top
 enthrnnalling.info
 enthusiastic-cassava-092831.framer.app
 entifbarde.cyou
@@ -17720,7 +17646,6 @@ eobuwieonline.com
 eobuwieonlinesalepl.com
 eobuwieousstpl.shop
 eobuwieoutletpl.com
-eobuwiepl-poland.shop
 eobuwieplshoes.shop
 eobuwiepoland.sbs
 eobuwiepoland.shop
@@ -18241,6 +18166,7 @@ eskventgrundtoorvelkindam.top
 eskventgrundtorvek.top
 eslemoto.com
 eslowa.casa
+esmnenshop.com
 esmrptevfnmpdofmevv.com
 esn-outlet.top
 esnafatolyesi.com
@@ -18674,7 +18600,6 @@ euduka.shop
 eueconomyhub.site
 eufashionbd.com
 eufb.shop
-eufemaugus.rest
 euflowermountain.com
 eufurnituretksale.shop
 eugamo.shop
@@ -18899,7 +18824,6 @@ evaderabbo.online
 evadidispi.cyou
 evadnefashion.space
 evadopartners.com
-evafian.shop
 evaiqq.icu
 evakusu.shop
 evalidateirstaxation.com
@@ -19153,7 +19077,6 @@ excellent-hedgehog-674894.framer.app
 excellent-markets.shop
 excellentproductsforhealth.store
 excellenttradingstations.com
-excelmasterys.com
 excelonline8394-nsb.miadean.info
 excelpro-sk.com
 excelsports.in
@@ -19597,7 +19520,6 @@ f2hgsi.casa
 f2p8-r.cyou
 f2p8-r.fit
 f2p8-r.hair
-f2p8-r.pw
 f2p8-r.site
 f2p8-r.tech
 f2p8-r.top
@@ -19648,7 +19570,6 @@ f7g43jfvcdsw.shop
 f7k2xd.lat
 f7n6m3.sbs
 f7q2mx.lat
-f7qonx.pw
 f7r3jx.lat
 f7rnoz.sbs
 f7xqto.shop
@@ -20113,7 +20034,6 @@ faqupie.pro
 farahinsaat.com
 faralyahali.com
 faralyahome.com
-faramey.click
 faranaisaba.cayeuxvinc.com
 faraway-land.com
 faraway-misty-sparrow-4cji6v.teleporthq.app
@@ -20192,7 +20112,6 @@ fashion-sale.sbs
 fashion-sale.top
 fashion.limited
 fashionarchive.pl
-fashioncanda.com
 fashionclothingdeals.vip
 fashionconsultancy.com
 fashionette.mom
@@ -21653,7 +21572,6 @@ financieleto-ekomst.com
 financlair.com
 financna-agencija.si
 finans-dowedz.com
-finansal-rapor.com
 finansalekonomi.com
 finanse-check.com
 finanse-dowiedz.com
@@ -22486,7 +22404,6 @@ finqixlux-soft.com
 finquanto.net
 finquro.shop
 finroute.site
-finruta.com
 finseedv.info
 finserveconsulting.com
 finsouosa.cc
@@ -24043,7 +23960,6 @@ fjtongliu.com
 fjvlljmp.alderwood.shop
 fjwswl.com
 fjx58.com
-fjyjls.com
 fjyst.com
 fjzhengfangsheng.com
 fjzyjt.com
@@ -24590,6 +24506,7 @@ flyyhigh.info
 fm.t1npjy.sbs
 fm155.com
 fmachinef.site
+fmadvqmy.shop
 fmalspnzedazy.cfd
 fmast.mhrc2023.com
 fmcifthc.shop
@@ -24702,7 +24619,6 @@ focussppoint.com
 focustaze.shop
 focustool.shop
 focusufo.top
-fodertraum.rest
 foe-le.fit
 foesoflegacy.com
 foetexdk.shop
@@ -25434,7 +25350,6 @@ fozeqaoxa.autos
 fozyniu.pro
 fozzy.site
 fp4ffr.lat
-fpa6kx.pw
 fpa6kx.top
 fpa6kx.wiki
 fpackx.site
@@ -25913,8 +25828,6 @@ frmrdo-onlline.top
 frnca137.com
 frnews.site
 frni.shop
-frnowglobal.com
-frnowtoday.com
 frod3526.biz
 frod3526.shop
 frohlichfestival.com
@@ -26065,6 +25978,7 @@ fs1.africanroyaltyfragrance.de
 fs2.africanroyaltyfragrance.de
 fs3.africanroyaltyfragrance.de
 fsagtursa.com
+fsale.shop
 fsawryup.click
 fsben.com
 fschs.com
@@ -27009,7 +26923,6 @@ gardendomowy.shop
 gardeneggplant.jerryghannam.com
 gardeneggplant.jonathanjaco.com
 gardeneggplant.joshuafwiedeman.com
-gardeneggplant.keithkeough.com
 gardeneggplant.kindlingsoftware.com
 gardeneggplant.ocatruth.com
 gardeneggplant.ohbyoasis.com
@@ -27124,7 +27037,6 @@ garvinkelstormvel.top
 garvinkelstormveldikm.top
 garvinkelstormveldikunda.top
 garvinkelstroomfaldikvent.top
-garvostellmikrovandst.info
 garvyngainstead.com
 garycompton.shop
 garyhilgers.com
@@ -29138,6 +29050,7 @@ google-square-fr.blogspot.ae
 google.checkmy.world
 google.crosscheck.world
 google.documentpartage.com
+google.js.cn
 google1107.com
 google1208.com
 google1302.com
@@ -29991,7 +29904,6 @@ grernores.com
 gresto.shop
 grethsduadijwrhdsduad.site
 gretiopswradepodor.com
-grevholsten.pro
 grevial-platform-tech.com
 grevial-tech.com
 grewsturch.cyou
@@ -30014,3 +29926,91 @@ griddablur.site
 gridekoy.xyz
 gridflairmu.site
 gridflowt.store
+gridglass.storiesoftech.com
+gridgrab.com
+gridlinkcables.com
+gridmindnode.site
+gridresistor.com
+gridronics.com
+gridsense.site
+gridspec.vudhasrcep.com
+gridviewbase.com
+gridviewbase.site
+gridwalnut.tommyleonardjr.com
+gridwavegate.com
+griefandgarlic.com
+griershome.com
+grievedkebaxxbs.info
+grifogranchimu.com
+grill-master.shop
+grill22master.pro
+grillabooks.com
+grillcentrum.shop
+grillcentrum24.shop
+grillch.digital
+grilldom24.shop
+grillhit24.shop
+grillking.shop
+grillnoro.shop
+grillogrod24.shop
+grillowo.shop
+grillowo24.shop
+grillpasja.shop
+grillqor.shop
+grillrece.digital
+grillstrefa24.shop
+grilluj.shop
+grillz-grillhouse.com
+grillzone.shop
+grilvex.shop
+grimhaldbresktorvekplund.pro
+grimhaldtorvekbind.pro
+grimhaldtorvekplundst.pro
+grimhaldtorvesk.pro
+grimhaldventoorskl.pro
+grimmlampe.cyou
+grimsbyfield.eu
+grimshard-guardian.com
+grimtorvekhaldbrn.pro
+grimystap.notrented.com
+grinderiesdiaccbetic.info
+grindtumid.cyou
+grinduniversity.academy
+grinduniversity.tech
+grindworks.co.nz
+gringraph.mradovan.com
+grinnnny5face.com
+grinpredwood.sidecharts.com
+grinvix.com
+griogrogrojgrgrjijgori.site
+gripgrid.shop
+gripp8gear.com
+griselsam.shop
+gritt2flow.pro
+grittylegs.com
+grivnix.net
+grivok.click
+grivok.shop
+grivoro.shop
+grivtal.shop
+grizako.shop
+grizzlyautogarage.com
+grizzlytattoos.com
+grkerlivegnp.com
+grloyec.shop
+grlstudio.mom
+gro31q.net
+gro33btrade.com
+gro82htrade.com
+gro98htrade.com
+groave.provenceaixperts.info
+grobmero.pro
+grocergoods.com
+groceryhomestore.shop
+grocerynest.shop
+groceryway.shop
+grochowskapobudka.mom
+groeikompas-ai.live
+groeikompas-app.live
+groeikompas.live
+groeikompasai-app.live
