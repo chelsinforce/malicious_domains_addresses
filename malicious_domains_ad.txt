@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-27T10:05:48.896Z
-# Segment: ad (4/6) | Entries in this file: 30000 | Total in full list: 149361
+# Generated: 2026-09-27T16:05:49.282Z
+# Segment: ad (4/6) | Entries in this file: 30000 | Total in full list: 149331
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     149361 valid, 149361 new after dedup | OK
+#     149331 valid, 149331 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,30 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-olx.oferta89706542pl.cfd
-olx.oferta90695401.shop
-olx.oferta91203.cfd
-olx.oferta91284.cfd
-olx.oferta91762562x.cfd
-olx.oferta92131.lol
-olx.oferta9263.pl
-olx.oferta92829383983.shop
-olx.oferta92856260.shop
-olx.oferta9313.cfd
-olx.oferta932193.lol
-olx.oferta9358392.click
-olx.oferta937264.online
-olx.oferta93931.cfd
-olx.oferta94281.cfd
-olx.oferta947291.shop
-olx.oferta9504326.shop
-olx.oferta955649.shop
-olx.oferta958382.lol
-olx.oferta96450493.shop
-olx.oferta9743810.top
-olx.oferta9837201.click
-olx.oferta98647924.click
-olx.ofertaa85494328234.cfd
 olx.ofertpo889120.cfd
 olx.oferty-405921.sbs
 olx.oferty-dnia-34ioj3i-334ni4n.sbs
@@ -902,7 +878,6 @@ olx.pl-oferta9311764.sbs
 olx.pl-oferta9342796.sbs
 olx.pl-oferta93452.lol
 olx.pl-oferta9360428.sbs
-olx.pl-oferta9362056.cfd
 olx.pl-oferta93625279.shop
 olx.pl-oferta937217842.cfd
 olx.pl-oferta9372649.cfd
@@ -1179,6 +1154,7 @@ olx.pl97zx1172.cyou
 olx.pl98.xyz
 olx.pl982.cyou
 olx.pl982342.xyz
+olx.pl98zb623.cyou
 olx.pl98zc2633.cyou
 olx.pl99.top
 olx.pl99cv231.cyou
@@ -1226,7 +1202,6 @@ olx.processing-paycore.cyou
 olx.processing-skri1l.cyou
 olx.processing-skril.cfd
 olx.processing-skril.cyou
-olx.processing-skrill.cyou
 olx.prywan5238729h-45.lat
 olx.prywanei782389129.xyz
 olx.prywant8492119.xyz
@@ -1647,7 +1622,6 @@ online.permanent.best
 online.permanent.vu
 online.personalise.click
 online.spot-site.com
-online.terminal.vu
 online.transformation.vu
 online.webaccessplatform.com
 onlineacceso.cuidamostubolsillo.com
@@ -2470,7 +2444,6 @@ orkimgrevtfalkst.top
 orkimgrevthaalst.top
 orkimgrevthold.top
 orkimhaldbrenskfold.top
-orkimsvaldrentika.top
 orkimsvaldtrekkfheld.top
 orkimsventgrald.top
 orkneyartsresidency.com
@@ -2989,7 +2962,6 @@ outlook.accountantsclaim.com
 outlook.autoconfig.bankofamerica-unauthorized.ph
 outlook.verifytoken.com
 outlook.webaccess-alert.com
-outlook.webmail.bankofamericacanadastore.ph
 outlookmail.social
 outlra.com
 outmora.shop
@@ -3779,7 +3751,6 @@ paigepals.com
 painelnetpj.online
 paintbrushworld.digital
 paintedravenart.com
-paintflowworks.digital
 paintingfusion.digital
 paintingnewhands.com
 paintingservicesg.xyz
@@ -4117,7 +4088,6 @@ parelkapitveld.digital
 parelkapitveld.net
 parelwinstborg.net
 parenrisup.rest
-parentingthroughselfharm.com
 parentpreneurhq.net
 paresidkpl.shop
 paretinter.cyou
@@ -4655,6 +4625,7 @@ paypay-card.yjhnnar.cn
 paypay-card.zdftant.cn
 paypay-card.zrddwlc.cn
 paypay-card.zrgjjpl.cn
+paypayloan.wqzrlc.cfd
 paypaynejp781.replit.app
 paysend-paczka.cfd
 paysend-paczka.sbs
@@ -6319,6 +6290,7 @@ pitbullcloths.club
 pitbullcloths.fun
 pitbullcloths.online
 pitbullcloths.shop
+pitbulllpl.shop
 pitbullmen.club
 pitbullonline.store
 pitbullpl-vip.shop
@@ -7333,7 +7305,6 @@ pl-oferta9311764.sbs
 pl-oferta9342796.sbs
 pl-oferta93452.lol
 pl-oferta9360428.sbs
-pl-oferta9362056.cfd
 pl-oferta93625279.shop
 pl-oferta937217842.cfd
 pl-oferta9372649.cfd
@@ -7550,6 +7521,7 @@ pl01.mom
 pl01.pics
 pl01.rest
 pl01.space
+pl016565d.003265981894265.com
 pl018986702306.cfd
 pl0191072.cfd
 pl019273.cfd
@@ -7749,6 +7721,7 @@ pl98.xyz
 pl982.cyou
 pl982342.xyz
 pl98329859754.cfd
+pl98zb623.cyou
 pl98zc2633.cyou
 pl99.top
 pl99cv231.cyou
@@ -9627,6 +9600,7 @@ pomier-herbe.bolt.host
 pomoc-escort.club
 pomoc-fedilite-educa-client-5643.labcorona.it
 pomoc-medfile.app
+pomoc-zakaznik.com
 pomocspotify.help
 pomozemy.icu
 pompadolom.store
@@ -9687,7 +9661,6 @@ poolvossolutions.com
 poolxgear.bilhons.com
 poormichigan.org
 poostta-id6228.eu.cc
-pootitions.net
 poowepaodpweporwoda.site
 pooz7ca-polck4polcg62.c8onkf.top
 pop-mart.pl
@@ -13749,7 +13722,6 @@ pull.pics
 pullidesign.shop
 pulltwist.greekscholar.com
 pullufrate.cyou
-pullupsych.rest
 pulluptori.site
 pulmonaryhypertensionexpert.com
 pulpofagio.cyou
@@ -16131,7 +16103,6 @@ radiocelestial.net
 radiogenicheat.cfd
 radiogiving.com
 radioguesser.com
-radioincav.rest
 radioincip.cyou
 radiojette.cyou
 radiolette.autos
@@ -17153,7 +17124,6 @@ refurbished-desk.com
 refusa.pro
 reg953792.shop
 rega-1414.com
-regaiqns-strongly.top
 regalisfinthorsoft.com
 regalkapitmere.org
 regalsozius.de
@@ -17896,6 +17866,7 @@ reservedpl.com
 reserveds.top
 reservedsa.shop
 reservedsales-pl.shop
+reservedsell.top
 reservedstore.online
 reservefonderdam.com
 reservefonderdam.digital
@@ -18587,7 +18558,6 @@ rifertnni.cyou
 riffaglass.autos
 rifilcover.cyou
 rifilstemp.store
-rifintrasv.rest
 rifiuphoen.cyou
 riflesprit.cyou
 riflumitri.cyou
@@ -19472,7 +19442,6 @@ romalizio.pro
 romalizioai.net
 romamimarlik.com
 roman-souvenirs.com
-romanceopoly.com
 romancore.cyou
 romanexgpt.click
 romanexgpttrade.com
@@ -20667,6 +20636,7 @@ s2n1.lat
 s2n3c8.lat
 s2rqtk.fit
 s2xkwn.fit
+s34719.pro
 s3d7kb.lat
 s3esc5.info
 s3h.e-podatki.com
@@ -22050,7 +22020,6 @@ scienlitod.cyou
 scientiasalus.net
 scimmparod.cyou
 scintilla-flush.com
-sciocscroc.rest
 sciolbuffo.cyou
 sciolgitta.rest
 sciopdemih.cyou
@@ -22582,6 +22551,7 @@ security-server-landing-page--barns1998.replit.app
 security-server-landing-page--bayprawn.replit.app
 security-server-landing-page--carbodyshop.replit.app
 security-server-landing-page--dianneaagroo.replit.app
+security-server-landing-page--ginola080.replit.app
 security-server-landing-page--hahwjjjaugwa.replit.app
 security-server-landing-page--ikramkhan83.replit.app
 security-server-landing-page--immoney00007.replit.app
@@ -22601,6 +22571,7 @@ security-server-landing-page--vanguardmusk.replit.app
 security-server-landing-page--vinjuntrucking.replit.app
 security-server-landing-page--wesselg1.replit.app
 security-server-page--aj5582185.replit.app
+security-server-page--billymorg6.replit.app
 security-server-page--chisomotf.replit.app
 security-server-page--copydada27.replit.app
 security-server-page--delta2rolspan.replit.app
@@ -24559,7 +24530,6 @@ signal-flarex-xp.com
 signal-gazette.xyz
 signal-lasix-cap.com
 signal-track.site
-signal20atarax.com
 signal2ulispro.com
 signalacrossmetaverse.digital
 signalarkherplex.com
@@ -25313,7 +25283,6 @@ skiogdisso.store
 skip-go.com
 skipbuild.sbs
 skipearly.printerial.com
-skippper2boat.com
 skippyy2beat.com
 skipsform.phillytoday.com
 skipthesit.com
@@ -25391,7 +25360,6 @@ skoraiklasyka-pl.top
 skoranaturalna.com
 skordem.shop
 skortan.shop
-skory.org
 skosoldq.com
 skous.top
 skovran.shop
@@ -26494,7 +26462,6 @@ softana.yellowflyingbear.com
 softballshenotheismpps.info
 softcorenet.site
 softech360.com
-softessencety.info
 softhearth.eu
 softhkettl.cyou
 softhom.com
@@ -27671,6 +27638,7 @@ spivertupro.net
 spizzdialo.cyou
 spjfv.com
 spk-aenderung.cc
+spk-de.sichereanmeldung.com
 spk-erneuern-2026.guineemining.info
 spk.kunde-daten-aktualisieren.com
 spk.sf-prozess.de
@@ -29467,7 +29435,6 @@ store-aldius.kivoramart155.com
 store-aldius.retailpulsellc.shop
 store-aldius.ubanthreds.com
 store-fifa.top
-store-gfreedeliciously.com
 store-hxsports.com
 store-pl.shop
 store-sending.forum
@@ -29777,7 +29744,6 @@ streaming.ac7617c177b65bd1e39915d5a4814755.com
 streamingheadlinenews.live
 streamingnewsdaily.live
 streamingplus.info
-streaminthevoidnet.digital
 streamlcrystal.palakorn.com
 streamline-access-porta.help
 streamlinebriefing.pro
@@ -29865,7 +29831,6 @@ striebrolokatin.com
 strigileesdanazol.info
 striglimac.cyou
 strigspost.cyou
-strikedan.rickmcc.com
 strikefcranberry.rocksforgood.com
 strikeforcelegal.net
 strikenaval.theqsolutions.com
@@ -30014,3 +29979,38 @@ studio-bridgeapps.wixstudio.com
 studio-cf.com
 studio-desktop.wixstudio.com
 studio-en-exdous.wixstudio.com
+studio-england.com
+studio-london-uk.com
+studio-resort.com
+studio.kiinoasnacks.info
+studio100investtrade.com
+studioaka.live
+studioaligator.mom
+studioavenue.shop
+studiobaila.mom
+studiobeveridge.com
+studiocdn-desktop.wixstudio.com
+studiochyzo.mom
+studioclea.live
+studiodozaj.com
+studioelements.mom
+studioemotion.mom
+studioeste.mom
+studiofigurachorzow.mom
+studioflowart.mom
+studiofotograficora.mom
+studiofotolaser.mom
+studiofrontiers.com
+studiogaraz.mom
+studiohana.live
+studioinzynierska.mom
+studioixografiseon.gr
+studiokamado.mom
+studiokg.live
+studiokinski.mom
+studiokopiowania.mom
+studiomake.digital
+studiomaki.live
+studiomatejki.mom
+studiomatsumoto.live
+studiomcopyediting.com
