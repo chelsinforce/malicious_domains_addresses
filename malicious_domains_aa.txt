@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-27T10:05:48.896Z
-# Segment: aa (1/6) | Entries in this file: 30000 | Total in full list: 149361
+# Generated: 2026-09-27T16:05:49.282Z
+# Segment: aa (1/6) | Entries in this file: 30000 | Total in full list: 149331
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     149361 valid, 149361 new after dedup | OK
+#     149331 valid, 149331 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -28,6 +28,7 @@
 001x-hg2mx-rc.loi2051.cfd
 001xza8.zamovienie0nline.click
 00216165.id-000165489149.com
+003265981894265.com
 004-psd2.my-granitnyrt.com
 00466628383.click
 0066mtddd.com
@@ -322,7 +323,6 @@
 1002h9h.xyz
 100723.cfd
 100cure.net
-100percentopens.com
 100responsible.com
 101.immrtl-hlpr.shop
 101.press2lo.shop
@@ -335,7 +335,6 @@
 1029h843h.shop
 103667.com
 10384977980745.shop
-1039483493.sbs
 1039837h53.shop
 1047qra.ink
 1058zra.hair
@@ -405,7 +404,6 @@
 12af8e63.diabetes-bewegung.de
 12cd2.hair
 12gft23.skin
-12gvty23.sbs
 12gyt3.ink
 12uheudh8.buzz
 13.accessbenefitscenter.com
@@ -1237,7 +1235,6 @@
 3487mxt.skin
 3488439595.icu
 3489893g45o.lat
-3489kxphyr083c1q.fantom.neriobazzano.it
 348t348378g3.bond
 34920587.xyz
 3497xpk.hair
@@ -1404,7 +1401,6 @@
 3ih4ju4.skin
 3ihgw.skin
 3ikj3vg22.hair
-3iue73jr.sbs
 3iy73we.cfd
 3j.tq5qdt.cfd
 3j38ej.hair
@@ -3144,7 +3140,6 @@
 9000-firebase-bor-1781765840587.cluster-mwsteha33jfdowtvzffztbjcj6.cloudworkstations.dev
 9000-firebase-brand-1772436098803.cluster-jgdkb37mtnfb4urxtja5guzqog.cloudworkstations.dev
 9000-firebase-cloudstorage-1777303669425.cluster-thle3dudhffpwss7zs5hxaeu2o.cloudworkstations.dev
-9000-firebase-fresh-1773748767661.cluster-64pjnskmlbaxowh5lzq6i7v4ra.cloudworkstations.dev
 9000-firebase-hv-1781765441869.cluster-cd3bsnf6r5bemwki2bxljme5as.cloudworkstations.dev
 9000-firebase-jashdasd123-1781315945331.cluster-mdgxqvvkkbfpqrfigfiuugu5pk.cloudworkstations.dev
 9000-firebase-jin-1781591798124.cluster-fsmcisrvfbb5cr5mvra3hr3qyg.cloudworkstations.dev
@@ -3443,7 +3438,6 @@
 9kvb.x8xmho.cfd
 9kwj2j3.buzz
 9l.in4wun.qpon
-9m5pzxwc0ybw1ddi.fantom.neriobazzano.it
 9mgd.kurierp0lska.click
 9mnp4ka.top
 9n.ks6gdt.qpon
@@ -3535,6 +3529,7 @@ a3p2y7.cfd
 a3p2y7.lat
 a3u2q1.lat
 a3u6.lat
+a4419493.pro
 a48f6402.vcstrading.com
 a4e70a6f-6360-4b01-83d7-af8b7ea246bc-00-3fud91nii2ukn.kirk.replit.dev
 a4kfze.fit
@@ -7996,7 +7991,6 @@ alebilet.10209j8j8.shop
 alebilet.1020smart9381.baby
 alebilet.1023010h04.shop
 alebilet.1029h843h.shop
-alebilet.1039483493.sbs
 alebilet.1039837h53.shop
 alebilet.120029hdf.xyz
 alebilet.12029487h.xyz
@@ -8547,6 +8541,7 @@ alebilet.oferta532843.click
 alebilet.oferta542364.cfd
 alebilet.oferta54783.sbs
 alebilet.oferta5522738483322.cfd
+alebilet.oferta56.shop
 alebilet.oferta57815810.shop
 alebilet.oferta58.lat
 alebilet.oferta58241.live
@@ -9278,7 +9273,6 @@ alebilet.pl-oferta932619081.shop
 alebilet.pl-oferta9342796.sbs
 alebilet.pl-oferta93452.lol
 alebilet.pl-oferta9360428.sbs
-alebilet.pl-oferta9362056.cfd
 alebilet.pl-oferta93625279.shop
 alebilet.pl-oferta937217842.cfd
 alebilet.pl-oferta9372649.cfd
@@ -9530,6 +9524,7 @@ alebilet.pl97zx1172.cyou
 alebilet.pl98.xyz
 alebilet.pl982.cyou
 alebilet.pl982342.xyz
+alebilet.pl98zb623.cyou
 alebilet.pl98zc2633.cyou
 alebilet.pl99.top
 alebilet.pl99cv231.cyou
@@ -9797,7 +9792,6 @@ aliegrolokalnie.pl-6478953.sbs
 alienbeing.com
 aliengruff.click
 alienqueen.com
-alienrefra.rest
 alienscalf.rest
 aliensintech.com
 aliery.com
@@ -11113,6 +11107,7 @@ allegro-lokalnie.upp4387129.lol
 allegro-lokalnie.uutiyo4ty2189g43.lat
 allegro-lokalnie.y31820g341-2.lat
 allegro-lokalnie.yng392802.lat
+allegro-official.gier.best
 allegro-pl.viredol.cyou
 allegro-poland.eu.cc
 allegro-powiadomienia.shop
@@ -11220,7 +11215,6 @@ allegro.102988g8g8g.pl
 allegro.1029h843h.shop
 allegro.103748234.lat
 allegro.10384977980745.shop
-allegro.1039483493.sbs
 allegro.1039837h53.shop
 allegro.112932932398721112.lol
 allegro.12-1-h593g4.lol
@@ -13613,7 +13607,6 @@ allegro.pl-oferta9311764.sbs
 allegro.pl-oferta9342796.sbs
 allegro.pl-oferta93452.lol
 allegro.pl-oferta9360428.sbs
-allegro.pl-oferta9362056.cfd
 allegro.pl-oferta93625279.shop
 allegro.pl-oferta937217842.cfd
 allegro.pl-oferta9372649.cfd
@@ -13898,6 +13891,7 @@ allegro.pl97zx1172.cyou
 allegro.pl98.xyz
 allegro.pl982.cyou
 allegro.pl982342.xyz
+allegro.pl98zb623.cyou
 allegro.pl98zc2633.cyou
 allegro.pl99.top
 allegro.pl99cv231.cyou
@@ -15238,7 +15232,6 @@ allegrolokalnie.20293587.lol
 allegrolokalnie.204920.lat
 allegrolokalnie.2082v47x58.click
 allegrolokalnie.209089883cc.shop
-allegrolokalnie.2093mdi2q.sbs
 allegrolokalnie.211543ga.top
 allegrolokalnie.21396023.cfd
 allegrolokalnie.21457841.cfd
@@ -16310,6 +16303,7 @@ allegrolokalnie.d2djj213.lol
 allegrolokalnie.dfdoferta.lat
 allegrolokalnie.directshop.club
 allegrolokalnie.directshop.sbs
+allegrolokalnie.dk-51251.sbs
 allegrolokalnie.dk-71629.cyou
 allegrolokalnie.dk-829370.cyou
 allegrolokalnie.dk-92618.cfd
@@ -17333,6 +17327,7 @@ allegrolokalnie.oferta038472012.cfd
 allegrolokalnie.oferta038598265.lat
 allegrolokalnie.oferta0394.lat
 allegrolokalnie.oferta03946850.lat
+allegrolokalnie.oferta03948374.cfd
 allegrolokalnie.oferta0492.lat
 allegrolokalnie.oferta056538354.sbs
 allegrolokalnie.oferta07481.shop
@@ -17686,6 +17681,7 @@ allegrolokalnie.oferta841818.click
 allegrolokalnie.oferta845214.cfd
 allegrolokalnie.oferta8458181.lat
 allegrolokalnie.oferta8473204483.cfd
+allegrolokalnie.oferta847489347.cfd
 allegrolokalnie.oferta848121.click
 allegrolokalnie.oferta848184152.click
 allegrolokalnie.oferta8487121.click
@@ -17803,6 +17799,7 @@ allegrolokalnie.ofertaa89705697523.cfd
 allegrolokalnie.ofertaa9039853025.cfd
 allegrolokalnie.ofertaa9455241593275.cfd
 allegrolokalnie.ofertaa948290358520643.cfd
+allegrolokalnie.ofertaa94843693458.cfd
 allegrolokalnie.ofertaa95124875294175.cfd
 allegrolokalnie.ofertaaoxneywp304826484.online
 allegrolokalnie.ofertaheodhr3395826.shop
@@ -18534,6 +18531,7 @@ allegrolokalnie.pl-846363543.click
 allegrolokalnie.pl-84673.click
 allegrolokalnie.pl-84712784.lat
 allegrolokalnie.pl-847261842.lol
+allegrolokalnie.pl-847pav5.sbs
 allegrolokalnie.pl-84826374.cfd
 allegrolokalnie.pl-8492774.click
 allegrolokalnie.pl-8493240.lol
@@ -19421,7 +19419,6 @@ allegrolokalnie.pl-oferta9311764.sbs
 allegrolokalnie.pl-oferta9342796.sbs
 allegrolokalnie.pl-oferta93452.lol
 allegrolokalnie.pl-oferta9360428.sbs
-allegrolokalnie.pl-oferta9362056.cfd
 allegrolokalnie.pl-oferta937217842.cfd
 allegrolokalnie.pl-oferta9372649.cfd
 allegrolokalnie.pl-oferta9374164.click
@@ -19764,6 +19761,7 @@ allegrolokalnie.pl32895.top
 allegrolokalnie.pl32943.top
 allegrolokalnie.pl32993.top
 allegrolokalnie.pl32zx41.cyou
+allegrolokalnie.pl3422543.shop
 allegrolokalnie.pl344381639.click
 allegrolokalnie.pl34994.top
 allegrolokalnie.pl35283.top
@@ -19908,6 +19906,7 @@ allegrolokalnie.pl76453.top
 allegrolokalnie.pl76486.top
 allegrolokalnie.pl767.lat
 allegrolokalnie.pl76703.top
+allegrolokalnie.pl76728.top
 allegrolokalnie.pl76782.top
 allegrolokalnie.pl768.lat
 allegrolokalnie.pl76818.top
@@ -19998,6 +19997,7 @@ allegrolokalnie.pl982.cyou
 allegrolokalnie.pl98218.top
 allegrolokalnie.pl982342.xyz
 allegrolokalnie.pl98329859754.cfd
+allegrolokalnie.pl98zb623.cyou
 allegrolokalnie.pl98zc2633.cyou
 allegrolokalnie.pl99.top
 allegrolokalnie.pl99cv231.cyou
@@ -20969,7 +20969,6 @@ amazon-video-musique.com
 amazon.acc-prime.com
 amazon.accsubs-prime.eu.cc
 amazon.biowikiweb.com
-amazon.co.jp.updatejp1.jrhwks.ph
 amazon.cs-prime.com
 amazon.csi-prime.com
 amazon.ns-prime.com
@@ -21050,7 +21049,6 @@ amble-sprout.com
 ambleford.eu
 ambonporte.cyou
 ambreehub.com
-ambrerivuo.rest
 ambriellenovairex.net
 ambrononde.store
 ambrosiarestaurant.site
@@ -21112,7 +21110,6 @@ americantrench.live
 americaroofco.com
 americarxshop.com
 amerishield.net
-ameriskuldhavenveld.top
 ameriskuldventhelm.top
 ameronbooking-res91325.com
 amerskuldbrenveld.top
@@ -21503,7 +21500,6 @@ aneraye.info
 anesopar.com
 anetflix.saltliness.com
 aneva.altoner.com
-anewbornmama.com
 anewvideo.com
 anexairlines.com
 anfipaffil.cyou
@@ -21532,7 +21528,6 @@ angeltokenize.net
 angfondholm.com
 anggddsdee.shop
 angiegruessing.com
-angielinks.com
 angiomothb.cyou
 angioripre.cyou
 anglade.ext5710418.pro
@@ -21765,7 +21760,6 @@ antheshop.com
 anthesmacc.cyou
 antholesse.cyou
 anthonypilja.shop
-anthrcarda.rest
 anthrdley.cyou
 anthropicipo.net
 anthrrodag.cyou
@@ -21927,6 +21921,7 @@ apartshare-housestay4861.com
 apartspot.com
 apartsrent.com
 apathstock.cyou
+apbelwr.icu
 apcbcb.com
 apchanrun.com
 apcoa-pl-informationa.top
@@ -22278,7 +22273,6 @@ appgallery.ledgerliveapp.lol
 apphome-ledger.wixstudio.com
 apphome-ledzercdn.wixstudio.com
 apphome-lezrstart.wixstudio.com
-appiaavvol.rest
 appiademag.cyou
 appiadisor.store
 appiaoilyki.cyou
@@ -23324,6 +23318,7 @@ asdaqwexcz.com
 asdasfafasf.shop
 asdcinpost.qpon
 asdfadsfq.fit
+asdfbnmxcvbnm-dpggr1q8x0z1.edgeone.dev
 asdferta.com
 asdfghjklbnm-lpbgjju0gp.edgeone.dev
 asdfkp.fit
@@ -24028,6 +24023,7 @@ aunes-briotech.com
 aunewshift.com
 aunextfrontier.com
 aunextgenreport.com
+auntenticar-2-pasos--revision36593.replit.app
 auntrix-cipherai.com
 auntrix-cipherai.net
 auntrix-cipherai.org
@@ -24345,6 +24341,7 @@ auth-spectrum-net-login.framer.ai
 auth-spectrum-net-login09.framer.ai
 auth-telekom.de
 auth-upheld-en.framer.ai
+auth-us.survey-rnonkey.com
 auth-verifsg-espace.com
 auth-we.xyz
 auth-webang.xyz
@@ -25298,7 +25295,6 @@ backpack-style.shop
 backpackweb.wixstudio.com
 backshhtages.info
 backstable.kitcheneminence.com
-backtab.shop
 backtobasicsbaseball.com
 backtodrawingboard.org
 backup.device-ledger.cloud
@@ -26228,6 +26224,7 @@ bdsacademy.mom
 bdscdr.com
 bdtzswkj.com
 bdvcredienlinea-7--servcios.replit.app
+bdvenlinea--equipobdv.replit.app
 bdyt.shop
 bdzdmy.com
 be-duolinguo.bolt.host
@@ -27067,7 +27064,6 @@ bfx.e-podatk.com
 bfxfxx.com
 bg-spa.com
 bg-xyz.com
-bg.ihv-confirm.app
 bgabrasivi.com
 bgb-china.com
 bgcsacredspaces.com
@@ -30014,3 +30010,7 @@ brand1773196191.com
 brand1773673014.com
 brand1773760202.com
 brand1774016563.com
+brand8pr.live
+brandadvise.com
+brandapp.sbs
+brandd12kit.pro
