@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-09-28T10:05:48.669Z
-# Segment: aa (1/6) | Entries in this file: 30000 | Total in full list: 149153
+# Generated: 2026-09-28T16:05:49.142Z
+# Segment: aa (1/6) | Entries in this file: 30000 | Total in full list: 149230
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     149153 valid, 149153 new after dedup | OK
+#     149230 valid, 149230 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -315,6 +315,7 @@
 1-npo7dryh736.c2pink.casa
 1-nqpcotpdem-fesa5.f9tvsl.casa
 1-straussvipeu-online.shop
+1.mojakarta.online
 1.mojakarta.shop
 1.mojprogram.shop
 1002h9h.xyz
@@ -730,6 +731,7 @@
 1yg26g.sbs
 1yg2g2.top
 1yy6kx.info
+2.mojakarta.online
 2.mojakarta.shop
 20-172-65-119.cpanel.site
 20-228-132-238.cpanel.site
@@ -1140,6 +1142,7 @@
 2yw6t3y.skin
 2zgg.pt3ozi.casa
 2zt7vkp.hair
+3.mojakarta.online
 3.mojakarta.shop
 3.mojprogram.shop
 3000gu.com
@@ -1907,6 +1910,7 @@
 4zr2ptk.casa
 5-days.jp
 5-starblinds.com
+5.mojakarta.online
 5.mojakarta.shop
 5.mojprogram.shop
 50-50ball.com
@@ -1958,6 +1962,7 @@
 52398g8923.cyou
 5239f892398f283.cfd
 5239j867563g4.shop
+524675-coinbase.com
 5280sin.com
 528yt5.shop
 5291lpo.top
@@ -2552,7 +2557,6 @@
 7392031.pl
 73923-g03912.lat
 73a2370016b7.scm.paypal-support.antimoney-laundering.org
-73a2370016b7.yamobile.paypal-update.antimoney-laundering.org
 73ch.er1lke.top
 73eh6t4.lol
 73he63g.lat
@@ -3116,6 +3120,7 @@
 8tku5tr.cfd
 8ue64ye.qpon
 8uhwye.rest
+8usttgw.sbs
 8uw76y.buzz
 8v4.t2ltdy.top
 8vk5prw.hair
@@ -4109,7 +4114,6 @@ accs-laceextension.wixstudio.com
 accstarts-ledgrcdn.wixstudio.com
 accstarts-ledgrecdn.wixstudio.com
 acctz.com
-accucconse.rest
 accucgufer.click
 accucincag.cyou
 accuctetra.cyou
@@ -4568,6 +4572,7 @@ admanagement.do
 admgrandhotelistanbul.com
 admin-df.app
 admin-support-nz.com
+admin.aeverify.com.ng
 admin.allegroshops.cfd
 admin.allegroshops.me
 admin.allegroshops.one
@@ -6776,10 +6781,13 @@ aldideals.ashquaypantry.shop
 aldideals.avdori.shop
 aldideals.avlermart.shop
 aldideals.axtromart.shop
+aldideals.bayanmart.shop
+aldideals.bayonmart.shop
 aldideals.bedimart.shop
 aldideals.beldstore.shop
 aldideals.berlomart.shop
 aldideals.bernymart.shop
+aldideals.birdmart.shop
 aldideals.bolven.shop
 aldideals.bormart.shop
 aldideals.bostorex.shop
@@ -7106,6 +7114,7 @@ aldieu.comzyra.shop
 aldieu.corenovantra.shop
 aldieu.corlunixniceday.shop
 aldieu.corvoselect.shop
+aldieu.coryme.shop
 aldieu.cosmovanture.shop
 aldieu.cresnovaware.shop
 aldieu.crystalice.shop
@@ -7118,6 +7127,7 @@ aldieu.damerahub.shop
 aldieu.darenoselect.shop
 aldieu.daveriventure.shop
 aldieu.dawnevantra.shop
+aldieu.dazino.shop
 aldieu.delisohub.shop
 aldieu.delvirotobuy.shop
 aldieu.delvoselect.shop
@@ -7135,6 +7145,7 @@ aldieu.dunoraltobuy.shop
 aldieu.dynterahub.shop
 aldieu.dyverintobuy.shop
 aldieu.emberahub.shop
+aldieu.falemi.shop
 aldieu.fcpaddlecraft.shop
 aldieu.fcsnapdragonfield.shop
 aldieu.fenalucart.shop
@@ -7147,9 +7158,11 @@ aldieu.ganoblestar.shop
 aldieu.garisohub.shop
 aldieu.garumblingcloud.shop
 aldieu.gavamatrix.shop
+aldieu.gavory.shop
 aldieu.gemanucart.shop
 aldieu.glaindeal.shop
 aldieu.globaltroveco.shop
+aldieu.goremi.shop
 aldieu.gulenvcart.shop
 aldieu.halenxcart.shop
 aldieu.hamistveil.shop
@@ -7251,6 +7264,7 @@ aldieu.snapdragonfield.shop
 aldieu.sorianhub.shop
 aldieu.sovithyn.shop
 aldieu.sraivdeal.shop
+aldieu.swaedward.shop
 aldieu.swucck.shop
 aldieu.symerahub.shop
 aldieu.talenahub.shop
@@ -7333,6 +7347,7 @@ aldimart.aislepavilion.shop
 aldimart.aisleplazaway.shop
 aldimart.aislevista.shop
 aldimart.anqavo.shop
+aldimart.azivomart.shop
 aldimart.basketarcadia.shop
 aldimart.basketbayview.shop
 aldimart.basketcenterpoint.shop
@@ -7342,6 +7357,7 @@ aldimart.basketharvestway.shop
 aldimart.basketmarkethouse.shop
 aldimart.basketmarketyard.shop
 aldimart.basketpavilion.shop
+aldimart.bavynmart.shop
 aldimart.beldro.shop
 aldimart.bilnex.shop
 aldimart.brelqis.shop
@@ -7570,6 +7586,11 @@ aldishop.aislespot.shop
 aldishop.avloria.shop
 aldishop.davlora.shop
 aldishop.delvora.shop
+aldishop.dervodorimart.shop
+aldishop.dervorivomart.shop
+aldishop.dervosimomart.shop
+aldishop.dervovonamart.shop
+aldishop.dervozelomart.shop
 aldishop.forlian.shop
 aldishop.gavlian.shop
 aldishop.gelvaro.shop
@@ -7602,6 +7623,7 @@ aldiuk-market.riverstonearc.com
 aldiuk-market.skylinebooth1.com
 aldiuk-market.stylecoveretail.com
 aldiuk-market.talivollc.com
+aldiuk-market.vanevice.shop
 aldiuk-market.velonovaa.com
 aldiuk-market.veloratableware.com
 aldiuk-market.veloriacrest.com
@@ -7688,6 +7710,7 @@ aldiuk.hollowmart.shop
 aldiuk.hydmart.shop
 aldiuk.hydramart.shop
 aldiuk.hylamart.shop
+aldiuk.iiqarlo.shop
 aldiuk.ironmerebasket.shop
 aldiuk.ironmeregrocer.shop
 aldiuk.jaspymart.shop
@@ -7716,6 +7739,7 @@ aldiuk.palemart.shop
 aldiuk.prydmart.shop
 aldiuk.prydwenmart.shop
 aldiuk.pryzmart.shop
+aldiuk.qhqnoah.shop
 aldiuk.quasamart.shop
 aldiuk.ravenmart.shop
 aldiuk.rhylmart.shop
@@ -7784,6 +7808,7 @@ aldius-store.oklahomabalti.com
 aldius-store.silverpeakmargaret.com
 aldius-store.truenorthmarketllc.shop
 aldius-store.warmpethomellc.com
+aldius.amberthicketgrocer.shop
 aldius.anvilbasket.shop
 aldius.axlemart.shop
 aldius.bazaargo.shop
@@ -7791,6 +7816,8 @@ aldius.beldshop.shop
 aldius.brightdailypantry.shop
 aldius.buttressmart.shop
 aldius.canalserene.shop
+aldius.cedarmeadowbasket.shop
+aldius.cedarmeadowgrocer.shop
 aldius.chalkdown.shop
 aldius.chalkstream.shop
 aldius.circuitshop.shop
@@ -8508,6 +8535,7 @@ alebilet.oferta33466413683.sbs
 alebilet.oferta3367.lat
 alebilet.oferta34.xyz
 alebilet.oferta34345353.sbs
+alebilet.oferta349.cfd
 alebilet.oferta3546.sbs
 alebilet.oferta371261.cfd
 alebilet.oferta37654208.shop
@@ -8672,6 +8700,7 @@ alebilet.pi-oferta012719282192.sbs
 alebilet.pi-ofeta.sbs
 alebilet.pi-ogioszenie29173.ink
 alebilet.pi-prywatne93274.click
+alebilet.pi1982z927.cyou
 alebilet.pi22nz523.cyou
 alebilet.pi823az13q.cyou
 alebilet.pk43cv12.cyou
@@ -9379,6 +9408,7 @@ alebilet.pl-pellet7368269184.sbs
 alebilet.pl-pg2i1.sbs
 alebilet.pl-platnosci53853.cyou
 alebilet.pl-platnosci708947213.lol
+alebilet.pl-platnosci740938278.cfd
 alebilet.pl-platnosci879054832.sbs
 alebilet.pl-produkt38oferta545967389.lol
 alebilet.pl-produkt39knrs687567896.lol
@@ -9390,6 +9420,7 @@ alebilet.pl-przvf.sbs
 alebilet.pl-rc5produkty4567893254.lol
 alebilet.pl-rdr.pl
 alebilet.pl-rezerwacja9669.click
+alebilet.pl-sharee281283389.sbs
 alebilet.pl-sklep2oferta76959134.shop
 alebilet.pl-sklep2oferta837894091.shop
 alebilet.pl-sklep2oferty786958494.shop
@@ -9617,6 +9648,7 @@ alebilet.wiosna-2026-839043.sbs
 alebilet.wiosna-2026-nr638942.sbs
 alebilet.wiosna-2026-nr73921.click
 alebilet.wmq2toferta.lat
+alebilet.x8818272626.com
 alebilet.yifwjoferta.lat
 alebilet.z0ms7oferta.lat
 alebilet.zve8s937k9.rest
@@ -11425,7 +11457,6 @@ allegro.292930t923.cyou
 allegro.293743038596.click
 allegro.2938g723.cfd
 allegro.294287139489235r23g234.click
-allegro.298t3g928g.cfd
 allegro.2992ghohgoho.cam
 allegro.299328g74.lol
 allegro.29989387bv.lol
@@ -12920,6 +12951,7 @@ allegro.pi-ofeta.sbs
 allegro.pi-ofeta089139.shop
 allegro.pi-ogioszenie29173.ink
 allegro.pi-prywatne93274.click
+allegro.pi1982z927.cyou
 allegro.pi22nz523.cyou
 allegro.pi823az13q.cyou
 allegro.pk43cv12.cyou
@@ -13755,6 +13787,7 @@ allegro.pl-romocja.sbs
 allegro.pl-s.shop
 allegro.pl-s7by3.sbs
 allegro.pl-sd72d.sbs
+allegro.pl-sharee281283389.sbs
 allegro.pl-sklep2oferta76959134.shop
 allegro.pl-sklep2oferta837894091.shop
 allegro.pl-sklep2oferty786958494.shop
@@ -14189,6 +14222,7 @@ allegro.wiosna-2026-nr73921.click
 allegro.wyprzedaz-lokalna172645982746.sbs
 allegro.wyprzedaz-lokalna183645482644.sbs
 allegro.wyprzedaz-lokalna192648452641.sbs
+allegro.x8818272626.com
 allegro.y31820g341-2.lat
 allegro.yb842190123.click
 allegro.yng392802.lat
@@ -15517,6 +15551,7 @@ allegrolokalnie.525194ee.top
 allegrolokalnie.527346237.lol
 allegrolokalnie.52783.cfd
 allegrolokalnie.5281921.click
+allegrolokalnie.528194ee.top
 allegrolokalnie.5283652735.lol
 allegrolokalnie.534455ip.top
 allegrolokalnie.5349872543291512.cfd
@@ -16450,8 +16485,10 @@ allegrolokalnie.id3f27jsd7x23872393.sbs
 allegrolokalnie.id4109887562.sbs
 allegrolokalnie.id45681.info
 allegrolokalnie.id457iadn7d92bd2.sbs
+allegrolokalnie.id589759066.cyou
 allegrolokalnie.id723d78f28723fg78f.sbs
 allegrolokalnie.id73idd237sidas8nv832.sbs
+allegrolokalnie.id7485199501.cyou
 allegrolokalnie.id7re9r483nfs743nfhds.sbs
 allegrolokalnie.id81.lat
 allegrolokalnie.id812dn23yf327239fbsd.sbs
@@ -17384,6 +17421,7 @@ allegrolokalnie.oferta155890957.icu
 allegrolokalnie.oferta16907306.click
 allegrolokalnie.oferta1726712.shop
 allegrolokalnie.oferta1758691.click
+allegrolokalnie.oferta181721827.cfd
 allegrolokalnie.oferta183052.click
 allegrolokalnie.oferta1851712.click
 allegrolokalnie.oferta1853202.rest
@@ -18023,7 +18061,9 @@ allegrolokalnie.pi-ogioszenie29173.ink
 allegrolokalnie.pi-produkty738268816.lol
 allegrolokalnie.pi-prywatne93274.click
 allegrolokalnie.pi-zam8413249.cfd
+allegrolokalnie.pi1982z927.cyou
 allegrolokalnie.pi22nz523.cyou
+allegrolokalnie.pi29zm7zy.rest
 allegrolokalnie.pi581862986.lol
 allegrolokalnie.pi823az13q.cyou
 allegrolokalnie.pk43cv12.cyou
@@ -19046,6 +19086,7 @@ allegrolokalnie.pl-oferta2960379.click
 allegrolokalnie.pl-oferta297397.click
 allegrolokalnie.pl-oferta29817482718727.cfd
 allegrolokalnie.pl-oferta2989028.click
+allegrolokalnie.pl-oferta299639.click
 allegrolokalnie.pl-oferta31134.click
 allegrolokalnie.pl-oferta312985.lol
 allegrolokalnie.pl-oferta31963081.shop
@@ -19189,6 +19230,7 @@ allegrolokalnie.pl-oferta59329512.sbs
 allegrolokalnie.pl-oferta593850.click
 allegrolokalnie.pl-oferta59424.sbs
 allegrolokalnie.pl-oferta594583.shop
+allegrolokalnie.pl-oferta5957356783.cfd
 allegrolokalnie.pl-oferta59783524.shop
 allegrolokalnie.pl-oferta5982511123.cfd
 allegrolokalnie.pl-oferta5jfc4dd4x.click
@@ -19662,6 +19704,7 @@ allegrolokalnie.pl-romocja.sbs
 allegrolokalnie.pl-s.shop
 allegrolokalnie.pl-s7by3.sbs
 allegrolokalnie.pl-sd72d.sbs
+allegrolokalnie.pl-sharee281283389.sbs
 allegrolokalnie.pl-sklep.lat
 allegrolokalnie.pl-sklep2oferta76959134.shop
 allegrolokalnie.pl-sklep2oferta837894091.shop
@@ -19779,6 +19822,7 @@ allegrolokalnie.pl21vnu294b.cyou
 allegrolokalnie.pl23339.top
 allegrolokalnie.pl23562.lol
 allegrolokalnie.pl235925.lol
+allegrolokalnie.pl23843.top
 allegrolokalnie.pl23953.top
 allegrolokalnie.pl24.online
 allegrolokalnie.pl24.shop
@@ -19795,6 +19839,7 @@ allegrolokalnie.pl292829.cyou
 allegrolokalnie.pl29333.top
 allegrolokalnie.pl2bz6vc7u.cyou
 allegrolokalnie.pl30233.top
+allegrolokalnie.pl32498.top
 allegrolokalnie.pl32895.top
 allegrolokalnie.pl32943.top
 allegrolokalnie.pl32993.top
@@ -19925,7 +19970,9 @@ allegrolokalnie.pl73616.top
 allegrolokalnie.pl73626.top
 allegrolokalnie.pl7363839.shop
 allegrolokalnie.pl73646.top
+allegrolokalnie.pl73713.top
 allegrolokalnie.pl738237.click
+allegrolokalnie.pl739142.top
 allegrolokalnie.pl741921502.xyz
 allegrolokalnie.pl742181576.eu.cc
 allegrolokalnie.pl74495.cyou
@@ -19933,6 +19980,7 @@ allegrolokalnie.pl74582.top
 allegrolokalnie.pl74604.top
 allegrolokalnie.pl74646.top
 allegrolokalnie.pl74682.top
+allegrolokalnie.pl74713.top
 allegrolokalnie.pl7523rezerwacja7272.lol
 allegrolokalnie.pl753.lat
 allegrolokalnie.pl7542rezerwacja7769.lol
@@ -20072,6 +20120,7 @@ allegrolokalnie.pln642.lol
 allegrolokalnie.pln683.lol
 allegrolokalnie.pln738.lol
 allegrolokalnie.pln904.lol
+allegrolokalnie.pln930.cfd
 allegrolokalnie.ploferta-93742993.shop
 allegrolokalnie.ploferta-telefon-pixel-10-pro-512gb-gwarancja.sbs
 allegrolokalnie.ploferta23189192.rest
@@ -20114,6 +20163,7 @@ allegrolokalnie.plx-offertta-ogloszenie.casa
 allegrolokalnie.plx109592361.lat
 allegrolokalnie.plx195239627.cfd
 allegrolokalnie.plx19592361.cfd
+allegrolokalnie.plx6631.cyou
 allegrolokalnie.plx739.cyou
 allegrolokalnie.plx9106825478.cfd
 allegrolokalnie.plx9423665784.cfd
@@ -20408,6 +20458,7 @@ allegrolokalnie.wyprzedaz-lokalna192648452641.sbs
 allegrolokalnie.wzbogacsiedomain140.shop
 allegrolokalnie.wzbogacsiedomain5456.shop
 allegrolokalnie.x87ca.click
+allegrolokalnie.x8818272626.com
 allegrolokalnie.xkupteraz.me
 allegrolokalnie.xlpprodukt.xyz
 allegrolokalnie.xoferta.cyou
@@ -21136,7 +21187,6 @@ amendes-justiice-gov.buzz
 amendes.justice.gov.ma-co.eu.cc
 amentcast.site
 amercimmac.store
-amerglintbreskova.top
 amerglintovskaheelbrund.top
 american-spirit-mustang.com
 americanbedrock.us
@@ -21169,7 +21219,6 @@ amicapitolex.digital
 amicapitolex.net
 amicapitolexsolution.com
 amidabuli.com
-amidischid.rest
 amieladventures.com
 amin.ope-10884282.pro
 amin.serv912564.pro
@@ -24117,7 +24166,6 @@ aurelionolive.com
 aurelioxaz.top
 aureliusai.digital
 aureliusgp.com
-aurelle.studio
 aurellestudio.com
 aurellitopro8-2.pro
 aurellitopro82ia.com
@@ -24411,6 +24459,7 @@ authflixlite.135-235-137-231.cpanel.site
 authguest-booking.com
 authhub.mom
 authintlmanagescreomokwsoerkgmaoewrmgkh.ronindev.ru
+authlink.fun
 authmail.edgeone.app
 authorbocanegra.com
 authoritativereport.pro
@@ -24780,6 +24829,7 @@ avukatmsb.com
 avvelrisup.rest
 avvenretro.online
 avverfalan.cyou
+avvinstanc.store
 avvio-finevox-soft.com
 avvisfatic.rest
 avvisoare.sviluppo.host
@@ -28671,6 +28721,7 @@ bluer-trader.icu
 blueraventy.info
 blueschiphol.info
 blueschist.cfd
+bluesea.perfectoutcomelost.de
 blueserv.eliasmurray.com
 blueshiftbiotechnology.com
 bluestoneluxent-system.com
@@ -29963,54 +30014,3 @@ bradyeve.shop
 bradymay.shop
 bradyoccul.cyou
 braenrouti.cyou
-braepressa.site
-brahmarshi.org
-brahmnithode-ai.com
-brahmnithode.com
-brailopera.store
-brainboxgroup.com
-braincleansingdoc.cc
-braincode.grunenthalconnect.com
-brainedcorednodsystem.com
-brainedcorednodtrade.com
-brainlessnesseiisjumpily.info
-brainmentum.pro
-brainn8ify.pro
-brainnuvol.cyou
-brainring.cfd
-braintem.casa
-braisecapitence.com
-braishfieldschool.com
-brake-bliss.com
-brakeszone.com
-brakingturk24.com
-brakionel.com
-braksel.shop
-bralenzio.click
-bralenzio.live
-bralovena.info
-bralvexis.com
-bralvexo.info
-bralvexota.com
-bramblehill.shop
-brambles-cloud-solutions.com
-bramblewoodless.info
-bramelix.online
-brametoxpro-soft.com
-bramford.site
-bramico.digital
-bramka-mkis.com
-bramleyfundex-system.com
-bramleyfundex.net
-bramora.xyz
-bramortiane.info
-bramoviquldrexan.digital
-bramridgetrust.com
-bramridgetrust.live
-bramridgetrust.pro
-bramtravels.com
-branche-rendalie-ai.com
-brancherendalie.com
-branchesfinish.xyz
-branchoutaccountservices.com
-branchshiny.biz
