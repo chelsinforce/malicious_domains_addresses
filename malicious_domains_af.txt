@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-10-03T16:05:48.660Z
-# Segment: af (6/6) | Entries in this file: 0 | Total in full list: 146136
+# Generated: 2026-10-03T22:05:48.729Z
+# Segment: af (6/6) | Entries in this file: 0 | Total in full list: 145655
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     146136 valid, 146136 new after dedup | OK
+#     145655 valid, 145655 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
