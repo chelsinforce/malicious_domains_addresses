@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-10-25T17:05:48.949Z
-# Segment: ae (5/6) | Entries in this file: 30000 | Total in full list: 152735
+# Generated: 2026-10-25T23:05:48.936Z
+# Segment: ae (5/6) | Entries in this file: 30000 | Total in full list: 152600
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     152735 valid, 152735 new after dedup | OK
+#     152600 valid, 152600 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,138 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-sp11ct-lorsik-biz8-venzar-fomrel.pages.dev
-sp11ct-lorzen-biz8-mexdor-vantri.pages.dev
-sp11ct-marsik-biz8-holvek-zenlor.pages.dev
-sp11ct-melsar-biz8-ronvek-ladrix.pages.dev
-sp11ct-melvar-biz8-kreson-dalvik.pages.dev
-sp11ct-merlok-biz8-zarnex-tolvir.pages.dev
-sp11ct-monzar-biz8-frenok-lavtri.pages.dev
-sp11ct-morlan-biz8-dravex-polsik.pages.dev
-sp11ct-morvek-biz8-seltra-quenix.pages.dev
-sp11ct-nalvek-biz8-sormix-queldor.pages.dev
-sp11ct-narkel-biz8-dorsan-velrix.pages.dev
-sp11ct-norvek-biz8-pleska-torlin.pages.dev
-sp11ct-pelnor-biz8-drasik-vomlen.pages.dev
-sp11ct-polnix-biz8-zarsel-havrek.pages.dev
-sp11ct-polrek-biz8-farnix-lomvek.pages.dev
-sp11ct-polvik-biz8-derlon-frasik.pages.dev
-sp11ct-polzar-biz8-harsik-velnor.pages.dev
-sp11ct-pralok-biz8-kemvar-morsik.pages.dev
-sp11ct-pranor-biz8-helsik-vokmar.pages.dev
-sp11ct-prelix-biz8-horvek-sumral.pages.dev
-sp11ct-quarsik-biz8-drelon-maxvir.pages.dev
-sp11ct-quenor-biz8-tarsel-vokmir.pages.dev
-sp11ct-ralvek-biz8-kormel-dasvik.pages.dev
-sp11ct-ravnor-biz8-kelsik-domvek.pages.dev
-sp11ct-renvik-biz8-kolmar-zefran.pages.dev
-sp11ct-renvok-biz8-zelmir-panvek.pages.dev
-sp11ct-ronmel-biz8-kastor-velnix.pages.dev
-sp11ct-sarnix-biz8-kelmor-travik.pages.dev
-sp11ct-selvik-biz8-tormex-janlor.pages.dev
-sp11ct-talvor-biz8-prenko-lisvek.pages.dev
-sp11ct-tolvik-biz8-zenfar-lorsik.pages.dev
-sp11ct-torlek-biz8-harsen-molvex.pages.dev
-sp11ct-torzan-biz8-felkor-drunel.pages.dev
-sp11ct-tresor-biz8-pranik-zemlok.pages.dev
-sp11ct-vadnor-biz8-prenik-folzar.pages.dev
-sp11ct-varex-biz8-luntra-meskor.pages.dev
-sp11ct-varsik-biz8-melzor-tranek.pages.dev
-sp11ct-vasrel-biz8-cormix-jalven.pages.dev
-sp11ct-velmik-biz8-larnex-povrik.pages.dev
-sp11ct-velnor-biz8-prasik-lomzer.pages.dev
-sp11ct-velsok-biz8-karsen-promel.pages.dev
-sp11ct-vexlan-biz8-polmer-drunix.pages.dev
-sp11ct-vordek-biz8-lamsor-prenik.pages.dev
-sp11ct-vorsel-biz8-marnik-dolfar.pages.dev
-sp11ct-vorsik-biz8-telnor-havrek.pages.dev
-sp11ct-zavdok-biz8-pralor-kesvik.pages.dev
-sp11ct-zavrik-biz8-pralsen-kordex.pages.dev
-sp11ct-zelkor-biz8-tanvik-horsel.pages.dev
-sp11ct-zenko-biz8-fralix-dorven.pages.dev
-sp11ct-zenril-biz8-dorvak-plenor.pages.dev
-sp11ct-zolvik-biz8-marnor-prasel.pages.dev
-sp11ct-zorven-biz8-fralto-menvik.pages.dev
-sp12ct-dolrek-biz-kemsar-zarnik.pages.dev
-sp12ct-fandor-biz-hesvik-kormel.pages.dev
-sp12ct-farnik-biz-lomrek-hovsar.pages.dev
-sp12ct-farnok-biz-heldik-prasor.pages.dev
-sp12ct-farsel-biz-kormik-holdar.pages.dev
-sp12ct-felsor-biz-kandik-zormak.pages.dev
-sp12ct-fesvik-biz-kramor-handel.pages.dev
-sp12ct-foldik-biz-kamsar-varnel.pages.dev
-sp12ct-foldor-biz-zarnik-mavsel.pages.dev
-sp12ct-folsar-biz-hemrik-pradok.pages.dev
-sp12ct-fondik-biz-hazrel-lorsar.pages.dev
-sp12ct-formek-biz-prandel-vesnik.pages.dev
-sp12ct-forsel-biz-varnik-keslok.pages.dev
-sp12ct-forsor-biz-kandel-vazmik.pages.dev
-sp12ct-framik-biz-zensor-kaldok.pages.dev
-sp12ct-fransik-biz-pravdok-kelmor.pages.dev
-sp12ct-frasel-biz-zondik-pravlor.pages.dev
-sp12ct-fravik-biz-holdor-prensak.pages.dev
-sp12ct-fravsel-biz-zandor-kemvik.pages.dev
-sp12ct-frelor-biz-zormik-kansel.pages.dev
-sp12ct-fremor-biz-prandik-kesrel.pages.dev
-sp12ct-hamrel-biz-fersan-voldik.pages.dev
-sp12ct-hamrel-biz-pronsik-keldor.pages.dev
-sp12ct-handor-biz-prasvik-frelok.pages.dev
-sp12ct-harsik-biz-voldek-pramel.pages.dev
-sp12ct-harsok-biz-veldik-pramor.pages.dev
-sp12ct-havdok-biz-prasor-zormik.pages.dev
-sp12ct-havmor-biz-pronsel-vardik.pages.dev
-sp12ct-havrok-biz-fersel-kamdik.pages.dev
-sp12ct-hazdok-biz-frandel-vormik.pages.dev
-sp12ct-hazsel-biz-prandor-velsik.pages.dev
-sp12ct-hersik-biz-pramel-vondor.pages.dev
-sp12ct-hesval-biz-prondik-zormek.pages.dev
-sp12ct-holrek-biz-pranik-keldar.pages.dev
-sp12ct-homvik-biz-zolrek-farsen.pages.dev
-sp12ct-hordik-biz-kamsel-frondor.pages.dev
-sp12ct-hormik-biz-zaldek-vansor.pages.dev
-sp12ct-kamdor-biz-fresik-harnel.pages.dev
-sp12ct-kamvik-biz-zornel-hesdor.pages.dev
-sp12ct-kandor-biz-fravmek-lorsik.pages.dev
-sp12ct-kandor-biz-zavsel-fromik.pages.dev
-sp12ct-kavmik-biz-zondor-lersak.pages.dev
-sp12ct-kavsor-biz-londik-pramel.pages.dev
-sp12ct-keldik-biz-zamrok-horsel.pages.dev
-sp12ct-kelsor-biz-zavmik-prondel.pages.dev
-sp12ct-kemlor-biz-frasor-zendik.pages.dev
-sp12ct-kendor-biz-frondik-zalvek.pages.dev
-sp12ct-kersan-biz-holdek-favrik.pages.dev
-sp12ct-kersel-biz-vondok-zarmik.pages.dev
-sp12ct-kersik-biz-fondar-lomvek.pages.dev
-sp12ct-kolvik-biz-harmok-fresan.pages.dev
-sp12ct-komrel-biz-zarsik-fendok.pages.dev
-sp12ct-kormek-biz-hansor-vardik.pages.dev
-sp12ct-kormor-biz-fravsel-hansik.pages.dev
-sp12ct-korvek-biz-lamsor-fresnik.pages.dev
-sp12ct-kramel-biz-fesnik-lovsar.pages.dev
-sp12ct-kramel-biz-fondor-lesvik.pages.dev
-sp12ct-kramok-biz-prensar-veldik.pages.dev
-sp12ct-lamvik-biz-korsel-hazdok.pages.dev
-sp12ct-landor-biz-kersel-fravik.pages.dev
-sp12ct-larsik-biz-kavmor-prondik.pages.dev
-sp12ct-lavdok-biz-kormel-fransik.pages.dev
-sp12ct-lavdor-biz-pravsel-hondik.pages.dev
-sp12ct-lavrek-biz-prandor-zelsok.pages.dev
-sp12ct-lavrik-biz-kersel-frondak.pages.dev
-sp12ct-lavsel-biz-hormek-frandik.pages.dev
-sp12ct-lendor-biz-karmik-pravsel.pages.dev
-sp12ct-lesdor-biz-pravnik-zomrek.pages.dev
-sp12ct-lomdor-biz-zarnik-pravsel.pages.dev
-sp12ct-londor-biz-hazrek-framel.pages.dev
-sp12ct-lordik-biz-prandel-hensor.pages.dev
-sp12ct-lormek-biz-zafrik-vensar.pages.dev
-sp12ct-lorsen-biz-fazvik-kremor.pages.dev
-sp12ct-lovmer-biz-zarnik-frosel.pages.dev
-sp12ct-morsel-biz-kavren-holdik.pages.dev
-sp12ct-pradel-biz-kesrik-lomsar.pages.dev
-sp12ct-pradok-biz-kersel-vansik.pages.dev
-sp12ct-pramel-biz-zovrik-lensar.pages.dev
-sp12ct-pramik-biz-zoldor-kersel.pages.dev
-sp12ct-prandik-biz-zorsel-kemdor.pages.dev
 sp12ct-pransor-biz-ladvik-kersel.pages.dev
 sp12ct-prasel-biz-zandik-kavdor.pages.dev
 sp12ct-prasik-biz-zemnor-lovdek.pages.dev
@@ -186,6 +54,7 @@ sp12ct-zersok-biz-polvik-famdor.pages.dev
 sp12ct-zolvik-biz-harsor-lendek.pages.dev
 sp12ct-zordel-biz-harmik-pravsel.pages.dev
 sp12ct-zorsel-biz-havrik-prondor.pages.dev
+sp19ct-zarel-biz-lunik-mota.pages.dev
 sp19ct7-dafem-biz-kurex-loris.pages.dev
 sp19ct7-doren-biz-lurek-savim.pages.dev
 sp19ct7-duref-biz-koren-lamis.pages.dev
@@ -230,11 +99,11 @@ sp1ct6-qolvrax-biz-slurnik-vromtek.pages.dev
 sp1ct6-slortek-biz-plovnix-fraplor.pages.dev
 sp1ct6-vraxtik-biz-slarnok-fronvex.pages.dev
 sp1ct6-vromtek-biz-slortik-plarnix.pages.dev
-sp20ct-forqel-biz-lansik-vormek.pages.dev
 sp20ct-sarnix-biz-kelqom-vorlek.pages.dev
 sp20ct10-mavtelo-biz-kunari.pages.dev
 sp21ct-pavok-biz-lumi-zera.pages.dev
 sp22ct-vemur-biz-kelu-pani.pages.dev
+sp24ct-kavi-biz-morak-tune.pages.dev
 sp25ct7-cervon-biz-kasri-polvek.pages.dev
 sp25ct7-dervax-biz-nolku-fresam.pages.dev
 sp25ct7-erlmok-biz-vemri-darsok.pages.dev
@@ -245,35 +114,27 @@ sp28ct-davel-biz-qurum-zirek.pages.dev
 sp28ct-forel-biz-muneq-zirek.pages.dev
 sp28ct-funav-biz-qorel-qatek.pages.dev
 sp28ct-jazem-biz-zunor-qalek.pages.dev
+sp28ct-qavok-biz-munel-zirek.pages.dev
 sp28ct-qovel-biz-zumav-ranek.pages.dev
-sp28ct5-femun-biz-zavri-kelro.pages.dev
-sp28ct5-lurvi-biz-felun-zemro.pages.dev
 sp28ct5-morvi-biz-zalek-funti.pages.dev
 sp28ct5-nolvi-biz-zemur-fakti.pages.dev
+sp28ct5-ravri-biz-kemak-zolun.pages.dev
 sp28ct5-zolun-biz-ferak-mavti.pages.dev
 sp29ct-belnok-biz-lensar-hortik.pages.dev
 sp29ct-fensor-biz-laqvik-hazqen.pages.dev
 sp29ct-kalvik-biz-femtor-hansel.pages.dev
 sp29ct-lavqen-biz-forsik-merkal.pages.dev
+sp29ct-pelun-biz-vakti-zemra.pages.dev
 sp29ct-zemik-biz-rulro-vakti.pages.dev
 sp29ct-zemur-biz-lakti-fervo.pages.dev
 sp30ct-qalik-biz-nurev-zomak.pages.dev
 sp30ct10-dorlevo-biz-zuneri.pages.dev
-sp30ct10-dorvilo-biz-zanati.pages.dev
 sp30ct10-kavlemi-biz-zurelo.pages.dev
 sp30ct10-melreko-biz-zureti.pages.dev
+sp30ct10-melrevo-biz-kunati.pages.dev
 sp30ct10-melvako-biz-zaneti.pages.dev
 sp30ct10-melvuni-biz-zunaro.pages.dev
-sp30ct10-melzako-biz-kurani.pages.dev
-sp30ct10-melzavo-biz-lunemi.pages.dev
-sp30ct10-nalvilo-biz-zurelo.pages.dev
 sp30ct10-norvako-biz-lumaro.pages.dev
-sp30ct10-ravleko-biz-zumaro.pages.dev
-sp30ct10-varkako-biz-kuremi.pages.dev
-sp30ct10-varkilo-biz-mureti.pages.dev
-sp30ct10-vemleko-biz-zureti.pages.dev
-sp30ct10-vemvilo-biz-zumati.pages.dev
-sp30ct10-zelvemi-biz-zunaro.pages.dev
 sp3223.weebly.com
 sp32ct-hervak-biz-lunzer-fasmi.pages.dev
 sp32ct-qarem-biz-vurel-zonik.pages.dev
@@ -342,7 +203,6 @@ spanuoirnrofv.com
 spanwavenet.com
 spanwosdajwpjedk.com
 spapasubla.cyou
-spapxjqk.lol
 sparcetsite.firebaseapp.com
 sparco-eu.shop
 sparcoaj.shop
@@ -352,7 +212,6 @@ sparehit.com
 sparelsik.net
 sparepartspl.com
 spares-repair.com
-spargdisch.cyou
 spariromai.cyou
 spark-build.com
 spark-curriculum.com
@@ -453,7 +312,6 @@ spate-rendthal.live
 spatekreditthal.de
 spaterendthal.de
 spaterendthal.live
-spatial-azure-t78ayoyo-dp5x4ei0q0hn.edgeone.dev
 spatrcandl.cyou
 spatrretea.cyou
 spaurcingo.cyou
@@ -493,7 +351,6 @@ special-offer-store.com
 special-on-pl.online
 special-on-pl.site
 special-on-pl.space
-specialforcerush.weebly.com
 specialfu.today
 specializedreport.pro
 specializeds.com.pl
@@ -544,7 +401,6 @@ spellstrav.cyou
 spemail5.online
 spencerkit.shop
 spenctossi.cyou
-spend-card-waitlist.top
 spendautob.cyou
 spenddober.online
 spendlovecrafts.com
@@ -1014,6 +870,7 @@ sprzedaz324.com
 sprzetoutdoorowy.shop
 sps-support.eu.cc
 spseplzen-cz.weebly.com
+spstest2-dpiltd94e0gg.edgeone.dev
 sptfiisteamworkspace.myclickfunnels.com
 sptr.eocampaign1.com
 spugnsmeri.cyou
@@ -1190,8 +1047,7 @@ sso---coinsquare-logi.typedream.app
 sso--atomic-wallet--en---ath.webflow.io
 sso--m-uphold--com-cdn--auth.webflow.io
 sso-auths-bitmart-sso.webflow.io
-sso-godaddy-cdrjieyhgaceuefjmsbjmtmw.pages.dev
-sso-godaddy-uyibfusfmnxsfyfythndpqhu.pages.dev
+sso-godaddy-tfrazonbjvhipfyyxprvxljm.pages.dev
 sso-i---trustcapital-com---help.webflow.io
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 sso-ndax-lginapp-cdn.webflow.io
@@ -1205,7 +1061,7 @@ sso-tangem.com
 sso-universite-paris-saclay.weebly.com
 sso-web-ledger-ledger-live-login.typedream.app
 sso.cuban.workers.dev
-sso.microsoft-onedrive.org
+sso.e.com.ph
 sso.otonnoto.n7pl.ink
 sso.pb3.duckdns.org
 sso1connect.info
@@ -1381,6 +1237,7 @@ staeblercarpentry.com
 staerkkapitalekt-da.com
 staest.xyz
 staffpregi.cyou
+stafwaskita-dpuvq9f6ostl.edgeone.dev
 stage.hoylldhd.bradesco.support.zaka25.duckdns.org
 stage3.wpengine-universalimaginginc.com
 stagecoacpphesyealing.info
@@ -1390,6 +1247,7 @@ stagfundgrove.com
 staggresup.autos
 stagiacnod.cyou
 staging-membersibew613.org
+staging.belamina.com
 staging.d1rgsiuntko2h.amplifyapp.com
 staging.dd4g038rgjzo9.amplifyapp.com
 stagirotol.rest
@@ -1560,7 +1418,6 @@ stampiljka.info
 stamps4collectors.link
 stampscollect.shop
 stampunfur.cyou
-stamsh.xyz
 stan-capi.icu
 stancdeaer.online
 stanchions.rent
@@ -1669,7 +1526,6 @@ starntrillion.darthyogurt.com
 staromagenta.yourlocalfinancialadvice.com
 staronvexatech.com
 starreal.digital
-starrealmfreezer-cn.pages.dev
 starrichnews.digital
 starry-discovery.com
 starryhaven.live
@@ -1765,7 +1621,6 @@ started-ledgg.wixstudio.com
 started-ledgreapps.wixstudio.com
 started-ledgrocom.wixstudio.com
 started-ledgrrcom.wixstudio.com
-started-ledgrsso.wixstudio.com
 started-live-eng.wixstudio.com
 started-live-ledger.wixstudio.com
 started-liveapp.wixstudio.com
@@ -2077,7 +1932,6 @@ status-pl-914028.eu.cc
 status-tarcza-poland.lovable.app
 status-zlecenia-4678.study
 status.gr1hao.qpon
-status.mo6enj.cfd
 status.sk4bum.casa
 status.st5nru.casa
 status.w6xiui.sbs
@@ -2197,6 +2051,7 @@ steamcommunity.click
 steamcommunity.ing
 steamcomrnuunity.com
 steamcomunnmity.com
+steamedbamboo.com
 steamncrystalline.ilscity.com
 steamonejapan.com
 steamroom.cholesteroldowndiet.com
@@ -2220,6 +2075,7 @@ steelwavenet.com
 steemcommunty.com
 steemplayer.com
 steenwinsthof.net
+steep-red-4bkrobzo-dp08fg2msn5y.edgeone.dev
 steeplechaseholdings.com
 stefanmve.com
 stefood.top
@@ -2457,6 +2313,7 @@ stib-mivb.com
 stickersapp.vercel.app
 sticksekermakinasi.com
 stickyychat.trekinvasion.com
+stiff-sapphire-8t5fxooa-dpykl9qme811.edgeone.dev
 stiflenfor.rest
 stiflstrug.autos
 stigahanco.store
@@ -2470,6 +2327,7 @@ stikes-mangtap.firebaseapp.com
 stikes-mangtap.web.app
 stilebenem.cyou
 stileconco.cyou
+still-amethyst-inqczzfv-dpwwnu3bhsrl.edgeone.dev
 still-bonus-f2eb.2415054122105.workers.dev
 still-meadow-5d62.othersmx.workers.dev
 stillelora.com
@@ -2924,6 +2782,7 @@ streamavonexpro.net
 streamchun.cyou
 streamcontrol.shop
 streamdexairark-es.live
+streamdexairark-shop.pages.dev
 streamdexairark.live
 streamdexairark.shop
 streamdexairarktrade.com
@@ -3027,13 +2886,13 @@ strigspost.cyou
 strikeforcelegal.net
 strikenaval.theqsolutions.com
 strikestyle.ethansrainbow.com
+striking-crimson-tzzqc3r1-dpwvqb5ze633.edgeone.dev
 strikingviking.com
 strilabs.site
 striluxon-ai-au.com
 striluxon-ai.live
 strimetra.site
 strinfotte.online
-string-whatsapp.com
 stringo.click
 stringo.mom
 stringrep.frieghbor.com
@@ -3249,7 +3108,6 @@ studyring.com
 stueamcommuunity.com
 stuelspect.cyou
 stuelstriv.store
-stuff-report.pages.dev
 stuhrling.mom
 stumetalwork.com
 stumpfministries.com
@@ -3458,6 +3316,7 @@ sudpoldom73.eu.cc
 sudqavo.shop
 sudrani.shop
 sudrex.weebly.com
+suebioo-dpscyueuztao.edgeone.dev
 suede-poncho-pl.shop
 suede-style.shop
 suedestudio.shop
@@ -3763,11 +3622,11 @@ sunlusale.it.com
 sunmeadow.eu
 sunmegun.digital
 sunmotorsadyar.com
+sunny-apricot-gufg15rw-dpk63fo93nin.edgeone.dev
 sunny-basbousa-49d540.netlify.app
-sunny-birch-4886-39126380.pages.dev
 sunny-circuit.com
+sunny-daisy-ea1c-49e16647.pages.dev
 sunny-pinnacle.com
-sunny-robin-443d-0b6a514c.pages.dev
 sunnygrovedi.info
 sunnyhollow.shop
 sunnyhomeserviceshk.com
@@ -3776,7 +3635,6 @@ sunnysoldesign.ae
 sunpasstollsbill.com
 sunpela.shop
 sunplux.com
-sunporno.cc
 sunquartzcraft.digital
 sunridge-bitrevia-solution.com
 sunridge-pyrvox.live
@@ -3863,6 +3721,7 @@ superhour.otherworldhouse.com
 superhubber-ai.com
 superimposereliefsindos.firebaseapp.com
 superimposereliefsindos.web.app
+superior-4zp.pages.dev
 superioru.com
 superiorwinona.com
 superlabs.digital
@@ -3916,7 +3775,6 @@ supersalewa.com
 supersecretbank.net
 supersegbrasil.com.br
 supersfftructure.info
-supersongverse.website
 superstarako.site
 superstarpartywagonsoftware.com
 superstarweedcutter.com
@@ -4032,7 +3890,6 @@ support-utilisateurs.com
 support-verify.netlify.app
 support-xlp.eu.cc
 support.google.com.search.er.in
-support.hockeycampsinternational.com
 support.newonlinebizng.info
 support.trustwallet.afmil.info
 support.updat-acces26.eu
@@ -4107,6 +3964,7 @@ surcoffrevance.pro
 surcostoma.cyou
 surcursalvirtualcolombia.vercel.app
 surdurulebilirlikhaberleri.com
+sure-chocolate-3i5ymrtf-dp7ylygjptev.edgeone.dev
 sure-operator-334462.framer.app
 sureaukapitivo.net
 surecklaw.com
@@ -4151,7 +4009,6 @@ surplusonline-pl.shop
 surplusonline.shop
 surplussale.shop
 surprisedlmega.sbs
-surprising-silver-1bufweh2-dp7auyr35xva.edgeone.dev
 surprizingtimiyyngs.info
 surproductionlift.firebaseapp.com
 surqqrealistic.info
@@ -4440,7 +4297,6 @@ swattmasto.cyou
 swaybprimi.cyou
 swedbanklv-update.firebaseapp.com
 swedbanklv-update.web.app
-swedishstatementaudio.com
 swediva.shop
 sweemhtcraft.shop
 sweenytxrvpark.com
@@ -4464,6 +4320,7 @@ swetlyapp.shop
 swetlyengine.click
 swettattoo.mom
 swfdhaka.org
+swflremoval.com
 swfzu.com
 swiat-krzesel.live
 swiat-sypialni.live
@@ -4504,18 +4361,20 @@ swift-bumper.com
 swift-comprehend.com
 swift-cove.com
 swift-crank.com
+swift-dawn-052e-d1032926.pages.dev
 swift-earnings.com
 swift-fresh.com
-swift-harbor-4865-2096511e.pages.dev
-swift-harbor-a81d-2ef77877.pages.dev
 swift-hiring-025569.framer.app
 swift-mindset.com
 swift-mop.com
 swift-nail.com
+swift-pine-f923-e6267485.pages.dev
 swift-pomegranate-861317.framer.app
 swift-tracking-hop.lovable.app
+swift-valley-3fe4-1823f665.pages.dev
 swift-ventaris-platform.com
 swift-ventaris.pro
+swift-wren-b45c-c8e53ee5.pages.dev
 swift.link-swift.shop
 swiftalora.shop
 swiftbit-invexorapp.com
@@ -4665,11 +4524,11 @@ sxdtl.com
 sxetv.com
 sxfnw.com
 sxfyj.com
-sxg0530sx9.cc
-sxg0532bnl.cc
+sxg0529j7y.cc
+sxg0533jzk.cc
 sxg053598p.cc
-sxg0541clb.cc
-sxg0555itb.cc
+sxg05360nj.cc
+sxg0537lyb.cc
 sxgahmjk.yottnats.cn
 sxhrsj.com
 sxhss.com
@@ -4683,6 +4542,7 @@ sxmxn.com
 sxryfb.com
 sxryt.com
 sxsbt.com
+sxsdd.uej73ye.cyou
 sxshmjc.com
 sxsto.com
 sxtez.com
@@ -4809,7 +4669,6 @@ syncflowunit.com
 synchcrema.store
 synchrotone.com
 syncpulseunit.site
-syncpush-whatsapp.com
 syndime.com
 syndrome-x.com
 synebuzz.site
@@ -4819,7 +4678,6 @@ synenet.site
 syneoshealthlondon.co.uk.admin-mcas.ms
 syneragrisystem.firebaseapp.com
 syneragrisystem.web.app
-synercloudnetworks.fr
 synergiecapital-it.com
 synergiecapital.pro
 synergiecapitaltrade.com
@@ -4893,6 +4751,7 @@ synthaloraai.pro
 synthaloraapp.com
 synthaloraitalia.com
 synthaloraki-bot.live
+synthcloud.myshopify.com
 synthcore.work
 synthdrapp.rest
 synthemmsists.info
@@ -5006,7 +4865,6 @@ systemsrace.nauzsagalore.com
 systemsystemsalert.com
 systemtechnlque.com
 systemvalenciaprufen.digital
-syt82-fc16-dlgw-u65lq-aq50a.pages.dev
 syutsioucfminn.com
 syvirelonujas.info
 syvlyn.info
@@ -5025,7 +4883,6 @@ sz-zab.com
 sz2365.com
 sz5m.r9ucep.top
 szada.mom
-szal-onn7h-yph-qfca4w-ic3qx.pages.dev
 szavprofitnk.live
 szbaihenghui.com
 szcbw.com
@@ -5123,7 +4980,6 @@ szymonbrukwicki.mom
 szzgzz.com
 t-bp-ceo.novopayment.net
 t-ch-kanqiu.com
-t-dpcdl53pm0q9.edgeone.dev
 t-invest.live
 t-mobil-28c13.firebaseapp.com
 t-mobil-28c13.web.app
@@ -5286,6 +5142,7 @@ tableware-topsale.shop
 tableza.shop
 tablica-punkt.lovable.app
 tabliincis.cyou
+tabmybio.com
 tabo-60ba8.firebaseapp.com
 tabo-60ba8.web.app
 taborjihad.com
@@ -5308,6 +5165,7 @@ tachigear.site
 tachmint.click
 tachrun.site
 tachunitga.site
+tachyonsound.com
 tachzeware.site
 tacitrrlybalkanization.info
 tackbridge.com
@@ -5394,7 +5252,6 @@ takasi4d-15.site
 takaventix-fr.live
 takaventix.live
 takawentikssystem.digital
-takeacrawl.com
 takeataxi.com
 takedan.live
 takehomeonline.com
@@ -5408,7 +5265,6 @@ takievreni.com
 takiliyo.com
 takitrendi.com
 takivis.com
-takkanadatregdf.builtwithgaes.workers.dev
 takmeralin.com
 takomiu.pro
 takroscoto.cyou
@@ -5461,7 +5317,6 @@ talktalkghfd.weebly.com
 talktalkkkerr.weebly.com
 talktalknetwor.weebly.com
 talktalknotificationupdate1.weebly.com
-talktalksupp0rt.weebly.com
 talktalkupdaterequired.framer.ai
 talktalkwebmail1.wixsite.com
 talktimecenters.com
@@ -5587,6 +5442,7 @@ tamsanservis.com
 tamuvacationclub.com
 tamworthcorner.eu
 tanagsmors.store
+tanasm.shop
 tanavabitsolution.com
 tanayieldspire-shop.pages.dev
 tanayieldspire.digital
@@ -5603,7 +5459,6 @@ taneoncell.site
 tanerio.shop
 tanevexqua.eu
 tangam-page.wixstudio.com
-tangarina.com
 tangeloresidency.co.ke
 tangen-walts.wixstudio.com
 tangerinedrea.interportcorporateacademy.com
@@ -5685,7 +5540,6 @@ taqcbx.com
 taqibraz.blogspot.com
 taqidaexu.autos
 tara-facebook.blogspot.com
-tara-n.blog
 tarafsec.com
 tarafsizbolge.com
 taraftar46.com
@@ -5778,7 +5632,6 @@ tarrowmintprime.net
 tarrtngmbnngggh.site
 tarsushurda.com
 tarsusotokiralama.net
-tart-brown-xgb68704-dprl2vrf4cwp.edgeone.dev
 tartabombe.cyou
 tartecosmetis.shop
 tartine.domici948239.pro
@@ -5830,8 +5683,10 @@ tasteofhomebbq.com
 tastevi.pics
 tastexy.com
 tasty-apricot-960184.framer.app
+tasty-bronze-cpmsovss-dptnmrx6t2c5.edgeone.dev
 tastykoxem.cyou
 tasutakoks.cyou
+tatacredit.co.ke
 tatamizen.shop
 tatbattery.com
 tatilikesfet.com
@@ -5879,7 +5734,6 @@ taurendiheim-de.live
 taurendiheim-digital.pages.dev
 taurendiheim.digital
 taurendiheim.live
-tauseefparwaz.blogspot.com
 tausiapp.co.ke
 tautaphoto.live
 tautoinasi.autos
@@ -5965,7 +5819,6 @@ tbaytlmainserver.weebly.com
 tbbarmacadam.info
 tbcai.shop
 tbcbankai.net
-tbconsultancyservices.pages.dev
 tbm.z7dtfu.sbs
 tbmwa.org
 tbndep.click
@@ -6026,6 +5879,7 @@ tdzer.com
 te-lovendo.com
 te1sewebmails45-signon.web.app
 tea-carrier.com
+tea-lab-portal.pages.dev
 teach-started.zapier.app
 teach-trazzr.zapier.app
 teachbusy.sikthought.com
@@ -6083,7 +5937,6 @@ teaqzpmxra.click
 teaqzpmxra.cloud
 teaqzpmxra.top
 tearn-bridge.wixstudio.com
-teatedreagguthorizing.info
 teatre-billets-my.com
 teatrove.shop
 teazedichi.cyou
@@ -6560,6 +6413,7 @@ teleardent.shop
 telearedxx.club
 telearkxxo.shop
 telearqier.help
+telearwate.help
 teleaterxs.click
 teleaterxs.cyou
 teleatexso.shop
@@ -6697,6 +6551,7 @@ telegram-ai.click
 telegram-ca.pages.dev
 telegram-finance-ai.com
 telegram.land
+telegramccy.com
 telegramcnweb.com
 telegramllinkler.com
 telegrammac.com
@@ -6944,7 +6799,11 @@ telerevnsg.help
 telerevnsg.icu
 telerevnsg.shop
 telerivepr.icu
-telerlastx.help
+telerlastx.click
+telerlastx.icu
+telerlastx.luxe
+telerlastx.shop
+telerlastx.yoga
 telernxove.help
 telerooinv.click
 teleroomid.club
@@ -7018,6 +6877,12 @@ telesuprem.click
 telesuprem.help
 telesuprem.icu
 telesverif.shop
+telesxxeno.beer
+telesxxeno.bond
+telesxxeno.click
+telesxxeno.luxe
+telesxxeno.shop
+telesxxeno.yoga
 telesyield.click
 telesyield.club
 telesyielt.club
@@ -7164,6 +7029,9 @@ telexsmock.club
 telexsmxto.cyou
 telexsslog.beer
 telexsslog.luxe
+telexsxeve.beer
+telexsxeve.click
+telexsxeve.cyou
 telextxsre.click
 telextxsre.cyou
 telexxenia.yoga
@@ -7307,6 +7175,7 @@ temizmama.online
 temizmama.shop
 temodigo24.online
 temp-owkexuorwkyoibanumaq.webadorsite.com
+tempaccountbalance.org
 tempalogicapov.info
 templanzares.net
 templanzares.sbs
@@ -7419,7 +7288,6 @@ tepgjta.help
 tepgjta.shop
 tepgjta.work
 teplover.info
-teplykstudio.com
 tepqlxvnra.help
 tepqmxznla.icu
 tepqmxznla.luxe
@@ -7879,7 +7747,6 @@ terezwqntk.wiki
 terezwqntk.work
 terezwwxtd.work
 terimabelisemuaac.com
-teripagelicsw.com
 teripokax.eu.cc
 terkun.shop
 terlalu377.bubbleapps.io
@@ -7962,7 +7829,6 @@ tervak.shop
 tervakern.de
 tervaldprime.com
 tervane.online
-tervani-kxt-belmora-r2t6hq84.pages.dev
 tervanlogik.de
 tervanlux.com
 tervanoek.com
@@ -7998,7 +7864,7 @@ tesaupendo.cyou
 tescalumni.com
 tesilingbigu.weebly.com
 tesla-ai.click
-tesla-superos.pages.dev
+tesla-efo-dpxzuj15t20v.edgeone.dev
 teslaassembly.org
 teslacoin.software
 teslamower.com
@@ -8057,6 +7923,7 @@ test.webclient4.de
 test2258-f1945.firebaseapp.com
 test2258-f1945.web.app
 testacity.mom
+testadventure-dpe2c099j04q.edgeone.dev
 testasbucc.cyou
 testascarn.cyou
 testbuilderpro.com
@@ -8075,7 +7942,6 @@ testrez19283.best
 testrez19284.best
 testrez19285.best
 testroa.oneactfood.com
-testscanada.com
 testusemis.cyou
 testy.madasweet.pl
 tesvest.com
@@ -9022,7 +8888,6 @@ texisfinanza-fr.live
 texisfinanza.live
 texisfinanzatrade.com
 texplvqnrd.help
-text-my-wedding-2.pages.dev
 text-tee.weebly.com
 textbridge.icu
 textcrat.com
@@ -9046,7 +8911,6 @@ teyxqlvnpa.help
 teyxqplznj.click
 teyxqplznj.help
 teyxqplznj.shop
-tezand.com
 tezaqsha.com
 tezauryxtrade.com
 tezerdeskai.net
@@ -9338,7 +9202,6 @@ theamazon.vercel.app
 theamberpath.shop
 theancientrockchapel.org
 theanswerspeople.com
-theapothecarysapprentice.com
 theapparelavenue.shop
 thearisen.org
 theartechflows.com
@@ -9761,6 +9624,7 @@ themytrixhalo-gpt.org
 themytrixhalogpt.com
 themytrixhalogpt.org
 themytrixhaloo-gpt.com
+then-orange-zg2pyz93-dpc53ag8wrln.edgeone.dev
 thenanushkaheel.shop
 thenashvillehomehub.com
 theneoprofit.com
@@ -9813,6 +9677,7 @@ theolrenot.online
 theonepeptides.com
 theopclupe.store
 theoptimisticbeauty.com
+theoretical-teal-wlv4fhgh-dplhxh4h4sxm.edgeone.dev
 theoreticeepreclear.info
 theorplunge.petconnectnetwork.com
 theoutsolelug.shop
@@ -10166,8 +10031,6 @@ thezyvrontracegpt.com
 thezyvrontracegpt.org
 thfra137.com
 thiagoh723-blip.github.io
-thick-amethyst-gjhqtjou-dpcwtwrqurxj.edgeone.dev
-thick-coffee-cqpb5tmv-dpmgzgjylm9g.edgeone.dev
 thickint.forum
 thicknearer.origlnaldiplomas.com
 thickparakeet.autos
@@ -10204,6 +10067,7 @@ thiraselikezlot24.cyou
 thirddaytechnology.com
 thirdeyesuccesscircle.com
 thirdmaxi.pics
+thirsty-blue-6ajwqumg-dpwri4ax6co4.edgeone.dev
 thisborder.baby
 thiscatdoesntexist.com
 thisguy88.square.site
@@ -10285,6 +10149,7 @@ thosrhksi-q.firebaseapp.com
 thosrhksi-q.web.app
 thoughtandstyle.com
 thoughtful-beginning-333779.framer.app
+thoughtful-green-axsx6rd9-dpe09ljlo2h3.edgeone.dev
 thoughtfuldormouse.autos
 thousandsop.explainingart.com
 thousandwho.click
@@ -10352,6 +10217,7 @@ thundergrovehall.digital
 thunderpost-seek.com
 thundexxrycavities.info
 thunsale.sbs
+thuotuw.pro
 thurgevoalmyzen.com
 thwackle-starn.shop
 thwackman.info
@@ -10618,7 +10484,6 @@ tinwl.com
 tiny-ova.shop
 tiny-sprout.shop
 tiny-subtasks-309073.framer.app
-tiny-white-z75rgwxk-dpbdj7wf934u.edgeone.dev
 tiny.serv457771.pro
 tiny1.org
 tinyoffe.lat
@@ -10646,6 +10511,7 @@ tir8ri.top
 tiran-ga.co
 tiranperfo.store
 tiratburne.cyou
+tired-sapphire-rdbye37e-dpah87gzokh1.edgeone.dev
 tirescentn.cyou
 tirevo.shop
 tirinn.com
@@ -11102,6 +10968,7 @@ tonetsuper.cyou
 tongucoksal.com
 tonguesoutmedia.com
 tongxinfs.com
+toniandguytrichy.com
 tonies.live
 toniesweb.com
 tonifricic.online
@@ -11150,6 +11017,7 @@ toolpio.com
 toolplsa.club
 toolpols.com
 toolrivo.shop
+tools-2ab.pages.dev
 toolsale-eu.shop
 toolshedshop.top
 toolshopclearance-eu.shop
@@ -11162,7 +11030,6 @@ toolsupermarket.store
 toothfairycard.info
 toothsomeeely.info
 tootoomoo.live
-tooweeks.blogspot.com
 top-kosi.com
 top-maxis.web.id
 top-permission-039904.framer.app
@@ -11225,6 +11092,7 @@ topnews46.shop
 topnotchaustralia.com
 topnovatech.net
 topoferty.shop
+topofferreview.com
 topogsolfo.cyou
 topola-zyskienta.com
 topola-zyskienta.online
@@ -11332,6 +11200,7 @@ tornetsari.cyou
 tornitruci.cyou
 tornovoz.eu
 tornvek.shop
+toro11111.com
 torosdegertay.net
 torospnnarges.info
 torosshanotel.com
@@ -11393,7 +11262,6 @@ torvoaccam.cyou
 torvoimeka.info
 torxavi.shop
 torxino.shop
-tory-bronze-yb9ii8ps-dppiyskhc9xb.edgeone.dev
 torzavo.shop
 torzelo.shop
 toscharex.net
@@ -11946,7 +11814,6 @@ tradvioapp.com
 tradvioapp.live
 tradyon.net
 tradz.net
-traenexcorp.org
 traeume-ziele-wirklichkeit.online
 traffic-signal-manufacturers.com
 trafficflowtm.com
@@ -12079,7 +11946,6 @@ transcriptweaver-rnaforger.blogspot.gr
 transdepre.cyou
 transdipno.online
 transeuroarts.com
-transfer-bep-20.netlify.app
 transferistanbulairports.com
 transfersit.vimcelebrating.com
 transffhipmentgair.info
@@ -12200,7 +12066,6 @@ travenolia365.com
 traveqinorux.pro
 traversqqing.info
 traveunwhi.cyou
-travik-mornel-c80fa2-nyhh-t2406acg.pages.dev
 traviona.info
 travixa-gld-zarquni-r6m7hp15.pages.dev
 travnek.click
@@ -12277,7 +12142,6 @@ trefinityfinlore.net
 trefonange-ai.net
 trefonange.com
 tregerseyushdwiryiw.site
-trehohk.com
 treiber-aktualisieren.com
 treidenixplatform.com
 trejoinversanto.com
@@ -12583,7 +12447,6 @@ trezoi.wixstudio.com
 trezoiosstart.wixstudio.com
 trezoiostartt.wixstudio.com
 trezon-io-startapps.wixstudio.com
-trezor-account-facebooks.ph
 trezor-bridge-cdn.vercel.app
 trezor-bridge-guide.zapier.app
 trezor-bridge-io-doc.framer.ai
@@ -12595,8 +12458,6 @@ trezor-fundatek.com
 trezor-hardware-login.square.site
 trezor-login-guide.square.site
 trezor-login-us-auth-start.typedream.app
-trezor-logincheckph.ph
-trezor-loginphaccessph.ph
 trezor-suite-start.zapier.app
 trezor-suite-us.com
 trezor-suittee.wixstudio.com
@@ -12615,7 +12476,6 @@ trezorfundatek-pl.live
 trezorfundatek.net
 trezorguide.vercel.app
 trezorhelprepair.com
-trezoriostart-apps.square.site
 trezoriostrt-hub-en.dream.space
 trezorious.framer.ai
 trezorr-suites.wixstudio.com
@@ -12728,7 +12588,6 @@ trimoritap.store
 trimsbarbershopwexford.com
 trimtamer.com
 trinahomelive.com
-trindexer.net
 trineganderup.shop
 trinetrayogashala.com
 trinidadjouvert.com
@@ -12901,7 +12760,6 @@ troqcartt.com
 trostwalletext.wixstudio.com
 trotisepti.autos
 trotitocch.cyou
-troubled-blue-3prk26m9-dpkvzy8myolp.edgeone.dev
 troubleshoot-ad-account-issues.edgeone.dev
 troubleshoot-copyright-policy-violations.edgeone.dev
 troublesromeeaines.info
@@ -12997,6 +12855,7 @@ trueworthimery.net
 truexxnqeflq3-a6a0ewdpg9gfguad.z03.azurefd.net
 trufmek.shop
 trufobarga.cyou
+truftruf.download
 truggvermohavn.net
 truhnm.info
 truliesboutique.com
@@ -13262,7 +13121,6 @@ tsugglugernetz.net
 tsukemon.info
 tsukidi-global.com
 tsukuba-iinonouen.com
-tsunagari-techo1to1.net
 tsunaminutrition.itsale.vip
 tsuruya-all.co.jp
 tsusoflm.shop
@@ -13327,6 +13185,7 @@ tucsonhomelease.com
 tudal-legrand.com
 tudor.ind.br
 tudqarek.shop
+tudtveu.org
 tuempresasmarketing.cc
 tueragiolene.xyz
 tueviengroup.com
@@ -13498,7 +13357,6 @@ turismoitacare.com
 turismomontalegre.pandodasilva.pt
 turistear.online
 turkbayragifiyati.com
-turkcell-scotiabank.com.ph
 turkeyaiporttransfer.com
 turkeycalender.com
 turkflir.com
@@ -13609,6 +13467,7 @@ tuzupya.pro
 tv-show-tracker-81e25.firebaseapp.com
 tv-show-tracker-81e25.web.app
 tv-store.net
+tv.mutant.workers.dev
 tv555.top
 tvari.ventascamporeal.com
 tvbqojt.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
@@ -13637,7 +13496,6 @@ tw-ddf.cyou
 tw-lks.cyou
 tw-nkd.cyou
 tw0jkurierc.cam
-tw6uqv.xyz
 twabwdux.shop
 twainscobbmmoves.info
 twangritin.cyou
@@ -13712,7 +13570,6 @@ twochmay.com
 twocraneszion.com
 twodou.notrented.com
 twofoldfashion.com
-twoinmdb.sbs
 twoj-dostawa.space
 twoja-dostaw.space
 twoja-dostawa.lat
@@ -13765,12 +13622,6 @@ tx.zdtyu.cam
 txcountrytoday.com
 txd.36a.mytemp.website
 txdhw.com
-txg1091vvh.cc
-txg1112iu9.cc
-txg1121syq.cc
-txg117841h.cc
-txg1198a72.cc
-txg1199ifg.cc
 txhgxqic.shop
 txijmwi5ogd2-pages-dev.translate.goog
 txj.godlopolski.com
@@ -13780,7 +13631,6 @@ txlpsx.element72.buzz
 txlzj.com
 txmtml.com
 txnodemicermode.pages.dev
-txpoolheaterpros.pages.dev
 txqz.fo5vzx.sbs
 txrelay.org
 txt2.tunemasti.xyz
@@ -13844,6 +13694,7 @@ typespecificecdis.info
 typfl.com
 typhlitjjises.info
 typhoongroup.org
+typical-gold-hqzei56e-dpesfzhsrorg.edgeone.dev
 typogarynio.com
 tyqen.shop
 tyra-ekove.com
@@ -13960,6 +13811,7 @@ uajsbeioyfvb.eu.cc
 uakisfosfiosfisfowjir.site
 uakwpwqcuwndz.firebaseapp.com
 uakwpwqcuwndz.web.app
+uala.bancadigital.com.mx
 uanl-mx.weebly.com
 uaoli.github.io
 uappsupldcdn.wixstudio.com
@@ -14097,7 +13949,6 @@ ufyxubrn.shop
 ufzsz.com
 ugaalpes.weebly.com
 ugahabe.net
-uganda-credit-transformation.launchpad.m-kopa.us
 ugarielzanoc.xyz
 ugby1uh.eu.cc
 ugcbul.com
@@ -14119,6 +13970,7 @@ ugrhavuz.com
 ugulehly.com
 ugurbocegitasarim.com
 ugytxzel.shop
+uh8cu.pics
 uhaul-pos.net
 uhbdchia.shop
 uhbgyk.fit
@@ -14132,7 +13984,6 @@ uhuiidv.lol
 uhujiokokj.site
 uhvauldrip.site
 ui-wire.net
-ui546-clryb-u4rvea-q9x40.pages.dev
 uiadoisdofsiaoidsa.site
 uiam.uk
 uiarejusidosd.site
@@ -14623,8 +14474,6 @@ ultimahoraty.info
 ultimate-fund-1000.com
 ultimate-fund-arena.live
 ultimate-fund1000.com
-ultimate-harlequin-xroluwar-dpspae0i2dsj.edgeone.dev
-ultimate-lavender-ejyjysaq-dphd4cugcooc.edgeone.dev
 ultimatefundarena-tech-com.pages.dev
 ultimatefundarena-tech.com
 ultimatefundarenapro.com
@@ -14732,6 +14581,7 @@ umbdirect.co.com
 umbenchmarking.com
 umberlane.eu
 umbrafurniture.com
+umbraliso28.pro
 umbraqelvostrimek.net
 umbredisco.cyou
 umbrellacorporation.id
@@ -14776,6 +14626,7 @@ umstambas.cyou
 umyq86.analyseit.pl
 un5119-qjib-cckkfx-96jbgr.pages.dev
 unabbptnesses.info
+unable-coffee-mn5k3cvd-dpmcd0uadwrh.edgeone.dev
 unacheduu.weebly.com
 unacorabba.store
 unadjppusted.info
@@ -14868,6 +14719,7 @@ underish.quest
 underkiwi.vip
 underleycorner.eu
 underlfile.info
+underlying-ivory-povgswjv-dpddkw5ki95g.edgeone.dev
 undermirth.com
 undermossy.com
 underparti.cyou
@@ -14906,7 +14758,6 @@ unesttour.org
 unexcsfian.cyou
 unexpeuuctednesses.info
 unexpuryygated.info
-unfair-emerald-75wou5je-dpmmud4id6d3.edgeone.dev
 unfaitrame.cyou
 unfitcommi.cyou
 unfitnick.com
@@ -14940,7 +14791,6 @@ uni-pg.web.app
 uni-tech.online
 uniabjpoliticalsciencejournals.com.ng
 uniaen-fr.weebly.com
-unibellaperu.com
 unicojponline.shop
 unicorn.creditfacts.info
 unicornxx.work
@@ -15071,7 +14921,6 @@ univ-ident.weebly.com
 univ-reimsfr.weebly.com
 univcasstetienne.weebly.com
 univermilenium.net
-universal-coral-jwl6vewk-dpk1sg9ga7x3.edgeone.dev
 universalesdeskandia.live
 universalesdeskandia.pro
 universalgame.space
@@ -15090,7 +14939,6 @@ uniworldportal.net
 unizay.com
 unjeabiacu.cyou
 unknispian.store
-unknown-tomato-utdbf8nv-dpj7641o4kwf.edgeone.dev
 unlambangk.cyou
 unleasheddigitalimpact.com
 unlessweb.com
@@ -15218,6 +15066,7 @@ unusa.id
 unusers.com
 unusual-alpaca-535612.framer.app
 unusual-meeting-502376.framer.app
+unusual-silver-ktbx3ktw-dppn0acx04ql.edgeone.dev
 unusualicon.habslab.com
 unvacgallo.cyou
 unvailabia.cyou
@@ -15538,7 +15387,6 @@ urielray.com
 urietpdkdeoietopwrfop.site
 urionexspark.site
 uriqa.com
-uritbra.blog
 uriwarikagu.com
 urixen-ai.com
 urixen.click
@@ -15585,6 +15433,7 @@ urodaexpertmax.info
 urodaikoszyk.top
 urodapaznokci.sbs
 urofertil.com
+uroganic.bg
 uroganic.myshopify.com
 urogrdiram.cyou
 urok-zolmir-software.com
@@ -15727,7 +15576,6 @@ usdreaq.lovable.app
 usdt-bep20-check.vercel.app
 usdt-gateway-vip.netlify.app
 usdt-trustwallet-blockchain.vercel.app
-useaither.com
 usebiolink.com
 useblog.com
 used-minnesota-classifieds.com
@@ -15735,6 +15583,7 @@ usedbuttrue.shop
 usedtiresking.com
 useful-bridge.wixstudio.com
 useksteady.click
+useless-black-vqp18j99-dprufxdo1l7e.edgeone.dev
 uselivewallet.wixstudio.com
 usen-startior.wixstudio.com
 usepastel.life
@@ -15760,6 +15609,7 @@ users-live-download.wixstudio.com
 usersuite.wixstudio.com
 uservicepro.com
 usesofcbd.com
+usevo.pages.dev
 ushankahat.com
 ushemployeetix.pages.dev
 ushiejohn29-boop.github.io
@@ -15856,7 +15706,6 @@ utahmetalworks.net
 utarequestcancellationform.weebly.com
 ute.investporfolio.com
 utemisar.com
-utenti.causeexchangething.org
 uterbao.com
 uteute.store
 utfoodbuyersguide.com
@@ -15898,6 +15747,7 @@ uu4xrk.infrasmart.it
 uuaaz.com
 uudiscoundio.com
 uufxablr.shop
+uuidgen-soft-dpdamkyqjclr.edgeone.dev
 uuil3o.yl029.com
 uum-edumy.weebly.com
 uurl.at
@@ -16296,7 +16146,6 @@ valentrixa.digital
 valentrixa.net
 valentsteadex.live
 valepontos.site
-valeraasset.cc
 valerehub.com
 valeriasantoni.live
 valeridgetalnix.com
@@ -16425,6 +16274,7 @@ valoriacapital-fr.com
 valoriacapital.shop
 valoriai.digital
 valoridefstrade.de
+valorisdeposits.com
 valorissync940.com
 valoriumdexeris.org
 valorivex-ai.sbs
@@ -16629,6 +16479,7 @@ vantorelia.com
 vantoroox.net
 vantrelo.online
 vanttrace80.site
+vantyres.net
 vanward-zz.com
 vaorbimint.site
 vapedragonsquad.co.za
@@ -16915,6 +16766,7 @@ vdatvsa.com
 vdbjpmeaqqjzpwxfflbjfmeykyxvcfgmhjbad.blogspot.com
 vdclient.insofar.com
 vdcreations.info
+vdfrpfh.org
 vdhcfg545cvcdfd.weebly.com
 vdhd.fr
 vdhedheb-etws.vercel.app
@@ -17560,6 +17412,7 @@ veravexnilo.live
 veravexnilo.net
 veraxvault.com
 verbadisto.cyou
+verbal-brown-4mwye1l0-dp20bs8f93cy.edgeone.dev
 verbalsim.com
 verbasorna.cyou
 verbeia.blog
@@ -17738,9 +17591,8 @@ verify-that-you-are-human.firebaseapp.com
 verify-that-you-are-human.web.app
 verify-zimbra.weebly.com
 verify.account-check.icu
-verify.daw.afi-cloud.de
 verify.form2251.rest
-verify.psb.afi-cloud.de
+verify.juvyron.com
 verify133.my.id
 verify2026zimbra.weebly.com
 verify8136.life
@@ -17933,6 +17785,7 @@ vertionautomation.com
 vertisystem.info
 vertliware.site
 vertmetra.online
+verto-academy.com
 vertobitrow.click
 vertragsbesttigung.de
 vertron-ai.pro
@@ -17956,7 +17809,7 @@ veryfying-54854.co
 verzafiro.com
 verzoori.com
 verzuverge.cyou
-veselepodlahy.cz
+vescera-energie.fr
 vesewae.pro
 vesicrepen.autos
 veskorra.online
@@ -17990,7 +17843,6 @@ vetcddhlings.info
 vetchnasco.cyou
 vetcompare.com
 vetectvh.shop
-vetelite.pages.dev
 veteransmusicministry.com
 veterinerkardiyoloji.xyz
 veterpucke.cyou
@@ -18236,7 +18088,6 @@ videolift.com
 videopius.bolt.host
 videosfloor.tirtawr.com
 videotakerrenew.com
-videotron819.weebly.com
 videotroneyebvruehbf.weebly.com
 videotronxwvtron.weebly.com
 videotroy.weebly.com
@@ -18302,7 +18153,6 @@ vigierendoire.com
 vigilance89.github.io
 vigilcapitdivo.click
 vigilvibro.store
-vigivo.app
 vignerentoire.net
 vigor-fintrion-pro.com
 vigorbitnovatrade.com
@@ -18316,7 +18166,7 @@ vigorousm.pics
 vigtec.io
 viibsk.top
 viidle.net
-viiziovoicita.online
+vikaskhurendra.com
 vikenhome.com
 vikennorr-chain360app.com
 vikings.royaleliteclub.info
@@ -18847,6 +18697,7 @@ vinted.compr-es-processing.cyou
 vinted.confirmation-order9158629.cyou
 vinted.confsalerecibo.sbs
 vinted.cu4yev.lol
+vinted.czbrgcjx.com
 vinted.dashlnk.store
 vinted.datenuberprufung24515132421.com
 vinted.deal-status.com
@@ -19334,6 +19185,7 @@ vinted.order52168-records.com
 vinted.order8178.me
 vinted.order87612.com
 vinted.orderoto.net
+vinted.orders-processing.com
 vinted.orderverification-68449.help
 vinted.ordine-120183.com
 vinted.ordr181234.help
@@ -20344,7 +20196,6 @@ virastribu.cyou
 virasuite.site
 viratsteel.com
 vircarts.com
-vire-dialloabdourahamane-dpbu8l17vksg.edgeone.dev
 vire-elvonfull-system.com
 vireelvon-system.com
 vireelvontrade.com
@@ -20390,7 +20241,6 @@ virginai.click
 virginai.live
 virginhaven.click
 virginiaeyeinstitute.net
-virocore-vsl.pages.dev
 virodir.de
 viroldialo.cyou
 virolherri.cyou
@@ -20430,6 +20280,7 @@ visaciro.gu.cc
 visacsi.cc
 visad-cr.eu.cc
 visanet-do.com
+visapilotusa.com
 visaprocessings.com
 visastousa.com
 visaxzvn.shop
@@ -20492,7 +20343,6 @@ visionluxovelplatform.com
 visionluxoveltrade.com
 visionmundotech.com
 visionneo.top
-visionprecisiontools.com
 visionpredova.live
 visionpredova.net
 visionprevoir-fr.live
@@ -20510,15 +20360,12 @@ visit-rabbyy.wixstudio.com
 visit-suite.wixstudio.com
 visit-trezio.wixstudio.com
 visit.fd2gxl.top
-visit.mo6enj.cfd
 visit.sk4bum.casa
 visit.st5nru.casa
 visit.t4erna.sbs
 visitafar.org
 visitanonline8.it.com
 visitguests-housestay3729.com
-visiting-amethyst-2pwuuzdp-dpptw0k73vwp.edgeone.dev
-visiting-turquoise-sgjj6dri-dpn6sxxh9bou.edgeone.dev
 visitlamu.co
 visitnwark.com
 visitor-contact.com
@@ -20620,7 +20467,6 @@ vitranexima.live
 vitranexima.net
 vitranexima.shop
 vitraneximaai.com
-vitrineportomaravilha.site
 vitrisbron.online
 vittiqueen.autos
 vittoriagrowth-shop.pages.dev
@@ -20926,6 +20772,7 @@ vohwz.com
 voicebel.s-cream.com
 voicecenterjunosec.wixsite.com
 voicefrfb.sbs
+voiceless-turquoise-luovajiz-dpmzlcrhhj8z.edgeone.dev
 voicemail-deliverynotification123456.pages.dev
 voicemail001.weebly.com
 voicemailgmtel.weebly.com
@@ -20992,6 +20839,7 @@ volksmark-system.com
 volksvermogen-netherlands.com
 volksvermogen.live
 volksvermogen.net
+volkswagen-bank.bancadigital.com.mx
 volkswagen.comexport.com.br
 volleebrie.cyou
 vollreifenz.net
@@ -21330,7 +21178,6 @@ vp4.j9ylbz.qpon
 vpazs.com
 vpbifkinaxzdnkilf9sjx0d4h1p4gns34-h15.vercel.app
 vpchurch.net
-vpcnode-whatsapp.com
 vphimmoii.com
 vpisz.com.pl
 vpixeli.zajistenainvestice.com
@@ -21483,7 +21330,6 @@ vub-appsk.web.app
 vucipo.lovable.app
 vucocea.pro
 vuelno-xarizo.com
-vuestay-dashboard.pages.dev
 vufefao.com
 vufisslink.site
 vuguhya.com
@@ -21502,6 +21348,7 @@ vulgasmuss.cyou
 vulgatffesrelaters.info
 vulkrad.shop
 vulnbrain.com
+vulnerabilitycenter.sautersec.com
 vulnesciam.click
 vultrisolmexplatform.com
 vumerii.com
@@ -21551,6 +21398,7 @@ vwwilgem.shop
 vwx-yz.fit
 vx.yo3jle.lat
 vx5.t2ltdy.top
+vx8go-5e3rk-0e80-mt2v9f-gf5bf.pages.dev
 vxarc.com
 vxb3j.info
 vxcvngfdthfdxzwe.weebly.com
@@ -21607,6 +21455,7 @@ vynputerm.site
 vynqo.info
 vynrepotra.site
 vyntrora.net
+vyp-80x.pages.dev
 vyplatatrznikovtrade.com
 vypunay.com
 vyranivotrade-de.com
@@ -21971,6 +21820,7 @@ wareversandt.de
 wargeteher.lovable.app
 warkop89.org
 warm-cairn.com
+warm-harbor-370f-a4986f96.pages.dev
 warm-mire.com
 warm-ode.com
 warm-praline-eb6560.netlify.app
@@ -22079,10 +21929,6 @@ wascontainer.com
 washerwar.myamishcountry.com
 washlariqqat.info
 washtrust-btbanking.biz
-wasiktaadmin-dpa02y877lgg.edgeone.dev
-wasiktaadmin-dpgar6w3d8eq.edgeone.dev
-wasiktaadmin-dpm8u1wy4m31.edgeone.dev
-wasiktaadmin-dpphihgcf39o.edgeone.dev
 wasiu.standard.us-east-1.oortstorages.com
 wasperfecie.lovable.app
 waspeze.com
@@ -22346,6 +22192,7 @@ wealthvalel.live
 wealthwalletcore.net
 wealthwave-solution.com
 wealthwiseinvestments.shop
+wealthy-magenta-as4e6c6i-dp21vv7t66x2.edgeone.dev
 weamaweowlsweopq.site
 weankdwopadoap.com
 wearagainshop.shop
@@ -22447,7 +22294,6 @@ web.tegtlm.top
 web.tegtls.top
 web.tegtqk.top
 web.tegujl.top
-web.tegvrx.top
 web.tegwck.top
 web.tegxmd.top
 web.tegykg.top
@@ -22518,6 +22364,7 @@ webcore-desktop.wixstudio.com
 webcrawlies.com
 webcurrant.gnakrydev.com
 webcustomdesign.store
+webdaohang-net.pages.dev
 webdded.weebly.com
 webddeupgrding.weebly.com
 webdekundencen.weebly.com
@@ -22546,7 +22393,6 @@ webjidi.com
 webjob-whatsapp.com
 webkatowice.weebly.com
 weblab83.shop
-weblives.wixstudio.com
 webmagnetmarketing.com
 webmaiilshaw.weebly.com
 webmaiiltwcrooadrunnerspectrum.weebly.com
@@ -22686,8 +22532,6 @@ websbc-caird.nicholaiso.com
 websbc-caird.paorick.com
 websbc-caird.perousol.com
 websbring.fawesomeapp.com
-webscala-whatsapp.com
-webschema-whatsapp.com
 websdiidoadsfuiwrirjsif.site
 websdwersfidufsdposfl.site
 websecure-clients-fr.com
@@ -22754,6 +22598,7 @@ webuphldio.wixstudio.com
 webuycarz.net
 webuyworkshopequipment.com
 webvideotron12.weebly.com
+webvpn.veeivox.at
 webwehda.webflow.io
 webwide-de.weebly.com
 webxtestsolve.pages.dev
@@ -22778,16 +22623,15 @@ wedgeworld.click
 wedjiosdpakdsoaplaod.site
 wedkarski.live
 wedlpppepre.site
-weea4-8rd-s2nh-35d3o-02-10-2026-aa.pages.dev
 weeakadsjoper.site
 weearlordsamatols.info
 weedfreegardening.com
 weeeeeeebsuppoort495858686969939484854.s3.eu-central-3.ionoscloud.com
 weeeshooa.com
-weekbell.com
 weekdaypolska.pl
 weekendwardrobe.shop
 weekly-methods-093713.framer.app
+weeklyreport-dpcqtpazeznl.edgeone.dev
 weeklywhat.com
 weeknedzoff.com
 weekshoneyfarm.live
@@ -22984,7 +22828,6 @@ wemailacmontpellierfristatic0110nalldomainlayoutoginbrodcs.weebly.com
 wemailacmontpellierfrivcstatic0c110nalldomainlayoutoginfrance.weebly.com
 wemajai.pro
 wemamsdkkwioweioadi.site
-wemecat12.com
 wemem.weebly.com
 wemiadkiaodka.site
 wemsast.weebly.com
@@ -23246,6 +23089,7 @@ westonfinlore.shop
 westpac.gr.com
 westpacba.at
 westpacificcoatings.github.io
+westpalmeliteroofing.com
 westporch.eu
 westportcorner.eu
 westprimemarket.net
@@ -23313,7 +23157,6 @@ wexvino.shop
 weyihasweiadad.site
 weynuoligzare.pro
 weyouandtech.com
-weyrauchmail.com
 wezevibo.duckdns.org
 wf.dash04client.co
 wf.managepci.com
@@ -23363,7 +23206,6 @@ whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-gruppo-connect.com
 whatsapp-iamsuyash.vercel.app
-whatsapp-inbox-zooming-zoomedout.com.ph
 whatsapp-link-momxx.pages.dev
 whatsapp-verify.blogspot.com
 whatsapp.asquarelabs.com
@@ -23453,6 +23295,7 @@ whitewazzlls.guru
 whiteyellowservices.com
 whitney-faulkner-movie.com
 whiz-practice.com
+whm.eqxggadmin.api.as.152-53-37-155.plesk.page
 whnamo.com
 who-is-mike.com
 whogarcia.com
@@ -23564,6 +23407,7 @@ wigypuuebyho.autos
 wih83912-g43.lat
 wiholl.store
 wihyjayn.com
+wii.wixtuit.net
 wiise.site
 wiitrade.com
 wiix0-2e05c-htxm-pyz37h-121wfm.pages.dev
@@ -23575,8 +23419,6 @@ wiki-maxis.shop
 wiki-padei.click
 wilainaiasteamworkspace.myclickfunnels.com
 wilcza-editorial-space.lovable.app
-wild-azure-32hewjsl-dpun48lgoqtb.edgeone.dev
-wild-bronze-qiodehxb-dpxncx4urv1t.edgeone.dev
 wild-crystal.com
 wild-thicket.com
 wildassetfort.org
@@ -23615,7 +23457,6 @@ wildwilli.com
 wildwoodearth.cafe
 wilhedenit.cyou
 wiliaan.xyz
-wiliseedetrition.info
 will-fuller.com
 will-test.site
 willaby.eu
@@ -23630,9 +23471,10 @@ willingoat.net
 willipolec.cyou
 willlambe.shop
 willow-fabric.shop
-willow-grove-520b-86f157b5.pages.dev
-willow-grove-fc7d-33196b3d.pages.dev
+willow-orchard-c31c-b1e70424.pages.dev
+willow-orchard-fcc4-37b5343d.pages.dev
 willow-pine-5bf6-fe25b090.pages.dev
+willow-sparrow-fbdf-12e1f0a9.pages.dev
 willowandco.eu
 willowandhome.eu
 willowandpine.eu
@@ -23666,7 +23508,7 @@ wilsonpost13.com
 wilsonvietnam.com
 wiltshirebincleaning.com
 wilvadero.shop
-wily-peach-askgrqoz-dp9s0ywm1jh4.edgeone.dev
+wily-blush-1sk3hnen-dpso56ckktir.edgeone.dev
 wimboren.cfd
 wimegeunlei.click
 wimsettoswald.shop
@@ -23803,7 +23645,6 @@ wise-favorites-144332.framer.app
 wise-gleam.com
 wise-grocery-039464.framer.app
 wise-lesson.com
-wise-lime-lkko65cf-dptzthfqvmdh.edgeone.dev
 wise-pathfinder.com
 wise-process-863967.framer.app
 wise.binjaikia.shop
@@ -23934,6 +23775,7 @@ wl07.com
 wl9120.shop
 wladze-pkobiznes.com
 wladze-pl.com
+wladze-pl.net
 wlasnakolejzrt.site
 wlasnaprzestrzenkorevixa.site
 wlasnawyspakrtqmdzien.site
@@ -23972,7 +23814,6 @@ wmyvgr.element72.buzz
 wmyvgr.odcinek86.forum
 wmyvgr.ramka31.forum
 wnbee.com
-wndred.org
 wnekaoiaoelak3e.site
 wnetelio.shop
 wnetivo.shop
@@ -24234,6 +24075,7 @@ workclothesvipqx.shop
 workcoa.digital
 workcon.live
 workcontrolcenter.pages.dev
+workers-playground-silent-breeze-8d67.nazmiemrekarakaya.workers.dev
 workersday.byrontattoo.com
 workflow-methods-696c.2600714155.workers.dev
 workflowdocs.vu
@@ -24305,6 +24147,7 @@ worldinsightfeed.com
 worldinsightva.info
 worldinsightwire.com
 worldintelledger.com
+worldlabmega.top
 worldlcorner.kamankong.com
 worldledgerx.com
 worldlieddst.info
@@ -24351,6 +24194,7 @@ worldupdatedesk.com
 worldupdatehub.xyz
 worldwagile.losangelesfamilylawlawyer.com
 worldwide-dhl.shop
+worldwide-gold-ivz6vt5a-dp5br9sn61tj.edgeone.dev
 worldwide-order.help
 worldwideinsightsreport.com
 worldwidepresswire.com
@@ -24368,6 +24212,7 @@ worthaposa.cyou
 worthenripenance.net
 worthives.shop
 worththesqueeze.com
+worthy-blue-t4nmkl3a-dp5n4zmdyyun.edgeone.dev
 worthy-breakfast-708182.framer.app
 worthy-pentagon-845762.framer.app
 worvaqel-biz-zormireta-h2t6pc94.pages.dev
@@ -24602,7 +24447,6 @@ wusanue.pro
 wuvematrix.site
 wuweizhe.com
 wuwydiy.com
-wuxiants531.com
 wuzameda.net
 wuzanjo.online
 wuzheshijue.cyou
@@ -24673,7 +24517,6 @@ www-google-vip.com
 www-google-vipd.com
 www-google-vipp.com
 www-google.cn
-www-icloud-mx.help
 www-id-me.viewonlineid-me.gr.com
 www-ipva-sp-online-2023.blogspot.com
 www-kapitall.xyz
@@ -24768,6 +24611,7 @@ www.ajpareksn.com
 www.ajxnksbctj.shop
 www.akaiideas.com
 www.akarispace.shop
+www.akashbajwa.co
 www.akcesoria24.com
 www.aktien-global.de
 www.albcschool.edu
@@ -24836,12 +24680,12 @@ www.allegrolokalnie.15334265x2.sbs
 www.allegrolokalnie.162616.click
 www.allegrolokalnie.7418541.cfd
 www.allegrolokalnie.76424.top
-www.allegrolokalnie.8549431021-g4.shop
 www.allegrolokalnie.agile-107.cfd
 www.allegrolokalnie.html-produkt34894389.top
 www.allegrolokalnie.ofert83481.shop
 www.allegrolokalnie.oferta3059264949.shop
 www.allegrolokalnie.pi-ogioszenie3287467121.shop
+www.allegrolokalnie.pi-ogioszenie943302.top
 www.allegrolokalnie.pl-234832.click
 www.allegrolokalnie.pl-25294.click
 www.allegrolokalnie.pl-489689124.lol
@@ -24938,6 +24782,7 @@ www.authsso.productoselbosque.com
 www.autoakcesja.com
 www.automagazin.rs
 www.autoprofithub.ai
+www.averyberkel.com
 www.avisprimevideo-notification.com
 www.awscfdns.com
 www.axtraweb.com
@@ -24951,6 +24796,7 @@ www.bacfinancial.biz
 www.bagmarket.shop
 www.balenciaga-polska.pl
 www.banbenx.com
+www.bankaool-outlet.ph
 www.bankd.me
 www.bapespolska.pl
 www.barbaraferri.shop
@@ -25015,14 +24861,12 @@ www.bitfurytechinvestment.com
 www.bizuuretails.shop
 www.blgolbuy.shop
 www.blikshop.shop
-www.bljmg.com
 www.bloomvibes.shop
 www.bmwmtvip2026.shop
 www.bogodeal.shop
 www.bonmivo.shop
 www.bonnoces.com
 www.bonussale.shop
-www.booking-hotel.co.il
 www.booking.mrityunjyatourism.com
 www.bootsoutletpolska.com
 www.bose-polska.com
@@ -25166,6 +25010,7 @@ www.conservationphotographynamibia.com
 www.consorziocostacorallina.it
 www.contractcloudsecure.com
 www.converse-polska.pl
+www.conversepolska.pl
 www.conviviumcucine.it
 www.conwqoisseur.shop
 www.cool-solar-africa.com
@@ -25211,7 +25056,6 @@ www.ctt-transit.com
 www.cueful.shop
 www.currently-com-fastweb-webser-srv-service-xfvdj94zboj-webserv.trustable.co.za
 www.cuscatla-digital.online
-www.cuttingedgesys.com
 www.cvbjodgklr.shop
 www.cvvgsidqop.shop
 www.cxkjlser.shop
@@ -25253,6 +25097,7 @@ www.desertvalleyoralsurgery.com
 www.designskou.com
 www.desigual-outlet.pl
 www.detectiveagencyinbangalore.in
+www.dfsfiles.com
 www.dfyne-polska.com.pl
 www.dfyne-polska.pl
 www.dfynepolska-pl.com
@@ -25303,7 +25148,6 @@ www.dowedz-finanse.com
 www.doz.life
 www.dpdlocabg.top
 www.dpdlocabx.top
-www.dpdlocagb.top
 www.dpdlocahb.cyou
 www.dpdlocahd.cyou
 www.dpdlocahi.shop
@@ -25312,7 +25156,6 @@ www.dpdlocahx.shop
 www.dpdlocajk.top
 www.dpdlocajq.cyou
 www.dpdlocakg.cyou
-www.dpdlocakh.shop
 www.dpdlocakj.cyou
 www.dpdlocakl.cyou
 www.dpdlocakqa.shop
@@ -25398,6 +25241,7 @@ www.dueblue.online
 www.dumazs.com
 www.dunelondon-eu.com
 www.duyfhasdjk.shop
+www.e-tabs.com
 www.e8-okx-pc.net
 www.eaer.top
 www.easybittrade.com
@@ -25419,7 +25263,6 @@ www.ekoi-fr.shop
 www.ekopolska.shop
 www.ekstrarabaty.shop
 www.ekun365.com
-www.elariaa.com
 www.elarove.shop
 www.eleganox.shop
 www.elegiora.shop
@@ -25462,6 +25305,7 @@ www.esomene.com
 www.esotiq-pl.shop
 www.espace-compte-disneyplus.com
 www.esstiwfiveten.top
+www.etabsltd.co.uk
 www.etaet.shop
 www.etgihszgbsdiuh.com
 www.ethericwaves.shop
@@ -25516,7 +25360,9 @@ www.fashionzonepl.shop
 www.fast-online.store
 www.fastinvest.net
 www.favosh.shop
+www.fctradinggroup.com
 www.fcwhlw.com
+www.fdbmqx40.vip
 www.fdjgkdfjklg.shop
 www.fdkky26sd7df22de.shop
 www.fdueh.shop
@@ -25840,6 +25686,7 @@ www.info-saisonpotal.com
 www.info4572531.pro
 www.infopakkhl-ee.com
 www.ingrdfarmro.com
+www.inmo.ie
 www.inouecraft.com
 www.inrleiot.com
 www.instagram-clone-master-three.vercel.app
@@ -25982,6 +25829,7 @@ www.la-sportivapolska.pl
 www.laboratoriocusmai.it
 www.lacoste-polska.pl
 www.ladugyi.pro
+www.lagoinhavalinhos.com
 www.laikironextrade.com
 www.laliradepozuelo.es
 www.lamania-home-sale.com
@@ -26045,7 +25893,6 @@ www.locroa.shop
 www.loewes.pl
 www.loftora.shop
 www.login-c.net
-www.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 www.logitechs.pl
 www.logmedo.com
 www.logodesiqn.com
@@ -26252,7 +26099,6 @@ www.mokuxvzai.shop
 www.mokvuvi.shop
 www.mokxcau.shop
 www.mollyharding.shop
-www.mon-colisrelais.com
 www.mon-espace-renouvellement-info.com
 www.monaccmonthly.com
 www.moneluxe.shop
@@ -26274,6 +26120,7 @@ www.moto-parts24.com
 www.moulddesign.shop
 www.movielocations.de.cool
 www.movo-lab.shop
+www.mp4moviez.deal
 www.mrelay-pickup.com
 www.mrelays-redirection.com
 www.msradix.com
@@ -26380,6 +26227,7 @@ www.occamedgetech.com
 www.odp-strawtv.com
 www.odpsodo.biz
 www.odtubirder.org
+www.oferta9452.shop
 www.ofertyhit.shop
 www.ofertyzone.shop
 www.off-whites.pl
@@ -26569,6 +26417,7 @@ www.pl-ritualsbeat.shop
 www.plainattirev.com
 www.planetasport-rs.shop
 www.planetenglish.jp
+www.plastic-iq.com
 www.playlistcorridabradesco.com
 www.playlistmotivacionalbradesco.com
 www.plkeunoio.com
@@ -27061,7 +26910,6 @@ www.taimousetvs.com
 www.takumiwhome.shop
 www.tamasmoro.shop
 www.tanerio.shop
-www.tangarina.com
 www.taniamoda.shop
 www.taniecentrum.shop
 www.taniehity.shop
@@ -27485,10 +27333,8 @@ wwwmaxiserer.cyou
 wwwmaxisgiftpoints.us.cc
 wwwmaxmy.top
 wwwmaxpointsprogram.us.cc
-wwwmaxsil.top
 wwwmbank-secure.por-online.website
 wwwmbank.por-online.website
-wwwsimonesbrightcomau-dbs.pages.dev
 wwwww-dpe7gpnooou7.edgeone.dev
 wwwwwwplpllllpppllpppl.com
 wwxhajudjgwjklckvzgs1.firebaseapp.com
@@ -27516,6 +27362,7 @@ wwxhajudjgwjklckvzgs8.web.app
 wwxhajudjgwjklckvzgs9.firebaseapp.com
 wwxhajudjgwjklckvzgs9.web.app
 wwzai.space
+wx546h72aqae8.dilocs.shop
 wx9y.com
 wxcpv.b2bfzb.cfd
 wxems.com
@@ -27622,6 +27469,7 @@ wzrostportfinexsolution-com.pages.dev
 wzrostportfinexsolution.com
 wzsw.store
 wzvnhvro.shop
+x-card-eta.vercel.app
 x-com.help
 x-com.live
 x-fy.weebly.com
@@ -27734,6 +27582,7 @@ x9qt2mv.qpon
 x9wt3mq.skin
 xa-pqr.fit
 xa-pqr.net
+xaaee.pages.dev
 xabivya.pro
 xabrilonorbit.com
 xachaiqian.com
@@ -27881,6 +27730,7 @@ xboaew.shop
 xbsswmy.com
 xbt-iplex-ai.com
 xbtiplexai.org
+xbxx.pics
 xc29.pm7cui.cfd
 xcajj.com
 xcamczz.weebly.com
@@ -27905,7 +27755,6 @@ xcxbj.com
 xcxnc.com
 xczjx.com
 xd.d7ntof.cfd
-xd33.top
 xd3lz.z8wnap.cfd
 xddgffgdgdryt.weebly.com
 xdebiiot.shop
@@ -27989,7 +27838,6 @@ xemprechain.site
 xempreterm.site
 xemprifuel.site
 xemptelane.site
-xenacious-aqua-ikpjvg7x-dp06ujjcu5wj.edgeone.dev
 xendupi.shop
 xenemoe.pro
 xenetics.xenproductions.co.in
@@ -28015,7 +27863,7 @@ xenocrystal.work
 xenodrivegear.site
 xenoforge.site
 xenogear.blog
-xenogeneic-scarlet-nmhd690e-dpz1jidkkr0r.edgeone.dev
+xenogeneic-crimson-iubarpk8-dp56383jr35t.edgeone.dev
 xenogovia.site
 xenohub.shop
 xenojwore.site
@@ -28053,10 +27901,10 @@ xenvorpulse.org
 xenvorpulsetrade.com
 xenwor.com
 xeqoris.net
+xerc20.pro
 xereterexys-ai-de.com
 xereterexys.click
 xerholding.com
-xeric-azure-bo1edcb2-dpufuuki87ib.edgeone.dev
 xeriodfosdjosdlopasi.site
 xerion-tech.shop
 xerlita.cfd
@@ -28209,7 +28057,6 @@ xianwjpbx.com
 xiaojf.com
 xiaoniucloud.com
 xiaovips.com
-xiaoyu.asia
 xicsd.com
 xiditav.pro
 xidufay.com
@@ -28239,6 +28086,12 @@ xinkizythex.com
 xinlei188.com
 xinxro.com
 xinzhanzhen.com
+xinzhou11.pics
+xinzhou22.pics
+xinzhou44.pics
+xinzhou66.pics
+xinzhou88.pics
+xinzhou99.pics
 xion-net.com
 xioncast.site
 xioneon.site
@@ -28288,7 +28141,6 @@ xjhiq.com
 xjkangdi.com
 xjkfhq.com
 xjmlf.com
-xjr.deq.temporary.site
 xjusdwlo.shop
 xjxmjg.com
 xjybb.com
@@ -28311,7 +28163,6 @@ xlgldg.com
 xlgmortgage.com
 xljgj.com
 xlkkj.com
-xlnfinity.weebly.com
 xloaifw.com
 xlp-amz.eu.cc
 xlssq.com
@@ -28700,7 +28551,9 @@ xn--mantenimentgencatwebactualitzaci-med.weebly.com
 xn--mdfile-w4a.com
 xn--medfie-7db.eu
 xn--metropolia-tilinpivitys-c8b.weebly.com
-xn--p-2e5cl32b2mo.com
+xn--p6caax3a3cxabbma5b9hsc0dgw7a0kqau6e7a9n.net
+xn--pblicoscotiabank-catho-hkc.com.ph
+xn--q6cjbb8fe4cf2c4a1b0ci6jd2fk5b.net
 xn--quipedemessagerie-9sb.weebly.com
 xn--quipedesoutienmunca-9yb.weebly.com
 xn--registre-entreprise-franaise-bqc.fr
@@ -28714,7 +28567,6 @@ xn--vidotrom-d1a.weebly.com
 xn--wescm-mua.com
 xn--www-ldger-uqd.com
 xn--wyprzedaspecjalna-3yd.pl
-xn--z6ut02b9wn23n.com
 xn--zb0b93v.weebly.com
 xn--zb0bnwz33e.weebly.com
 xn--zxxserveidassistnciapercorreuxx0213-pcd.weebly.com
@@ -28868,7 +28720,6 @@ xsfad.com
 xshaw.weebly.com
 xshrr.com
 xsivok-gloma-8pu59a-cjbyh-1rs238.pages.dev
-xskill-dpkyu09r2rxj.edgeone.dev
 xsorex.com
 xsphexdrive.site
 xsqaa.com
@@ -28956,6 +28807,7 @@ xuefuguoji.com
 xuehouqi.com
 xuesj.com
 xuhywoo.com
+xui295.com
 xukijia.com
 xukkp231.my.id
 xuldran.shop
@@ -29204,7 +29056,6 @@ y9new1.duckdns.org
 ya0poaiu-0a9.weebly.com
 ya804x.jpbrazs.com
 yaaneesglamourlashes.com
-yabbering-azure-u8hiakbs-dp5dwe1r4lfh.edgeone.dev
 yaboyule385.icu
 yachi.truckeeyp.com
 yachtcln.com
@@ -29227,6 +29078,7 @@ yaien.de
 yakadoeng.com
 yakanvillage.com
 yakapark.ist
+yake-hose.pages.dev
 yakevo.icu
 yakindukkan.com
 yakinmiat.com
@@ -29264,6 +29116,7 @@ yapayzekaveotomasyon.com
 yapayzekavideolari.com
 yapheating.com
 yapixsuper.icu
+yappy-chocolate-sacyuihw-dpttb5gt6ydo.edgeone.dev
 yaq5to.element72.buzz
 yaq5to.odcinek86.forum
 yaquiesta.estuyo.club
@@ -29358,9 +29211,12 @@ ydmzxc.com
 ydshipin.com
 ydswf.com
 ye-zi.casa
+ye73ye.yachts
 yeahsara.com
 yearinformal.frebors.com
 yeasayersssnudniks.info
+yeasty-aquamarine-rzzvwjwa-dpebjbg46lj8.edgeone.dev
+yeasty-orange-ouwtayma-dpm81sby4jii.edgeone.dev
 yeayi.com
 yebdg.1nj2wje.pics
 yebreniolate.pro
@@ -29445,6 +29301,7 @@ yewfra.click
 yewkharb.shop
 yexorimavol.online
 yeydynoxqryw.top
+yeyintryamana.org
 yezi.casa
 yfcmnngv.shop
 yfive.finance
@@ -29466,6 +29323,7 @@ yglxd.com
 ygrmedia.com
 ygtfrd.fit
 ygvaeqxi.shop
+yhb-oof.pages.dev
 yhbhfdmmm.site
 yhdhdggd979.square.site
 yhdoxasdfrkswlapdsfty.com
@@ -29575,8 +29433,6 @@ ylfhok.com
 ylfto.com
 ylhthydp.com
 yljpl.com
-ylktp125bf-qjrshskr-6p5k1g-ylkq78c.pages.dev
-ylktp41vnx-qjrsh84mkg-9p2k3g-bcf17p.pages.dev
 ylkyrvbt.shop
 ylpxt2c31pz-jmkslsi-1v8t2b-ylpkr68c.pages.dev
 ylpxt3cqzgo-jmkslsi-1v0t4b-ylpkr01c3t3.pages.dev
@@ -29727,6 +29583,7 @@ youkabao.com
 youkong.cv
 youmoltbot.com
 youneedawebsite.net
+young-blue-e66utfrg-dp6mg1807rma.edgeone.dev
 younganiso.cyou
 youngcancercaregivers.com
 younglifeterlik.com
@@ -29793,7 +29650,6 @@ youthegratusegood.firebaseapp.com
 youthegratusegood.web.app
 youthful-venus-072764.framer.app
 youthraddi.cyou
-youtube-scotiabank.ph
 youunfold.info
 youwentviral.weebly.com
 youzanzi.com
@@ -29860,7 +29716,6 @@ ysjfzdfqx.com
 ysjingsheng.com
 yskip.bessts-diplomas.com
 yslzw.com
-ysmgraphics.com
 ysmingbiao.com
 ysmokee.bullshityourbrain.com
 ysnproje.com
@@ -29898,6 +29753,7 @@ ytouc.soylon.com
 ytrieosjfisdfiuwofri.site
 ytrtyuytuyt.weebly.com
 ytruiworjsfisodiewrjsdi.site
+yts4.pics
 ytskw.com
 ytterbic-amber-qilwigl2.edgeone.dev
 ytterdisav.cyou
@@ -29930,6 +29786,9 @@ yucattan.weebly.com
 yuccascarf.com
 yuceyatsal.com
 yuceyatsal.digital
+yuci44.pics
+yuci55.pics
+yuci77.pics
 yuciliu.shop
 yucral.co
 yuece-invix-soft.com
@@ -29970,6 +29829,10 @@ yulveratik.info
 yummy-diplodocus-081216.framer.app
 yummy.yumypoolm.lat
 yumware.store
+yuncheng22.pics
+yuncheng44.pics
+yuncheng88.pics
+yuncheng99.pics
 yundonghui.com
 yunfon.com
 yunhonghuoyun.com
@@ -30014,3 +29877,140 @@ yvan-terros.s34719.pro
 yveseisen.shop
 yvjwmucy.shop
 yvlexa.info
+yvmijssz.shop
+yvocvo.shop
+yvoiceu.templevisits.com
+yvondarlek.net
+yvscw3x.top
+yvuybnuo.firebaseapp.com
+yvuybnuo.web.app
+ywedaduadyandyadud.site
+ywegd.4lll4ed.pics
+ywegd.m4k9ep.hair
+ywgrow.com
+ywjdocmd.shop
+ywowssscs.com
+ywruejaduiaeoaidwr.site
+ywsiodhdsksmlk.weebly.com
+ywtzj.com
+ywurdahyaeuaiduwir.site
+ywuymunqudyez.eu
+ywxxz.com
+yxcast.com
+yxcx11473.github.io
+yxena766y636o6pz7z7iu3mxhmnnvhyfp7zuwa6zqd4ewzmopvja.ado.0x0.io.vn
+yxflm.com
+yxj6lj9pxd14do2r.click.mailersend.net
+yxjdyvbf.shop
+yxldl.com
+yxmat.urest.org
+yxqty.com
+yxr65t.webwave.dev
+yxykpvuhrimwv.top
+yxzlsb.com
+yy-sj.com
+yy8wxg.top
+yycsgl.com
+yydgs.com
+yydms.com
+yyk.ink
+yylodyqa.shop
+yynxc.com
+yyvvc.com
+yywwm.com
+yyydcjo.cfd
+yyyrsidsufisdaido.site
+yyytts.com
+yyyy44.wixsite.com
+yyyyynittty.weebly.com
+yyzbw.com
+yyzco.com
+yz12375.com
+yzdzj.com
+yzfsqv.com
+yzkzh.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
+yzldj.com
+yzmaoe.com
+yzmaro.digital
+yzqch6z9xyj7gwldwdnp6aqlmnsyzgm41-hiu23.vercel.app
+yzsbz.com
+yzsegd.com
+yzsyyey.com
+yzush.com
+yzvex.digital
+yzycy.com
+yzywzy.com
+z-aokesports.com
+z-facebook.blogspot.com
+z-instagram.blogspot.com
+z-m-h.com
+z-m7kp.shop
+z-r9kd.cyou
+z-r9kd.shop
+z-r9kd.site
+z00fibh.pics
+z1n8qw.lat
+z1r5qp.lat
+z1u.podatk.com
+z2g298-xine-q9l-dgguiu-tp5bsx.pages.dev
+z2mv8qx.skin
+z2nr7i.webwave.dev
+z2p9hc.lat
+z2pfrw.fit
+z2pfrw.wiki
+z2qv7mn.casa
+z2qx8mp.skin
+z2w59.zg7wnt.casa
+z2whjt.casa
+z2y7mc.lat
+z364o1.info
+z3d-aq.fit
+z3f7q4n.pics
+z3qx9mr.casa
+z3r7w5q.pics
+z3vqalyx-platform.com
+z3vqalyx.digital
+z3vqalyx.net
+z3vqalyx.sbs
+z4c7mv.lat
+z4m7cp.lat
+z4mn9qp.casa
+z4mv9kx.skin
+z4nzqc.sbs
+z4ocea.qpon
+z4qm2xn.skin
+z4qm7xn.skin
+z4wq-m.fit
+z4wq-m.shop
+z4xr9mt.skin
+z4xt9qm.skin
+z54e30nps12yacho-vvemauifdcclp7azcabhfg.vercel.app
+z568zimbra.weebly.com
+z5cw.oferta12x.lat
+z5k9w3q.lol
+z5mx9qn.skin
+z5n5ze.duckdns.org
+z5p2bx.lat
+z5trqp.fit
+z5wpxo.fit
+z5x2c9v1b7n3m8k4j0h6g2f1u0l1-ahbkz5cnlt.edgeone.app
+z6.eb8rvu.top
+z6453i.status-konta939231.pl
+z6bkzs.cfd
+z6jnor.kspawals.homes
+z6nmpf.fit
+z6qt2mx.skin
+z6qw2xn.qpon
+z6qx3mp.skin
+z78m.pics
+z7blzj.casa
+z7mr4xn.skin
+z7mv4xt.qpon
+z7p8uccod.duckdns.org
+z7qm3xt.skin
+z7qn4xr.qpon
+z7x1rna.cfd
+z7xp6mq.skin
+z7xq5mt.skin
+z88de3.webwave.dev
+z8d9.kurierp0lska.click
