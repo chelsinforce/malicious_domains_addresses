@@ -1,12 +1,12 @@
 # Aggregated malicious domains blocklist
-# Generated: 2026-11-02T17:05:49.289Z
-# Segment: af (6/6) | Entries in this file: 1028 | Total in full list: 151028
+# Generated: 2026-11-02T23:05:49.598Z
+# Segment: af (6/6) | Entries in this file: 1015 | Total in full list: 151015
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
 # Sources and attributions:
 #   - Andrea Draghetti - Phishing Army | CC BY-NC 4.0
-#     151028 valid, 151028 new after dedup | OK
+#     151015 valid, 151015 new after dedup | OK
 #     https://phishing.army/download/phishing_army_blocklist_extended.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -14,21 +14,6 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
-ziskplus-ai.com
-zisksoftware.digital
-zisktradexplatform.com
-ziskvaltura.click
-ziskvalturaai.live
-ziskvalturasoftware.com
-ziskvlatura.live
-ziskvynosovanz-pro.pages.dev
-ziskvynosovanz.pro
-zisodei.com
-zisoro.com
-zisosfowernajdosf.site
-zitco.ir
-zittapasse.cyou
-zittiinter.cyou
 ziugovpl.ph
 zivancore-ch.com
 zivancore-de.live
@@ -115,6 +100,7 @@ zlatovin.live
 zlatovin.shop
 zlatovinsystem.digital
 zlatreldetrx.net
+zlaturnaaktivnik.org
 zlatydohodok.com
 zlatylevtrade.com
 zlbzlb.top
@@ -177,6 +163,7 @@ zmurkenaun-finland.sbs
 zmurkenaun-netherlands.sbs
 zmurkenaun-spain.sbs
 zmurkenaun.net
+zmutarilka.net
 zmutreldon.net
 zmzh.shrinkpopsecretbutton.monster
 zn.j9vnfc.casa
@@ -303,6 +290,7 @@ zomzone.tech
 zona-area.ed-intra.com
 zonaeventmaterials.web.id
 zonajim.shop
+zonal-gold-6j8kqaha-dpy38ciw0xw1.edgeone.dev
 zonaluxbit-app.click
 zonaluxbit.net
 zonaluxbitapp.com
@@ -612,7 +600,6 @@ zubrkapitoven.net
 zuccheroerosa.com
 zucchinielem.meet-emma.com
 zuche0916.com
-zuckerschmuck.com
 zucogeaxa.autos
 zufijiyti.autos
 zugangsnotfall.net
